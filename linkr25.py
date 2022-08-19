@@ -1,10 +1,17 @@
 #! /usr/bin/python
+"""sumary_line
+
+Keyword arguments:
+argument -- description
+Return: return_description
+"""
+
 import os
 from datetime import date
+from linkr import TFILE
 
 ARTDIR = '/final/'
 TAGS: str = ''
-TFILE = 'TAGS.csv'
 base_dir = os.path.abspath(os.path.dirname(__file__))
 arts = base_dir + ARTDIR
 

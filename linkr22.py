@@ -1,4 +1,11 @@
 #! /usr/bin/python
+"""sumary_line
+
+Keyword arguments:
+argument -- description
+Return: return_description
+"""
+
 import json
 import io
 import os
@@ -8,23 +15,21 @@ from datetime import date
 
 import frontmatter as fm
 import yamldown
+from linkr import ARTDIR, TFILE
 
-artdir = '/vault/'
 TAGS: str = ''
-tfile = 'TAGS.csv'
 base_dir = os.path.abspath(os.path.dirname(__file__))
-arts = base_dir + artdir
+arts = base_dir + ARTDIR
 
 
 def resub(tag, line):
-    return re.sub(tag, "[[" + tag + "]]", line)
+    return re.sub(tag, f"[[{tag}]]", line)
 
 
 def get_tagfile():
-    with open(tfile, "r") as tagfile:
+    with open(TFILE, "r") as tagfile:
         j = tagfile.read()
-        h = j.split(",")
-        return h
+        return j.split(",")
 
 
 def load_folder():
@@ -57,11 +62,8 @@ def check_tags(afile, tag):
 load_folder()
 
 for filename in os.listdir(arts):
-    if filename.endswith(".md"):
-        afile = str(filename)
-    else:
-        afile = None
-    with open(tfile, "r") as tagfile:
+    afile = str(filename) if filename.endswith(".md") else None
+    with open(TFILE, "r") as tagfile:
         j = tagfile.read()
         h = j.split(",")
         print(f"Checking : {afile} ")

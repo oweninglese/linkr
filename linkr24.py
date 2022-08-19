@@ -8,17 +8,15 @@ Return: return_description
 
 import os
 import re
+from linkr import ARTDIR, TFILE
 
 import frontmatter as fm
-# import yamldown as yd
+import yamldown as yd
 
-ARTDIR = '/vault/'
+from linkr import ARTDIR, TFILE
 TAGS: str = ''
-TFILE = 'linkr/TAGS.csv'
 base_dir = os.path.abspath(os.path.dirname(__file__))
 arts = base_dir + ARTDIR
-TEST = """Aboriginal Peoples and Comprehensive Land Claims Negotiations
-in Canada.md"""
 
 
 def load_folder():

@@ -1,11 +1,18 @@
 #! /usr/bin/python
+""" begin
+
+    Returns:
+        _type_: _description_
+"""
+
 import os
 import re
 from datetime import date
-
 import frontmatter as fm
-from linkr26 import ARTDIR, TFILE
 
+ARTDIR = '/vault/'
+TAGS: str = ''
+TFILE = 'linkr/TAGS.csv'
 TAGS: str = ''
 base_dir = os.path.abspath(os.path.dirname(__file__))
 arts = base_dir + ARTDIR
@@ -92,9 +99,9 @@ def check_tags(afile, tag):
 load_folder()
 
 for fame in os.listdir(arts):
-    afile = str(fame) if fame.endswith(".md") else None
+    allfile = str(fame) if fame.endswith(".md") else None
     with open(TFILE, "r", encoding="utf-8") as tagfile:
         j = tagfile.read()
         h = j.split(",")
         for ick in h:
-            check_tags(afile, ick)
+            check_tags(allfile, ick)

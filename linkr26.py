@@ -7,11 +7,12 @@ Keyword arguments:
 argument -- description
 Return: return_description
 """
+
 import os
+from linkr import TFILE
 
 ARTDIR = '/final/'
 TAGS: str = ''
-TFILE = 'linkr/TAGS.csv'
 base_dir = os.path.abspath(os.path.dirname(__file__))
 arts = base_dir + ARTDIR
 

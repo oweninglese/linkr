@@ -8,23 +8,21 @@ from datetime import date
 
 import frontmatter as fm
 import yamldown
+from linkr import ARTDIR, TFILE
 
-artdir = '/vault/'
 TAGS: str = ''
-tfile = 'TAGS.csv'
 base_dir = os.path.abspath(os.path.dirname(__file__))
 arts = base_dir + artdir
 
 
 def resub(tag, line):
-    return re.sub(tag, "[[" + tag + "]]", line)
+    return re.sub(tag, f"[[{tag}]]", line)
 
 
 def get_tagfile():
     with open(tfile, "r") as tagfile:
         j = tagfile.read()
-        h = j.split(",")
-        return h
+        return j.split(",")
 
 
 def load_folder():
@@ -49,7 +47,6 @@ Returns:
 def check_tags(afile, tag):
     post = fm.load(arts + afile)
     if tag in post.content:
-        print("found tag " + tag)
         post['tags'] += f" #{tag};"
         with open(arts + afile, 'w') as text:
             text.write(fm.dumps(post))
@@ -58,14 +55,10 @@ def check_tags(afile, tag):
 load_folder()
 
 for filename in os.listdir(arts):
-    if filename.endswith(".md"):
-        afile = str(filename)
-    else:
-        afile = None
+    afile = str(filename) if filename.endswith(".md") else None
     with open(tfile, "r") as tagfile:
         j = tagfile.read()
         h = j.split(",")
-        print(f"Checking : {afile} ")
         for i in h:
             check_tags(afile, i)
 
