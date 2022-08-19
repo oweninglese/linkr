@@ -1,0 +1,2058 @@
+---
+
+title: Property Rights, Competition, and Depletion in the Eighteenth-Century Canadian Fur
+Trade: The Role of the European Market
+created: Fri, 16 Jul 2021 02:20:30 UTC
+tags:  
+source: https://www.jstor.org/stable/136445
+author: Ann M. Carlos and Frank D. Lewis
+
+---
+Property Rights, Competition, and Depletion in the Eighteenth-Century Canadian Fur
+Trade: The Role of the European Market
+Author(s): Ann M. Carlos and Frank D. Lewis
+Source: The Canadian Journal of Economics / Revue canadienne d'Economique , May,
+1999, Vol. 32, No. 3 (May, 1999), pp. 705-728
+Published by: Wiley on behalf of the Canadian Economics Association
+Stable URL: https://www.jstor.org/stable/136445
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Wiley and Canadian Economics Association are collaborating with JSTOR to digitize, preserve
+and extend access to The Canadian Journal of Economics / Revue canadienne d'Economique
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+Property rights, competition, and depletion in
+the eighteenth-century Canadian fur trade:
+the role of the European market
+A N N M. C A R L O S University of Colorado
+
+FRAN K D. LEWI S Queen's University
+
+Abstract. Pricing behaviour at three Hudson's Bay Company trading posts is examined
+in terms of a model of long-run profit maximization of a depletable resource. At Fort
+Churchill, where the company acted as a monopsonist purchaser of furs from the Indians,
+rising European fur prices had little impact on prices paid to Indians, and beaver stocks
+in the hinterland were maintained. At Fort Albany and York Factory, where the company
+faced competition from French traders, prices at the posts were raised, and the beaver was
+depleted. These outcomes are consistent with optimal pricing behaviour by the companiy.
+The lack of well-defined Native property rights to the beaver was a crucial element.
+
+Droits de propriete, concurrence et epuisement de la ressource dans le commerce canadien
+desfourrures du 18e siecle: le role du marche europeen. Les auteurs examinent la tarification
+a trois postes de traite de la Compagnie de la Baie d'Hudson 'a l'aide d'un modele de
+maximisation des profits 'a long terme dans l'exploitation d'une ressource epuisable. A Fort
+Churchill, oiu la compagnie agit comme un monopsoneur dans ses achats de fourrures des
+Indiens, les prix europeens 'a la hausse ont peu d'impact sur les prix payes aux Indiens
+et les stocks de castor dans cette r6gion sont maintenus. A Fort Albany et York Factory,
+
+ou la compagnie doit faire face a la concurrence des commerqants francais, les prix von
+
+grimper et les stocks s'epuiser. Ces resultats sont compatibles avec la strategie de tarification
+optimale de la compagnie. Le manque de droits de propriete bien definis sur le castor dans
+le monde aborigene est un element crucial.
+
+1. Introduction
+The trade in Canadian beaver was based on European demand. Furs were shipped
+from Hudson Bay or down the St Lawrence and across the Atlantic eventually to
+
+be transformed into the high-fashion beaver hats that remained popular in England
+Versions of this paper were presented at the Economic History Association meetings and to
+
+workshops at Northwestern, Universidad Carlos III, Universitiit Pompeu Fabra, University College
+Dublin, and the University of Montreal. We are grateful to the participants and to three referees.
+This paper was supported by the Social Sciences and Humanities Research Council of Canada.
+
+Canadian Journal of Economics Revue canadienne d'Economique, Vol. 32, No. 3
+May / mai 1999. Printed in Canada Imprime au Canada
+
+0008-4085 / 99 / 705-28 $1.50 ? Canadian Economics Association
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+706 Ann M. Carlos and Frank D. Lewis
+
+and the Continent for almost two centuries. What happened in the European market,
+moreover, played back into the primary market, shaping Native American reponses
+and determining the level of extraction of the resource. Harold Innis (1956) and E.E.
+Rich (1958), in their seminal works, examined how European companies conducted
+the fur trade, but they downplayed the role of Indian custom and practice. This is
+in contrast to much of the recent research that treats Native groups as central
+
+players rather than passive agents.' Emphasizing the role of Indians is clearly as
+it should be, given that it was they who hunted the animals and sold the furs to
+
+the Europeans. Further, the Native North American experience in the fur trade
+has broad implications for the way institutional arrangements can affect natural
+
+resource use. We have much to learn, therefore, from the interrelationships among
+Native groups and among the Europeans with whom they traded, relationships that
+
+ultimately determined harvesting rates of the beaver and other animals.
+Historians have long been aware that it was the actions of Indians that directly
+
+led to depletion, but recently the question has become: Why did Native peoples not
+
+conserve the fur-bearing animals on which their livelihood was based?2 This issue
+was first addressed in the ethnohistory literature, notably by Calvin Martin, who
+
+specifically rejected an economic explanation for depletion, arguing instead that
+'the mutually courteous relationship between man and animal' had broken down
+
+(Martin 1978, 19). Martin's view that a spiritual rift between man and the animal
+stock was to blame for depletion led to considerable debate and has been generally
+rejected (Krech 1981); but so far no alternative account of Indian behaviour has
+received wide support. In Carlos and Lewis (1993), we contributed to the debate by
+estimating beaver populations in the hinterlands of three Hudson's Bay Company
+
+trading posts over the years 1700 to 1763 (see figures 1 and 2). It is not surprising
+that the introduction of a commercial trade led to a decline in beaver stocks, an
+
+outcome that in itself does not imply depletion.3 But in two of the hinterlands those served by Fort Albany and York Factory - there were further declines, mainly
+in the latter part of the period. By contrast, the population in the Fort Churchill
+
+hinterland remained close to the maximum sustained-yield level. In our paper we
+documented the impact of a French presence near Fort Albany and York Factory.
+Hudson's Bay Company managers raised the prices paid to the Indians for furs and
+the Indians responded with increased harvests. Ultimately, beaver stocks declined,
+but overharvesting occurred only where there was competition between the English
+and the French traders.
+
+In this paper we explore the forces that discouraged conservation by Native
+peoples and European trading companies. An important influence was the rising
+
+demand for furs in Europe.4 We interpret the imDact of this EuroDean demand
+1 For a list of references and a brief discussion of this literature, see Rea (1991, topic 6).
+
+2 Following the conventional interpretation in the natural resource literature, depletion implies an
+animal population below the level that provides the maximum harvest on a sustainable basis. We
+apply the same benchmark to the terms 'overharvesting' and 'overexploitation.'
+
+3 Our estimates of beaver populations are based on harvesting rates of beaver, contemporary discussions of beaver biology, and other evidence (Carlos and Lewis 1993).
+4 There was a market for beaver in Asia and the West Indies, but it was much smaller than the
+European market (Lawson 1943, appendix G).
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+Property rights, competition, and depletion 707
+
+Hudson
+
+FORT Bay
+CHURCHILL
+
+- FACTORYXAC
+
+00 ~ ~ ~ / James
+
+Fon ,>, Fortt > $FACTORY)
+
+00 / ; ~ 1741 Lake - FORT
+Winnipeg /R ALBA
+
+Bay
+
+Fort Fo Albanyr FMOOSE
+
+Dauphin 1741 Maurepas
+HOUSE
+
+-4 TRADE ROUTES Fort rk
+
+ENGLISH, FRENCH La Raine pio
+
+100 0 100 200 300 400 Mi
+
+Fort
+
+St. Charles
+
+FIGURE 1 Hudson's Bay Company hinterlands: Fort Albany, York Factory, and Fort Churchill
+SOURCE: Carlos and Lewis (1993, 469; based on Ray 1987; Ray et al. 1987)
+
+by deriving the Hudson's Bay Company's long-run, profit-maximizing, strategies,
+where the company is treated as a price taker in the European market. Our theoretical results argue that at trading posts, where the company was a monopsonist,
+its optimal strategy was to set prices roughly consistent with a maximum sustained
+yield beaver population. The European market would thus have little impact on
+the North American price. But in the presence of French traders, which we treat
+
+as a competitive fringe to the dominant Hudson's Bay Company, the relationship
+between the European and the North American price was different. For the same
+
+European price, the profit-maximizing price at the company post was higher than
+in the pure monopsony case, and the beaver stock was lower. In addition, the North
+American price should have been more sensitive to the European market.
+
+The evidence, drawn from Hudson's Bay Company records and other sources, is
+consistent with these theoretical implications and highlights the vulnerability of a
+resource base to uncontrolled extraction by primary hunters. Before 1725 European
+prices were low, but subsequently the price of beaver pelts increased, mainly in
+response to rising demand for beaver hats, and by the 1750s the Hudson's Bay
+Company was selling pelts in London at prices two and even three times those of
+earlier years. These price increases, which were largely exogenous to the Hudson's
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+708 Ann M. Carlos and Frank D. Lewis
+
+SIMULATED BEAVER POPULATION IN THREE HINTERLANDS
+(000)
+330
+310
+290
+
+270
+250
+
+230
+210
+
+190
+
+170 .
+150
+130
+
+110
+90
+
+70
+
+-
+
+c ~ co
+
+? ...YORK FACTORY -FORT ALBANY - -- FORT CHURCHILL
+
+FIGURE 2 Simulated beaver populations in three hinterlands
+NOT'ES: The populations at maximum sustained yield are Fort Albany - 172,000; York Factory 231,000; Fort Churchill - 70,000.
+SOURCE: Carlos and Lewis (1993, 279-83)
+
+Bay Company because it occupied a small share of the European market, had
+differential effects at the trading poStS.5 Where the company was a monopsonist,
+as at Fort Churchill, it was able through its pricing policies to maintain the animal
+stocks close to the biological optimum; but in areas where the company faced
+competition from the French, as in the hinterlands of Fort Albany and York Factory,
+
+increases in the European price led to higher prices at the posts and to depletion.
+5 Trade data for our period is incomplete, but the work of Wien and Pritchard (1987) for 1772 is
+suggestive of the orders of magnitude. In that year the value of furs sent from Hudson Bay ac-
+
+counted for less than 10 per cent of the total value of furs exported from North America to England. If the comparison is restricted to beaver pelts, the share was less than 20 per cent. Although
+
+Wien and Pritchard warn that Hudson's Bay Company exports may have been undervalued, there
+is an offsetting bias in that the comparison does not include exports from North America that
+were sent to markets outside England. Moreover, it excludes imports of furs to England and
+western Europe from Russia and Scandinavia. Wien (1987, 89) presents data on the export of furs
+from Quebec during the period 1728 to 1755 that are consistent with the 1772 numbers.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+Property rights, competition, and depletion 709
+
+A higher European price increased the wedge between the price the French
+
+marchands received for their furs and the price paid to the Indians in terms of tra
+goods. This wedge allowed the French greater market penetration, since it became
+profitable for them to move further into the interior. In response, the Hudson's Bay
+Company could either limit the price it paid to the Indians, in which case it would
+lose market share to the French, or raise the price to protect its market, which risked
+
+depletion of the animal stock through increased harvesting. The profit-maximizing
+response of the company involved a compromise between the objectives of market
+
+share and conservation. The evidence on prices at Hudson's Bay Company trading
+posts suggests a policy, whether by deliberate intention or not, that was close to
+this optimal strategy.
+
+In addition to the policies of the Hudson's Bay Company, and the primary cause
+of depletion, was the lack of well-defined property rights among aboriginals in the
+
+region. They could have chosen, after all, to control their extraction rates; Native
+groups in other locations and time periods apparently did so. Unfortunately, as we
+
+outline below, the forces peculiar to this region and time limited the ability of
+
+Natives in the Hudson Bay lowlands to establish the property rights that would
+have led them to conserve the fur resource.
+
+2. From Utrecht to Paris: implications for Native property rights
+
+In a now famous paper, Harold Demsetz (1967) argued that formal property rights
+would emerge if the benefits of such rights exceeded the costs. Citing the work of
+
+Eleanor Leacock (1954), Demsetz pointed out that some Indian groups established
+well-defined property rights when the commercial fur trade was introduced and thus
+
+controlled their level of resource extraction. He noted, in particular, the actions of
+the Montagnais in Labrador and tribes on the northwest coast to illustrate the
+emergence of new land tenure arrangements in the face of increasing resource
+values.
+
+Territoriality by different Native groups is an issue that has long concerned
+
+anthropologists.6 As Morantz (1986, 72) documents, the eastern James Bay Cree
+had a notion of trespass; and Bishop (1986) cites instances where Native groups demanded 'gifts' or tolls to secure passage through their territory. Elsewhere, William
+
+Cronin (1983, 105) quotes fur trader Joseph Chadwick, who in 1764 described how
+
+Maine Indians divided their land into heritable family hunting territories: 'their
+hunting ground and streams were all parcelled out to certain families, time out
+of mind [in the distant past].' Thus, within the anthropological record, there are
+
+examples of institutional structures that could have promoted conservation.7
+Some tribes found it difficult to control extraction rates because of the 'Good
+Samaritan' principle in Indian culture (McManus 1972; Moranz 1986). The precariousness of the food base, on which all Indians depended, meant that survival came
+6 The question began with whether 'family hunting areas' predate European contact or whether
+such organizational forms arose post contact (Speck 1915; Leacock 1954).
+7 A special issue of Anthropologica (Anthropologica, New Series 28, 1986) is devoted to the function and operation of Native hunting territories.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+710 Ann M. Carlos and Frank D. Lewis
+
+first; and, as a response, an Indian was permitted to hunt for food on another's
+
+territory. This social institution limited the range of privilege of Native groups to
+their land and ultimately affected not just the ownership of the beaver resource but
+also its exploitation.
+
+Conflict among Europeans and Natives also may have limited the Indians' security of tenure to their resources. The Hudson's Bay Company was established in
+1670; but its first forty years were stormy, as competition with the French became
+an extension of the ongoing European conflict. Although the Treaty of Utrecht
+in 1713 declared the Hudson Bay basin British territory, competition with French
+traders continued until the signing of the Treaty of Paris in 1763, marking the end
+
+of the French and Indian Wars (Rich 1958, vol. 1).8 Rivalries among Europeans,
+which predated the arrival of the Hudson's Bay Company, provoked tension and,
+
+ultimately, warfare among Native groups (Heidenreich 1987a).9 Originally conducted for reasons of prestige, revenge, and religion, the fighting changed in purpose
+
+and increased in intensity after European contact. Although much of the conflict
+took place outside the Hudson Bay hinterland, tribes within the hinterland appear
+
+to have been affected by the instability.10
+Two other cultural and social forces apparently reduced the ability of Native
+groups to conserve the resource base. The first stemmed from the aboriginal ethic
+
+of generosity. Generosity, whether seen in mortuary feasts or in the treatment of
+visitors, enhanced the status of those aspiring to be chiefs. The fur trade provided
+
+new opportunities to such people (Bishop 1986, 56). But the acquisition of goods
+required pelts as exchange, reducing the inclination of these Indians to conserve the
+
+beaver. Some anthropologists have argued that the ability to conserve fur-bearing
+animals was also lessened by a Native spiritual belief in reincarnation: animals
+killed now would reappear in the future.
+
+Conflict, the 'Good Samaritan' principle, an ethic of generosity, and possibly a
+
+belief in reincarnation combined to produce a regime in which Indians, with few
+exceptions, placed little value on the future stock of animals. Instead, they operated
+under a system, equivalent to open access, that may not have been in their longrun interest. But, as argued above, the animal populations could still have been
+maintained. The European traders, especially the Hudson's Bay Company, could
+control the harvests and, therefore, the animal stocks through the price paid to the
+
+Indians for furs. So even though the Indians may have regarded the animals as
+an open-access resource, depletion was not inevitable and did not always occur.
+8 Of course, the rivalry with traders operating out of Montreal continued until the merger of the
+Hudson's Bay and Northwest companies in 1821. See Carlos and Hoffman (1986).
+9 The Huron, the Ottawa valley bands, some Montagnais, and the Susquehannock, all of whom
+
+traded with with French, were loosely allied against the five Iroquois tribes, who acted as middlemen for the English. In the Michigan peninsula, tribes that included the Neutral, Petun, and
+
+Ottawa also became involved in conflict.
+10 With the penetration by the French into the area west of the Great Lakes, and their resulting
+treaty with the Saulteaux and the Cree, war broke out between the Saulteaux and the Dakotas,
+who felt that their trade with the English was threatened. This conflict caused the migration of
+some of the Ojibwa groups into Cree territory west of Lake Superior, which was part of the
+Hudson Bay hinterland. For a description of the conflicts and their effects see White (1991).
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+Property rights, competition, and depletion 711
+
+But the analysis of these issues requires that we turn from the actions of Native
+trappers and focus on the policies of the Europeans.
+
+3. The price of furs in Europe and at the Bay
+The Hudson's Bay Company was a latecomer to the fur trade. The larger European
+
+market was already well-established by 1670, with supplies coming from New
+France, the Continental colonies, northern Europe, and Russia. What the Hudson's
+Bay Company had to offer this market was a supply of top-quality pelts, mainly
+beaver but including marten and other furs. Beaver was the best of the staple furs,
+
+furs whose wool could be transformed into felt for use by the hatting industry."1
+Each pelt has a double coating of hair: short, soft, barbed hair close to the skin,
+
+which is protected by longer, stiffer, smoother hair called guard hair. Only the
+short hair could be felted, and one problem was to separate it from the guard hair
+and the pelt. The guard hair could be removed mechanically, but separation also
+
+occurred when the Indians wore the beaver pelts as clothing."2 Over the course
+of a year, the pelt would become greasier and more pliable and eventually the
+guard hairs would fall out. This type of pelt, known as castor gras, or coat beaver,
+was differentiated from a freshly caught pelt, known as castor sec, or parchment
+
+beaver. Beaver hats were produced with a combination of beaver wool, made from
+
+a mixture of parchment and coat beaver, and some inferior fur such as rabbit.13
+Although domestic hat consumption was not reported, we know that exports
+from England of these high-fashion hats almost tripled between 1720 and 1750
+
+and the price of beaver pelts increased.14 The price series, which are based on the
+three main types of beaver pelts - parchment, coat, and cub - reveal three episodes
+
+(see table 1).15 The period from 1713 to 1722 was one of stability as prices fluctuated between 5 and 5.5 shillings per pelt; in 1723 prices moved sharply higher
+and remained in the 7 to 9 shilling range until 1745; then in 1746 prices rose again
+to over 12 shillings and remained at or above this level to 1763. Over the Deriod
+
+11 All fur was classified as either fancy or staple. Fancy furs were those demanded for the beauty
+and lustre of their pelt and were fashioned into garments.
+12 A combing technique to separate the short hair from the guard hair was developed by the
+Russians and became known in England by the last quarter of the seventeenth century.
+
+13 Rabbit or another low-grade fur would be used for the foundation of the hat, and beaver wool
+for the nap or surface. The quality of the hat depended on the content of beaver, with the lowestpriced felt hats containing no beaver. They were also least likely to maintain their shape (Lawson
+1943, 3-4; Corner 1991).
+
+14 Exports of beaver hats were 206,000 in 1720 and 556,000 in 1750 (Lawson 1943, appendix 1).
+15 The prices received by the Hudson's Bay Company can be derived from fur sales to individual
+
+purchasers in Britain as reported in the company's Fur Price Book continuously from 1735 and
+erratically in the Grand Journal prior to that date. A problem with the Grand Journal is the
+
+variability in the type of information provided. For some years the Journal reports only the total
+revenue received from a particular individual with no information on the number of lots or the
+number of skins sold. The Fur Price Book gives price by lot and origin of the pelts. To adjust for
+possible quality differences across posts, prices have been weighted by the trade in each type of
+pelt to obtain an average price of furs shipped from each trading post. Those furs described as
+'damaged' are not included.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+712 Ann M. Carlos and Frank D. Lewis
+
+TABLE 1
+Price of beaver pelts in Britain: 1713-63 (shillings per skin)
+Year Parchment Coat Averagea Year Parchment Coat Averagea
+
+1713
+
+5.21
+
+4.62
+
+5.03
+
+1739
+
+8.51
+
+7.11
+
+1714
+
+5.24
+
+7.86
+
+5.66
+
+1740
+
+8.44
+
+6.66
+
+1715
+
+4.88
+
+1716
+1717
+1718
+1719
+
+4.68
+5.29
+4.77
+5.30
+
+1720
+
+5.31
+
+5.49
+
+8.81
+8.37
+7.81
+6.86
+6.05
+
+1741
+
+5.16
+5.65
+5.22
+5.51
+
+5.38
+
+8.30
+
+1742
+1743
+1744
+1745
+
+1746
+
+6.83
+
+7.72
+8.98
+9.18
+9.76
+
+12.73
+
+7.88
+
+7.84
+
+6.41
+6.74
+6.61
+6.08
+7.18
+
+8.05
+
+7.36
+8.27
+8.52
+8.76
+
+10.88
+
+1721 5.27 5.79 5.29 1747 10.68 6.99 9.50
+1722 4.55 4.97 4.55 1748 9.27 6.22 8.44
+1723
+
+8.54
+
+5.56
+
+7.84
+
+1724
+
+7.47
+
+5.97
+
+7.17
+
+1749
+1750
+
+11.27 6.49 9.77
+8.42 14.00
+
+17.11
+
+1725 5.82 6.62 5.88 1751 14.31 10.42 12.90
+1726 5.41 7.49 5.83 1752 12.94 10.18 11.84
+1727
+
+7.22
+
+1753
+
+10.71
+
+11.97
+
+10.87
+
+1728
+
+8.13
+
+1754
+
+12.19
+
+12.68
+
+12.08
+
+1729
+1730
+1731
+
+9.56
+8.71
+6.27
+
+1755
+1756
+1757
+
+12.05
+13.46
+12.59
+
+12.04
+12.02
+11.60
+
+11.99
+12.84
+12.17
+
+1732
+
+7.12
+
+1758
+
+13.07
+
+11.32
+
+12.49
+
+1733
+
+8.07
+
+1759
+
+15.99
+
+14.68
+
+1734
+
+7.39 1760 13.37 13.06 13.22
+1735 8.33 1761 10.94 13.03 11.36
+1736 8.72 7.07 8.38 1762 13.17 16.33 13.83
+
+1737
+
+7.94
+
+6.46
+
+7.50
+
+1763
+
+16.33
+
+17.56
+
+16.34
+
+1738 8.95 6.47 8.32
+
+a A weighted average of the prices of parchment, coat, and cub beaver. Weights are based on the trade
+in these types of furs at Fort Albany (basing the average on York Factory or Fort Churchill gives
+similar values). The prices of coat and parchment beaver were generally close, and about double the
+price of cub beaver. Prices of the individual types of pelts are not available for the years 1727 to
+1735. Prices in the table are averages based on the company's Minute Books. A complete listing of
+prices and output weights for the three posts is available from the authors.
+SOURCE: Hudson's Bay Company Archives, MG 20B
+
+1720 to 1750 the five-year average of parchment beaver, which was the dominant
+form of pelt, rose from 5.0 to 13.0 shillings, and coat pelts increased from 6.3 to
+
+8.3 shillings.'6
+Clearly there was a shift in the European demand for hats, but British legislation
+may have contributed to the increase in exports. In 1721 beaver skins and furs were
+included under the Navigation Acts as enumerated goods in order to reduce the
+16 The relative price of coat to parchment beaver pelts was affected by the technology of felt
+making. Both parchment and coat pelts were used in the production of hats, usually in a ratio
+of one coat to four or five parchment. In addition, parchment pelts could be used in garments.
+Although the relative price of coat fell from 1720 to 1750, its price again exceeded parchment
+
+in the early 1760s. Despite these shifts in relative price, Indians received the same price for coat
+and parchment pelts throughout the period. That price was equal to the unit of account used in
+exchange, the Made Beaver, which was equivalent to one prime beaver skin.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+Property rights, competition, and depletion 713
+
+flow of furs from New York to Amsterdam. This policy increased the supply of
+
+furs to England and also the level of re-exports (Lawson 1943, 11). Then, in a
+
+further attempt to protect England's hatters and felters, Parliament passed the Hat
+Act of 1732, which prohibited the export of hats or felt from the colonies. The
+
+Act also limited production of hats in the colonies to masters who had served
+
+apprenticeships of seven years in England (Lawson 1943, 39). The legislation, by
+
+increasing the market share of British hats, raised the demand for beaver pelts in
+England. Although the restrictions may have harmed the larger market for pelts,
+
+the price of beaver furs in Europe did increase. An issue addressed in this paper
+is how these rising prices played out in terms of what the Indians were paid.
+The quantity of trade goods the Indians received at the Bay posts in exchange
+
+for their furs was based on the company's Official Standard, which listed the
+prices of trade goods and furs in terms of the company's unit of account, the Made
+
+Beaver (equivalent to one prime beaver skin).17 Comparing the official Made Beaver
+prices of trade goods at the posts with the corresponding sterling prices in London
+
+provides a measure of the value of the goods Native groups were receiving for
+their furs. For example, in 1742-43 at York Factory, the official cost to the Indians
+
+of purchasing 1 shilling's worth of trade goods averaged 1.42 Made Beaver (see
+table 2).18 Alternatively, Native groups received, again at the Official Standard, 0.7
+shillings in trade goods for pelts worth 1 Made Beaver. This was also the average
+price at Fort Churchill and, at both York Factory and Fort Churchill, the Official
+Standard remained roughly constant over time. The official prices were somewhat
+more generous at Fort Albany, averaging 0.8 shillings per Made Beaver.
+
+Post factors were permitted, indeed encouraged, to charge Natives more than the
+
+Official Standard for trade goods. For example, at York Factory in 1743 Natives
+received, in trade, goods with a total value of 28,337 Made Beaver, based on
+the Official Standard; but they gave up furs with a value of 41,013 Made Beaver
+(Carlos and Lewis 1998, appendix; Hudson's Bay Company Archives, MG 20B).
+The difference between the two amounts was reported in the company accounts as
+
+an Overplus. But offsetting this Overplus were Expenses of 4,017 Made Beaver,
+representing gifts paid to the Indians in advance of the actual trading. It is the
+relationship between the price Natives received for their furs in terms of trade
+goods, based on the company's Overplus and Expenses, and the price of furs in
+Europe that we explore in the next two sections.
+
+4. The pricing of beaver pelts by the Hudson's Bay Company: a model
+We interDret the resnonse of the Hudson's Bay Comnanv to the nrice of furs in
+17 Ray (1974, 1985), and Ray and Freeman (1978, chaps 6 and 7) give a full account of the pricing
+of furs and trade goods at the Bay posts and in London.
+
+18 This ratio is based on a weighted average of a selection of goods traded, with guns excluded.
+There was considerable variation by item in the ratio of the Made Beaver price to the sterling
+price of trade goods, and guns were somewhat of an outlier at 14 Made Beaver to purchase a
+gun that cost 22 shillings in England. More typically, trade goods that cost the Hudson's Bay
+Company 1 shilling, were sold to Native Americans at a price of between 1 and 2 Made Beaver.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+714 Ann M. Carlos and Frank D. Lewis
+
+TABLE 2
+
+The Hudson's Bay Company Official Standard and the cost of trade goods in England: 1742-3
+items)
+
+Quantity Price in England Official Standard
+received' (shillings) (Made Beaver)'
+Beads
+
+Shot
+
+(lb)
+
+(lb)
+
+Tobacco
+
+(lb)
+
+Blankets
+Duffel
+
+501
+
+15,628
+
+1.88
+
+0.15
+
+1,266
+
+(per)
+
+(yd)
+
+335
+
+301
+
+2
+
+1/4
+
+0.42
+
+1
+
+6.00
+
+7
+
+1.25
+
+2
+
+Flannel (yd) 443 0.83 3/2
+Combs
+(per)
+490
+0.52
+1
+Guns
+(per)
+443
+22.0
+14
+Hatchets (per) 1,246 0.84 1
+Ice Chisels (per) 280 0.50 1
+
+Knives
+
+(per)
+
+Twine
+
+(skein)
+
+4,155
+
+0.16
+
+252
+
+1/4
+
+1.08
+
+1
+
+Scrapers (per) 200 0.58 1/2
+Brandy (gallon) 1,204 3.00 4
+Total
+Total
+(excluding guns)
+
+value
+value
+
+22,424
+12,678
+
+24,211
+18,009
+
+a Based on returns from York Factory. There was no change in the Official Standard at any of the
+trading posts after 1720. Quantities received are drawn from the post's 'General Charge' account,
+which reports quantities delivered to the post. The figures differ somewhat from the amounts traded
+to Natives because of gifts and carryovers to other years (Carlos and Lewis 1998, appendix). Using
+the amounts traded in 1743 gives rise to a different weighting of the shilling and Made Beaver prices,
+
+and would lead to a slightly higher price of furs, 0.74 shillings per Made Beaver rather than 0.70.
+Note that the General Charge may have been less sensitive to yearly fluctuations in the trade in
+individual items.
+SOURCE: Hudson's Bay Company Archives, MG 20B
+
+Europe by deriving its long-run, profit-maximizing strategy in the presence and
+
+absence of French competition. We begin with a standard harvest function, in
+which the number of beaver harvested depends positively on the level of effort and
+the biomass. A constant return to effort is assumed, but we allow for diminishing
+returns to population:
+
+Ht
+
+Etxt
+
+X
+
+O<a<1t
+
+(1)
+
+where Ht is the harvest
+a is the elasticity of the
+Company, as discussed above, did not harvest beaver directly; rather, it purchased
+furs from the Indians. The company's only control over the harvest was through
+19 The assumption of a unitary elasticity of output with respect to effort seems a reasonable approx-
+
+imation of the true elasticity. Carlos and Lewis (1993, appendix) suggest a harvest function for
+beaver based on the nature of the hunt and derive an elasticity of two-thirds under the assumption
+of no fixed costs. Introducing fixed costs raises the value of this elasticity.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+at
+ha
+
+Property rights, competition, and depletion 715
+
+the price it offered for furs in terms of a variety of trade goods, or possibly through
+
+its decision not to purchase certain furs, such as smaller pelts or pelts of animals
+trapped during the summer.20
+A key element of the Hudson's Bay Company's pricing decision was the re-
+
+sponse of Native hunters. We describe this response in terms of what is essentially
+a supply curve of labour, where labour in this context is Native effort, Et, and the
+wage can be interpreted as the return to effort, rt. Expressing the relationship in
+constant-elasticity form, we have
+
+Et
+
+=
+
+lr6
+
+(2)
+
+where 5 is the elasticity of supply of effort and 1 is a shift term. Important to the
+
+analysis is our assumption that 8 is positive, which is at variance with much of
+the historical literature on how Native Americans responded to higher fur prices.
+Nevertheless, the evidence from the trading posts, in our view, strongly supports
+an upward-sloping supply curve of Native labour to the fur trade.21
+The return to trapping effort can be expressed as the ratio of the value of furs
+harvested to the level of effort:
+
+rt
+
+=
+
+ptHtlEt,
+
+(3)
+
+20 The latter method of restricting the harvest was used infrequently and never during periods of
+competition with other European traders.
+
+21 According to the historical consensus, Natives' objective was a given quantity of European goods,
+and they harvested just enough furs to procure that quantity. Heidenreich and Ray (1976, 48) have
+a succinct statement of the generally accepted view: 'The Indians brought only enough furs to
+the fort to obtain these [European] goods. By giving him increasingly favourable tenns of trade,
+the trader often obtained fewer furs because the Indians could bring fewer pelts to obtain the
+same goods.' This view is supported by, and undoubtedly originated from, the writings of contemporaries who saw Natives as indolent, with little concern for other than their imniediate needs.
+Joseph Robson's (1752, 29) description of the Indians is typical of European opinion at that time:
+'[an] improvident and lazy people, having no concern but the subsistence of the present day.'
+There are, however, other statements, many by the same observers, that suggest a different
+
+interpretation of the effect of post prices on Native hunting effort. Nearly all post governors in
+
+their letters home talked of ways of increasing the volume of trade at their posts; and, throughout,
+their prescription was either to lower the prices of trade goods or, what is really the equivalent,
+improve their quality (Davies 1965). Although French competition was often a concern, the gov-
+
+ernors at Fort Churchill, where there was virtually no French presence, and York Factory, where
+the French became a serious commercial threat only after 1738, made similar recommendations.
+Indeed Robson, who, as noted above, complained about the laziness of Natives, elsewhere condemned the overplus trade as 'big with inequity.' He continued: 'and [it] is no less inconsistent
+with the company's true interest than it is injurious to the natives, who become more and more
+alienated from us, and are either discouraged from hunting at all, or inclined to carry all their
+furs to the French' (1752, 39; emphasis added).
+The qualitative reports are thus at a minimum ambiguous about how pricing policy at Hudson's
+Bay affected Native trapping. We do, however, have annual data on both the size of the harvest
+and the volume of trade goods sold at the posts. The evidence supports a positive relation between Native effort and the return to that effort. Ray and others have noted that durables did not
+fluctuate much from year to year, but there was a dramatic increase in the brandy trade starting in
+the 1740s, and there was a substantial trade in such non-durables as beads, shot, and tobacco (Ray
+1974; Ray and Freeman 1978). The large increases in brandy sales that accompanied the rising
+price of furs is evidence of an elastic demand on the part of Natives for that good. Moreover,
+given that many of the trade goods were regarded as luxury items, a positive elasticity of supply
+of Native effort seems more plausible than the backward-bending supply curve implied in much
+of the literature. This question is explored in greater detail in Carlos and Lewis (1998).
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+716 Ann M. Carlos and Frank D. Lewis
+
+where Pt is the price paid to the Indians for furs. Substituting (2) and (3) into (1)
+allows us to express the Native harvest in terms of the price of furs, a variable that
+
+the Hudson's Bay Company could control, and the beaver population, Xt:
+
+H
+
+=
+
+lp6Xta(1I6).
+
+(4)
+
+We derive the Hudson's Bay Company's optimal pricing policy from (4) and the
+assumed objective of maximizing the present value of the stream of profits from
+the trade at each post:
+
+max
+
+H=
+
+j
+
+e-it7r(Xt,pt)dt,
+
+(5)
+
+subject to the constraint on the beaver stock:
+
+dt
+
+dX,t=
+
+F(Xt)-
+
+Ht
+
+(6)
+
+where 7r(Xt,pt) is the per-period profit function, F(Xt) is the natural growth of the
+biomass, and i is the discount rate. In this optimal control problem, Xt is the state
+variable and Pt is the control variable. This dynamic optimization problem cannot
+
+be solved explicitly; rather, we characterize a steady state, and use the approximate
+results to derive implications about pricing policy. Omitting time subscripts, a
+
+steady-state solution is given by22
+adr aH
+
+F'(X)
+adr
+
+=
+
+i
+
+-
+
+p
+
+(7)
+
+ap
+H
+
+=
+
+F(X).
+
+(8)
+
+The intuition is staightforward. If 7r were independent of X, i.e., if air/aX = 0, (7)
+reduces to F'(X) = i, which is simply the golden rule of capital accumulation. In
+this case the optimal biomass would be below the level consistent with a maximum
+
+sustained yield.23 In fact. 3ir/3X > 0: indeed, the entire ratio term in (7) is positive
+22 The solution is derived by specifying the Hamiltonian: St = ir(Xt,pt) + A[tF(Xt) - Ht], where At
+can be interpreted as the shadow price of the biomass, Xt. The maximum principle requires that
+
+&'H /apt = 0, and dAt/dt = iAt - 1H /aXt. An equilibrium solution occurs where dAt/dt =
+0 and dXt/dt = 0. Equation (7) is derived from (4) and these relationships. As Colin Clark
+points out, the solution given by these conditions seems to work well for fisheries models of the
+type assumed here. But even with the specification we have chosen, other optimal solutions are
+possible, including an extinction path and a population that cycles. We have chosen the steady-
+
+state path partly for tractability; but, more important, it seems to reflect more accurately the
+long-term pattern of harvesting (Clark 1985, 136-42).
+23 We will assume the natural growth function takes the standard quadratic form: F(X) = aX - bX2.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+Property rights, competition, and depletion 717
+
+and, if large enough, would give rise to a biomass that does not imply biological
+over-harvesting.24
+
+By combining (4), (7), and (8) with explicit profit functions for the cases where
+
+the Hudson's Bay Company had a monopsony and where it competed with the
+French, we derive profit-maximizing relationships between the European price of
+
+furs and the price of furs at Hudson's Bay trading posts. In the monopsony case,
+the company's profit in each period, rr(Xt,pt), is simply the difference between the
+price it receives in Europe for furs and the price it pays to the Indians times the
+total harvest:
+
+7r(Xt,pt) = [qt -e -pt(l +re)]Ht, (9)
+where qt is the price received by the company for furs, and e, Te are trading
+and transport costs.25 By substituting this single-period profit function into the
+necessary condition for an optimum, described by (7), we derive a steady-state
+profit-maximizing solution:
+H
+
+a-
+
+F'(X)
+
+5 q-e I
+
+=
+
+i-
+
+,
+
+(10)
+
+1 +86 p(l +Te)
+
+The smallest biomass consistent with long-run profit maximization is again the
+
+solution to F'(X) = i, which for usual discount rates is a biomass slightly below
+the biological optimum.26 A major concem of the fur trade literature has been
+with depletion, making this an important result. Equation (10) suggests that, where
+24 air/aX > 0 because a larger biomass implies a larger harvest and hence greater profits. That
+(aH/dp)/(air/ap) > 0 is less obvious, but it follows from the first-order condition on the Hamiltonian (fn22) and the requirement that the biomass have a positive shadow price. Essentially
+it says that at the steady-state optimum an increase in the harvest must increase current-period
+profits because it reduces future profits.
+
+25 There are various ways of treating the costs of trading. Because the Hudson's Bay Company was
+involved in barter, exchanging European commodities for pelts, we distinguish between the transaction cost per pelt, e, and the transaction cost per unit of trade goods. The view we take is that
+transactions costs per pelt did not depend on the price of pelts. The transaction costs associated
+with trade goods, however, depended on the price, p, that was paid to the Indians for furs, since
+the volume of goods traded moved proportionally to that price. An alternative approach would
+be to apply all transactions costs to trade goods, taking the view that the high value relative to
+weight of furs meant that the volume of trade goods carried was the constraint. The assumptions
+made here, while somewhat more cumbersome, lead to more plausible relationships between
+the prices of trade goods at the Bay and in England. Note that we could further complicate the
+analysis by including a fixed cost. The theoretical analysis would not change, but the empirical
+interpretation of some of variables would be affected.
+
+26 The smallest biomass, Xn"', in the monopsony case can be derived directly from the natural
+growth functions. Assuming that the function takes the standard quadratic form: F(X) = aX-bX2,
+
+and b = a/X*, where X* is the maximum biomass, it follows that: Xmin/X* = 0.5 - i/2a.
+In previous work we have put a = 0.3 (Carlos and Lewis 1993). If the discount rate is 6 per
+cent, the minimum biomass would therefore be 0.4X*, which is 20 per cent below the biological
+optimum.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+718 Ann M. Carlos and Frank D. Lewis
+
+the Hudson's Bay Company had a monopsony, the stock of beaver should have
+been close to or above the maximum sustained yield level. Also significant is the
+
+implication that high prices of furs in Europe should not have led to high prices at
+Hudson's Bay posts with a monopsony in the trade, since it was in the company's
+long-run interest at these posts to protect the beaver stocks.
+
+In two of the hinterlands, those served by Fort Albany and by York Factory, the
+French were trading during at least part of the period. We allow for this competition
+
+by assuming that a portion of the harvest is taken by the French. Because the
+French traders operated largely as independent units, modelling the market as a
+
+duopoly seems inappropriate. Instead, we treat the French as a competitive fringe
+and the Hudson's Bay Company as the dominant firm in the trade. According to
+
+this characterization, the Hudson's Bay Company sets a price of furs, which the
+French traders take as parametric. Any specification of the French share must be
+to some degree ad hoc, but our treatment seems to capture the essential features
+
+of the French trade and is generally consistent with Wien's (1987, 1990) thorough
+treatment.27
+
+Unlike the Hudson's Bay Company, which received the Indians at its posts on
+Hudson Bay, the French traders had to travel inland along the St Lawrence and
+
+the Great Lakes. Travel costs were a serious impediment to French competition in
+
+the interior. Accordingly, the French share of the trade, st, is treated as a distance
+function that depends on the difference between the price of furs in Europe and
+the price received by the Indians in the Hudson Bay lowlands:
+
+St
+
+[qt
+
+where
+
+-f
+f
+
+-pt(
+
+and
+
++
+
+Tf
+
+Tf)]/c,
+
+(11)
+
+represent
+
+trad
+
+derive the single-period profit function for the Hudson's Bay Company, which is
+assumed to take the share relationship (11) as given:
+27 The focus of our paper is the Hudson's Bay Company, whereas Wien examines the French side
+of the trade. Although ours is not the only possible interpretation of Wien, his work appears to
+
+support our characterization of the French traders as acting competitively. From 1718 the Compagnie des Indes had a monopoly on the export of furs from New France. They exercised this
+right by setting the price of furs paid to the French marchands. At the same time they faced com-
+
+petition from Albany, and as Wien (1990) points out, the price differential was within transport
+
+costs between the Quebec and Albany markets. The Compagnie also issued permits for trade in
+the interior, but these were intended to reduce the likelihood of conflict among its own traders.
+Despite this limited attempt by the Compagnie to control entry, our characterization of the French
+
+market as perfectly competitive seems reasonable. Note that an altemative approach would be to
+recognize that individual French traders, operating at some distance from Hudson Bay, had some
+
+monopoly power. Wien (1990, 299) compares these traders to 'convenience stores.' This view
+
+suggests a form of monopolistic competition among the French. For tractability and because it
+would not change the main results, we do not include this refinement.
+28 As Wien (1990) documents, there was an approximate relationship between the price paid to
+
+French traders by the Compagnie des Indes and the Paris (or London) price of furs. Parameter c,
+which is the slope of the distance function, characterizes the sensitivity of the French share of the
+trade to the differential between the European price of furs and the price received by the Indians
+at Hudson's Bay posts. We treat transactions costs in the same way we do for the Hudson's Bay
+Company, attributing part of the cost to furs and part to trade goods.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+Property rights, competition, and depletion 719
+
+7r, = [qt,-e - p,(I + Te)] [l- cptI ], Ht (12)
+Substituting this profit function for the Hudson's Bay Company into (7), we derive
+
+the following profit-maximizing solution in the presence of French competition
+(time subscripts have been omitted):
+
+(xH [1- 1 +rf q-e -p(1+Tre)_
+
+F'(X) =i- X- leI -+rf q-e-p(l+r) (13)
+I + p(1l +-re) I +-re (I + 6)C
+
+If we compare (10) and (13), we see that F'(X) is larger in the competitive
+than in the monopsony case, which implies a smaller profit-maximizing biomass.29
+The intuition is straightforward. With a French trade that depends positively on
+the stock of beavers, the shadow value of the stock to the Hudson's Bay Company
+
+is lower, which leads to more harvesting in the short run and a smaller beaver
+
+population. The second effect is due to the share relationship (11). The Hudson's
+Bay Company determines the size of the harvest and hence the beaver population
+
+through the price, p, that it pays the Indians for furs. Any lowering of that price
+advances the French trade and reduces the company's share of the total harvest. To
+avoid this loss of market share the company pays the Indians a higher price than
+in the monopsony case, which leads to a smaller beaver population.
+
+5. The European price of furs and the North American market:
+some simulations
+
+According to the models outlined in section (4), the price received by the Indians
+
+and, hence, the size of the beaver population depended on whether or not the
+Hudson's Bay Company had a monopsony in the hinterland where the furs were
+
+trapped and traded. These qualitative implications come from inspection of (10)
+and (13). Their quantitative importance is suggested by the following simulations
+that have been run using plausible parameter values.
+
+The data underlying the simulations are discussed below, but we begin by
+
+illustrating the calculation for Fort Churchill, the post where the Hudson's Bay
+Company had a monopsony throughout the period. A necessary condition for optimal pricing in the monopsony case is given by (10), where we assume the natural
+growth function, F(X), is the standard quadratic relation used in fisheries models:
+
+F(Xt)
+The
+that
+
+aXt
+
+-
+
+bXt2.
+
+harvest, Ht, is
+this harvest be
+
+Ht
+29
+
+=
+
+=
+
+given by (4
+equal to nat
+
+F(Xt).
+
+That
+
+the
+
+(14)
+
+(15)
+
+large
+
+ator and denominator by 1 - s.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+rat
+
+720 Ann M. Carlos and Frank D. Lewis
+
+By selecting values for i, a, b, a, 6, 1, e, and We, we solve for the optimal price, p,
+paid to the Indians for their furs, corresponding to any price, q, of furs in Europe.30
+It should be emphasized that these are steady-state results based on the assumption
+
+that the Hudson's Bay Company took the current price, q, as indicative of future
+prices and set the price, p, accordingly. Ours is just one interpretation of how
+
+the Hudson's Bay Company responded to the European fur market and French
+competition. Note that the model also generates steady-state values of H and X.
+Although we also touch on these results, pricing policy is our concern.
+
+Trading and transport expenses, e and We, are based on comparisons of the price
+
+of furs in England and the cost in England of the trade goods used to purchase
+those furs. According to company accounts it appears that, when established, the
+
+Official Standard was considered the break-even point. This Official Standard wa
+put in place in 1720, when the price of parchment pelts in England was about 5
+shillings. We take this to be the zero-profit price. The implied transactions costs
+
+are then allocated equally between furs and trade goods.31
+We derive results for elasticities of supply of effort, 6, of 1 and 2. The more
+elastic supply curve gives optimal prices that seems to accord better with the actual
+
+pricing policies at Hudson's Bay posts.32 At Fort Churchill the optimal beaver
+prices, derived from the model and the assumed parameter values, show little trend
+
+despite the increase in the price of beaver furs in Europe (see figure 3). The lack of
+trend appears consistent with the actual prices Natives were receiving at that post.
+
+Omitting the first few years, we test the relationship formally by running separate
+log-linear regressions of the post price on the price in Europe (see table 3).33 The
+
+estimated elasticity of 0.20 using actual post prices compares to an elasticity of 0.25
+
+30 Our approach is to solve the three equations (4), (13), and (15) in the three unknowns: p, H, and
+X. Note that F(X) is based on (14). The parameter values used in the Fort Churchill simulations
+
+are i = 0.06, a = 0.3, b = 0.00214, a = 0.5, e = 2, and re = 3. Gregory Clark (1988, 273)
+estimates interest rates in England at 4.3 per cent during the period 1701-50 and slightly lower in
+the years 1751-1800. Given the risk associated with the fur trade, applying the somewhat higher
+discount of 6 per cent to the Hudson's Bay Company seems reasonable. Note that a lower dis-
+
+count rate would lead to a larger steady-state biomass and a lower price to the Indians. The values
+of a and b are from Carlos and Lewis (1993). The choice of a is to some to degree arbitrary,
+
+although there is a discussion in Carlos and Lewis (1993, appendix) suggesting that the value
+of 1/2 is reasonable. Simulations are based on labour supply elasticities, 6, of 1 and 2. The shift
+term, 1, is based on (4), (14), and the price, p, that according to Carlos and Lewis (1993) seemed
+consistent with harvesting at the maximum sustained yield. The selected value is based on a price
+of 85 (where 100 is the Official Standard), which corresponds to 0.6 shillings per pelt. Trading
+and transport costs, e and Te, are discussed in the text.
+31 At Fort Churchill, and also at York Factory, the company standard implies a price to the Indians of 0.7 shillings per pelt. Trading costs are therefore put at 4.3 shillings (5 - 0.7). Trading
+cost per pelt, e, is assumed roughly half this amount, or 2 shillings, and the cost per shilling of
+trade goods, Te, is set at 3 shillings [3 (4.3/2)/0.7]. At Fort Albany, Indian traders received
+
+0.8 shillings per pelt at the Official Standard. There, the corresponding values for e and re are
+2 shillings and 2.5 shillings, respectively.
+
+32 Although we focus on simulations where ( is 2, we also discuss the results for ( = 1.
+33 For five of the first six years, prices paid to Indians at Fort Churchill were exceptionally high despite low fur prices in Europe. High prices were typical of a post just starting to trade; moreover,
+Richard Norton, the post factor, was inexperienced and appears to have overpaid for furs. After
+1727, when Norton was replaced, prices fell to normal levels (Carlos and Nicholas 1990, 871).
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+Property rights, competition, and depletion 721
+
+Actual and Optimal Beaver Prices
+Fort Churchill, 1722-1763
+130-
+
+18
+
+120-
+
+16
+
+110
+E
+
+1
+
+100T
+
+114
+12
+
+0.
+
+i
+
+a-~~~~~~~~
+a.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~.
+
+80b
+70-
+
+o
+
+0
+
+tst
+
+w
+
+-~~~~~~~~~~~~~6
+
+125- 17 30 evrpl.Se
+135 1740 1745
+1750 1755
+160
+cin shlig(e1pme
+alsadLwi
+1,445
+pid European Price wl Actual Post Price Optimal Post j jre
+
+FIGURE 3 Actual and optimal beaver prices: Fort Churchill, 1722-63
+60r Imotat theT-T reut r ossetwt hei4iaino h oosn
+NOTES: The Post Price is an index, where 100 is the Official Standard. The index is bas
+
+furs, not just beaver pelts. Beaver made up more than 80 per cent of the total. The Europe
+
+in shillings per (prime) beaver pelt. See Carlos and Lewis (1993, 474-5)
+
+based on the model, which is not significantly different at the 5 per ce
+More important, the results are consistent with the implication of the m
+model that once the beaver population gets close to the biological optim
+
+paid at the trading post will not be sensitive to the price of furs in Euro
+Unlike the Fort Churchill hinterland, which was inaccessible to the F-r
+
+Fort Albany region was close to the eastern trade routes. The Fort Alba
+a consequence, faced competition throughout the period. In figure 4 we p
+results of a simulation, based on (13), which includes the French share e
+(11).35 As expected, the optimal post price is more sensitive to the Euro
+than it is in the monopsony case: the implied elasticity is 0.43. This compa
+34 Note, however, that if 6 = 1, the simulated elasticity, Pl, is 0.44, which is significantly
+than the actual elasticity.
+
+35 The parameter values used in the Fort Albany simulations are i = 0.06, a = 0.3, b = 0.000872,
+a = 0.5, e = 2, and Te = 2.5 (see fn30). The value of the shift term, 1, is based on a price at
+maximum sustained yield of 68, which is equivalent to 0.54 shillings per pelt. For Fort Albany
+it is also necessary to specify the parameters of the French share equation. These were set to be
+
+consistent with the French share of the trade. The assumed values are: f = 2, rf = 4, c = 12.
+
+Details are available from the authors.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+722 Ann M. Carlos and Frank D. Lewis
+
+TABLE 3
+
+Impact of the European price on post prices: estimation results
+Fort Albany York Factory Churchill
+
+1713-63
+
+1723-63
+
+1723-63
+
+ARI
+
+ARI
+
+ARI
+
+OLS
+
+1728-63
+
+3.80
+
+3.95
+
+4.04
+
+Actual
+a
+
+3.92
+
+(0.14)
+
+P1
+
+(0.17)
+
+(0.18)
+
+0.23
+0.29
+0.15
+(0.06) (0.08) (0.08)
+
+0.20
+(0.08)
+
+P2
+
+(0.19)
+
+0.08
+(0.02)
+
+Adj.
+
+R2
+
+DW
+
+1.71
+
+0.83
+
+0.79
+
+1.57
+
+0.84
+
+2.15
+
+Predicted
+a
+
+2.91
+
+1
+
+2
+
+1
+
+3.41
+
+3.29
+
+2
+
+3.60
+
+1
+
+3.24
+
+0.14
+
+1.40
+6
+
+2
+3.58
+
+6
+1
+
+3.32
+
+2
+3.86
+
+(0.07) (0.04) (0.04) (0.02) (0.06) (0.03) (0.03) (0.02)
+
+P1
+
+0.65 0.43 0.49 0.35 0.41 0.30 0.44 0.25
+(0.03) (0.02) (0.02) (0.01) (0.03) (0.01) (0.01) (0.01)
+
+P2
+
+0.10
+
+0.06
+
+(0.008) (0.003)
+Adj. R2 0.96 0.97 0.97 0.99 0.99 0.99 0.96 0.95
+DW
+
+2.17
+
+2.23
+
+1.68
+
+1.69
+
+1.73
+
+1.58
+
+1.44
+
+1.51
+
+NOTES: Results are based on equation: In p = a + P1 ln q + p2D ln q, where p is the post price, q is the
+European price, and D is a dummy that is 1 if the post is York Factory and the years are 1739 to 1761;
+0 otherwise. Standard errors are in parentheses. The low Durbin-Watson statistics for Fort Albany and
+York Factory suggest an adjustment for autocorrelated residuals is appropriate. See text.
+
+an elasticity based on actual post prices of 0.23, which is significantly lower than
+
+the predicted elasticity.36 During the first ten years of the period, 1713 to 1722,
+fur prices were low and the trade was resuming following the Treaty of Utrecht,
+marking the end of the War of the Spanish Succession. If we omit these years,
+the actual and optimal prices accord more closely. The actual elasticity of 0.29
+
+compares to a predicted elasticity of 0.35.37
+The simulation for York Factory is complicated by a change in regime during
+
+the period. The Hudson's Bay Company had a virtual monopsony in the hinterland
+until 1738; but with the relocation of Fort Maurepas to the mouth of the Winnipeg
+river in 1739 and the subsequent building of additional posts, the French began
+diverting trade from York Factory (see figure 1). Consistent with this history, we
+base our simulations on (10), which is the monopsony solution, for the period up
+36 The difference between the predicted and actual elasticity is even greater for 6 = 1.
+37 As predicted by the model, prices at Fort Albany are more sensitive than at Fort Churchill to the
+European price. If the regression for Fort Albany is run over the years 1728-63, to be comparable
+with Fort Churchill, the estimated elasticity is 0.31. This compares with an elasticity using Fort
+Churchill prices of 0.20.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+Property rights, competition, and depletion 723
+
+Actual and Optimal Beaver Prices
+Fort Albany, 1713-1763
+130
+
+-
+
+120
+
+110
+
+18
+
+16
+
+14_3
+
+100(I)~
+
+80-~
+
+~
+
+~
+
+~
+
+~
+
+~
+
+~
+
+~~~~~~~~~~~~~~~~0
+
+504
+
+17
+
+-l
+
+~
+
+0
+
+70~~~~~~~~~w
+17012 7013 74 7515 7516
+
+60
+
+/-
+
+'
+
+1715 1720 12 1730 17514 75 1750 1755 1760
+
+- European Price Actual Post Price Optimal Post Price
+
+FIGURE 4 Actual and optimal beaver prices: Fort Albany, 1713-63
+NOTES: See notes to figure 3.
+
+to 1738, and on (13), the competitive optimum, thereafter (see figure 5).38 It i
+surprising that the simulated price increases sharply in 1739, from 67 to 76, despi
+no change in the European price of furs. By comparison, the actual price at York
+Factory rose from 68 to 75. Including in our regressions a dummy that allows for
+
+the shift, we estimate the elasticity of the optimal post price with respect to the
+European price increasing from 0.30 to 0.36. These values are somewhat above the
+elasticities, 0.15 to 0.23, based on actual post prices.
+
+Combining these estimates with the biomass simulation (see figure 2) furthers
+our understanding of depletion. In Carlos and Lewis (1993) we argued that French
+competition was central to the decline in beaver stocks. That conclusion is consistent
+
+with what we have derived here, but it is just part of the story. In the Fort Albany
+hinterland, for example, the beaver population did not become depleted until the
+1730s, even though the French had been competing in the region since the late
+1600s. Our simulations illustrate that competition was necessary but not sufficient
+
+for depletion to occur. When the price in Europe was low, the price paid by the
+38 The parameter values used in the York Factory simulations are i = 0.06, a = 0.3, b = 0.000649,
+
+a = 0.5, e = 2, re = 3,f = 6, Tf = 6, and c = 10 (see fn3O and fn35). To derive 1, the price, p,
+
+at maximum sustained yield is assumed to be 70, or 0.49 shillings per pelt.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+724 Ann M. Carlos and Frank D. Lewis
+
+Actual and Optimal Beaver Prices
+York Factory, 1716-1763
+120
+
+110
+100-
+
+1
+
+8
+
+16
+/
+
+4
+
+90-~~~~~
+90
+'~80-
+
+0
+
+4
+
+(
+
+-~~~~~~~~~~~~10
+
+70-~~~~~~~~~~~~~~~~~~~~~~0
+0
+
+172
+12513013(14 75
+60-
+
+7017516
+w
+
+50- ~~~~~~~~~~~~~~6
+1720 1725 1730 1735 1740 1745 1750 1755 1760
+
+r European Price Actual Post Price Optimal Post Price
+
+FIGURE 5 Actual and optimal beaver prices: York Factory, 1716-63
+NOTES: See notes to figure 3.
+
+Hudson's Bay Company to the Indians, even in the presence of competition, did not
+
+lead to overharvesting. This was the case until the late 1720s, when pelt prices were
+generally under 6 shillings. But then buoyant demand in Europe drove up prices
+to between 7 and 9 shillings. Given the already pre-existing French presence, the
+
+profit-maximizing response of the company was to raise the price to the Indians
+from under 70, a level consistent with the biological optimum, to about 80. In fact,
+the price of pelts at Fort Albany, which had been at 70 and below since 1701,
+
+jumped to 80 in 1733 and remained at the higher level until the 1740s, when there
+were further increases.
+
+The pattern in the York Factory region was similar in that the price of furs at the
+
+post was raised and the beaver were depleted, but there are intriguing differences.
+It was only after the Hudson's Bay Company faced serious competition from the
+
+French in the region that prices paid to the Indians at York Factory were increased.
+
+The price of furs remained below 70 until 1739 despite the earlier rise in Europe,
+and in contrast to the experience at Fort Albany, where prices had gone up five
+years earlier. The emergence of French competition changed company policy as
+
+the post shifted from the monopsony equilibrium to the competitive one, with its
+attendant higher prices and lower beaver stocks. In 1739 prices at the post were
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+Property rights, competition, and depletion 725
+
+increased to 75 and shortly thereafter to 80 and higher. A decline in the beaver
+
+population was the result, but it began a few years later here than in the Fort Albany
+hinterland. Finally, at Fort Churchill, which was insulated by distance from French
+
+competition, prices, and hence the beaver stock, were relatively unchanged despite
+the rising price of pelts in Europe.
+7. Conclusion
+
+Why and to what extent the Indians depleted the beaver populations have been
+the subject of considerable debate. By building on our earlier work on the Hudson
+Bay lowlands (Carlos and Lewis 1993), we have examined how the European fur
+market influenced the nature of the trade and ultimately the size of beaver stocks.
+
+The Hudson's Bay Company was the major player in the region. Its response to
+changes in the price of furs in Britain not only deterrnined the degree of French
+competition, it also affected the size of the Indians' fur harvests, where a higher
+price to the Indians meant larger harvests in the short run and lower beaver stocks
+in the longer term. The company's response to the European market was, therefore,
+critical; and in this paper we have applied a resource model to analyse its profit-
+
+maximizing reactions.
+Market structure in North America was important. Where the company was a
+monopsonist, its optimal strategy in the face of rising European prices was to keep
+prices at its trading posts down, which would prevent Indian overharvesting. But
+in regions where the Hudson's Bay Company competed with French traders, such
+a policy brought with it a cost. The main barrier to the French trade was distance
+to the interior; but if the differential between the price of furs in Montreal and the
+
+price at the Hudson's Bay Company posts was large enough, a French trade became
+profitable. An increase in the price of furs in Europe that was not offset by higher
+prices at the Bay thus advanced French activity at the expense of the Hudson's Bay
+Company. The optimal policy of the company was therefore to allow post prices
+to rise in order to protect its share of the trade. In 1755, a year for which we have
+data on French activities, the French share in the Fort Albany and the York Factory
+
+hinterlands was about 50 per cent and 40 per cent, respectively. These shares are
+
+quite close to the simulated values implied by the company's optimal strategy.39
+It is perhaps not surprising that the company records give little indication that
+this apparently optimal pricing policy was based on an explicit calculation by the
+various post factors. In fact, there is almost no discussion at any of the posts of
+
+depletion. At the same time, the company did take actions that suggest a concem for
+the beaver stocks, such as refusing to buy summer beaver and even buming inferior
+
+pelts in front of the Indians. An explicit worry, though, of the Bay factors at York
+Factory and Fort Albany was the extent of French competition. They recognized
+
+the importance of matching the French in terms of the price and quality of the
+
+39 In our simulations, based on 6 = 2, the French receive 55 per cent of the furs from the Fort
+Albany hinterland and 48 per cent from the York Factory hinterland.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+726 Ann M. Carlos and Frank D. Lewis
+
+trade goods they were offering in exchange for furs.40 The pricing policies at Fort
+Albany and at York Factory after 1738 seem quite in keeping with the Hudson's
+Bay Company traders' expressed concern about the French traders.
+
+Central to our story of depletion is evidence that Indians responded with increased harvests when they received a higher price for furs, regardless of the effect
+on the beaver population. But why did the Indians not take a longer-run perspec-
+
+tive and control their activities? A variety of factors seem have been at play. Indian
+custom regarding the right to hunt for food and other aspects of their 'Good Samaritan' principle mitigated against the emergence of strong trespass laws and property
+
+rights in fur-bearing animals; conflict in the areas around the Hudson Bay hinterland contributed to an environment that was not conducive to secure tenure, and
+
+attitudes towards generosity and even a belief in reincarnation may have played
+a role. For these reasons the Indians apparently perceived the beaver as an openaccess resource, and, as a result, high prices led to high harvesting rates. In the
+regions served by Fort Albany and York Factory, competition between the French
+
+and the Hudson's Bay Company and a strong fur market in Europe thus combined
+to produce the depletion that has been -a major theme of the fur trade literature.
+References
+Bishop, Charles A. (1986) 'Territoriality among the Northeastern Algonquians,' Anthropologica, New Series 28, 37-63
+
+Carlos, Ann M., and Elizabeth Hoffman (1986) 'The North American fur trade: bargaining to a joint profit maximum under incomplete information, 1804-1821,' Journal
+
+of Economic History 46, 967-86
+Carlos, Ann M., and Frank D. Lewis (1993) 'Indians, the beaver and the Bay: the economics of depletion in the lands of the Hudson's Bay Company 1700-1763,' Journal
+of Economic History 53, 465-94
+- (1994) 'Optimal beaver harvests: the Hudson's Bay Company and the English market,
+1700-1770,' in Wildlife in the Market Place, ed. Terry L. Anderson and P.J. Hill
+(Lanham, Maryland: Rowman and Littlefield)
+- (1998) 'The consumption of Native Americans in the eighteenth century: lessons from
+
+York Factory, Hudson Bay,' mimeo
+Carlos, Ann M., and Stephen Nicholas (1990) 'Agency problems in early chartered companies: the case of the Hudson's Bay Company,' Journal of Economic History 50,
+853-75
+
+Clark, Colin W. (1985) Bioeconomic Modelling and Fisheries Management (New York:
+John Wiley)
+Clark, Gregory (1988) 'The cost of capital and medieval agricultural technique,' Explorations in Economic History 25, 265-94
+
+Corner, David (1991) 'The tyranny of fashion: the case of the felt-hatting trade in the late
+seventeenth and eighteenth centuries,' Textile History 22, 153-78
+Davies, K.G., ed. (1965) Letters from Hudson Bay (London: Hudson's Bay Record Society)
+Demsetz, Harold (1967) 'Toward a theory of property rights,' American Economic Review,
+Papers and Proceedings 57, 347-59
+40 The French traders, who operated in the interior, in contrast to the English, who remained at
+the Bay, had a locational advantage. To offset this advantage, the company typically offered the
+Indians better prices. This transportation wedge does not materially affect the analysis.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+Property rights, competition, and depletion 727
+
+Feeny, David, Fikret Berkes, Bonnie J. McCay, and James M. Acheson (1990) 'The
+tragedy of the commons: twenty-two years later,' Human Ecology 18, 1-19
+Feeny, David, Susan Hanna, and Arthur McEvoy (1996) 'Questioning the assumptions of
+the "tragedy of the commons" model of fisheries,' Land Economics 72, 187-205
+Heidenreich, Conrad E. (1987a) 'The Great Lakes basin, 1600-1653,' in Historical Atlas
+of Canada, ed. R. Cole Harris. Vol. 1 (Toronto: University of Toronto Press)
+
+-(1987b) 'Expansion of the French trade, 1667-1696,' in Historical Atlas of Canada,
+ed. R. Cole Harris. Vol. 1 (Toronto: University of Toronto Press)
+Heidenreich, Conrad E., and Arthur J. Ray (1976) The Early Fur Trades: A Study in
+Cultural Interaction (Toronto: McClelland and Stewart)
+Hudson's Bay Company Archives (microfilm copy), Post Records, MG 20B; Grand
+Journal, MG 20A; Fur Price Book, MG 20A; Minute Book, MG 20A (Ottawa: Public
+Archives of Canada)
+Innis, Harold (1927) The Fur Trade of Canada (Toronto: University of Toronto Press)
+- (1956) The Fur Trade in Canada, rev. ed. (Toronto: University of Toronto Press)
+Krech, Shepherd, III, ed. (1981) Indians, Animals, and the Fur Trade: A Critique of
+Keepers of the Game (Athens: University of Georgia Press)
+
+Lawson, Murray G. (1943) Fur: A Study in English Mercantilism, 1700-1775 (Toronto:
+University of Toronto Press)
+Leacock, Eleanor B. (1954) The Montagnais 'Hunting Territority' and the Fur Trade,
+Memoir No. 78 (Menasha, WI: American Anthropological Association)
+Martin, Calvin (1978) Keepers of the Game: Indian-Animal Relationships and the Fur
+Trade (Berkeley: University of California)
+McManus, John (1972) 'An economic analysis of Indian behavior in the North American
+fur trade,' Journal of Economic History 32, 36-53
+Morantz, Toby (1986) 'Historical perspectives on family hunting territories in eastern
+James Bay,' Anthropologica, New Series 28, 64-91
+Ray, Arthur J. (1974) Indians in the Fur Trade: Their Role as Trappers, Hunters, and
+
+Middlemen in the Lands Southwest of Hudson Bay 1660-1870 (Toronto: University of
+Toronto Press)
+
+-(1985) 'Buying and selling Hudson's Bay Company furs in the eighteenth century,' in
+Explorations in Canadian Economic History: Essays in Honour of Irene M. Spry, ed.
+Duncan Cameron (Ottawa: University of Ottawa Press)
+-(1987) 'Bayside Trade, 1720-1780,' in Historical Atlas of Canada, ed. R. Cole Haris.
+Vol. 1 (Toronto: University of Toronto Press)
+Ray, Arthur J., and Donald Freeman (1978) 'Give Us Good Measure': An Economic
+Analysis of Relations between the Indians and the Hudson's Bay Company before 1763
+(Toronto: University of Toronto Press)
+Ray, Arthur J., D. Wayne Moody, and Conrad Heidenreich (1987) 'Rupert's Land,' in
+Historical Atlas of Canada, ed. R. Cole Harris. Vol. 1 (Toronto: University of Toronto
+Press)
+Rea, K.J. (1991) A Guide to Canadian Economic History (Toronto: Canadian Scholars'
+Press)
+Rich, E.E. (1958) The History of the Hudson's Bay Company, 1670-1870, 2 vols
+(London: Hudson's Bay Record Society)
+Robson, Joseph (1752) An Account of Six Years Residence in Hudson Bay, From 1733 to
+1736, and 1744 to 1747 (London)
+Speck, Frank G. (1915) Family Hunting Territories and Social Life of Various Algonkian
+Bands of the Ottawa Valley (Ottawa: Government Printing Bureau)
+White, Richard (1991) The Middle Ground: Indians, Empires, and Republics in the Great
+Lakes Region, 1650-1815 (New York: Cambridge University Press)
+Wien, Thomas (1987) 'Castor, peaux, et pelleteries dans le commerce canadien des
+
+fourrures, 1720-1790,' in Le Castor Fait Tout: Selected Papers of the Fifth North
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+728 Ann M. Carlos and Frank D. Lewis
+
+American Fur Trade Conference, 1985, ed. Bruce Trigger et al. (Montreal: McGill
+University Press)
+
+- (1990) 'Selling beaver skins in North America and Europe, 1720-1760: the uses of
+fur-trade imperialism,' Journal of the Canadian Historical Association, New Series 1,
+293-317
+
+- (1994) 'Exchange patterns in the European market for North American furs and skins,
+1720-1760,' in The Fur Trade Revisited: Selected Papers of the Sixth North American
+Fur Trade Conference, ed. Jennifer S.H. Brown et al. (East Lansing: Michigan State
+University Press)
+Wien, Thomas, and James Pritchard (1987) 'Canadian North Atlantic trade,' in Historical
+
+Atlas of Canada, ed. R. Cole Harris. Vol. 1 (Toronto: University of Toronto Press)
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:30 UTC
+All use subject to https://about.jstor.org/terms
+
+

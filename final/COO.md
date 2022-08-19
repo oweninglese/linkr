@@ -1,0 +1,14 @@
+---
+
+author: ohmanfoo
+
+source: #todo
+
+tags: 
+
+created: 2022-08-07
+
+title: COO
+
+---
+[[COO.md]]#COO.md

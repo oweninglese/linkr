@@ -1,0 +1,15 @@
+---
+
+author: ohmanfoo
+
+source: #todo
+
+tags: 
+
+created: 2022-08-07
+
+title: CIA
+
+---
+[[THE INDIAN ASSOCIATION OF ALBERTA AND THE CANADIAN INDIAN ACT.md]]#THE INDIAN ASSOCIATION OF ALBERTA AND THE CANADIAN INDIAN ACT.md
+[[CIA.md]]#CIA.md

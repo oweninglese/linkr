@@ -1,0 +1,1065 @@
+---
+
+title:
+created:
+tags:
+source:
+author:
+
+---
+National Poetry Foundation
+
+INDIAN TREATIES AND AMERICAN EXCEPTIONALISM: PROLEGOMENA TO A STUDY OF
+AMERICAN IDEOLOGY
+Author(s): JEROME McGANN
+Source: Paideuma: Modern and Contemporary Poetry and Poetics, Vol. 44 (2017), pp. 147169
+Published by: National Poetry Foundation
+Stable URL: https://www.jstor.org/stable/45171881
+Accessed: 16-07-2021 02:22 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+National Poetry Foundation is collaborating with JSTOR to digitize, preserve and extend
+access to Paideuma: Modern and Contemporary Poetry and Poetics
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+JEROME McGANN
+
+INDIAN TREATIES AND AMERICAN
+EXCEPTION ALI S M :
+
+PROLEGOMENA TO A STUDY OF
+AMERICAN IDEOLOGY
+PREFATORY NOTE
+Some 75 years ago Constance Rourke died with her great study The
+Roots of American Culture (1942) unfinished. But her essential
+
+method- what German philologists called Sachphilologie- was
+already well known, and the essays in that last book left no doubt
+about her argument: that "practical letters" as opposed to "polite lit-
+
+erature" shaped "the earliest phases of our national life and" (she
+went on to surmise) "perhaps for later phases [of the national history]
+as well" (15, 11). Although her point of departure was Indian treatymaking in the seventeenth and eighteenth centuries, the force of her
+general view of the "practical" orientation of American literary and
+cultural work was irresistible. This notable focus of both Early Amer-
+
+ican Literature (whether Puritan or Enlightened, religious or secular) and its "Classic American" legacies, helps us remember why and
+
+how political and social issues would continue to suffuse and often
+bedevil "American Literature," even to the present.
+This "Prolegomena" was written for a study of how to read the lit-
+
+erary works that came out of the English-speaking American
+colonies. The work will end with a discussion of Jefferson s Notes on
+the State of Virginia and the correspondence that Adams and Jefferson carried on in the last ten years of their lives. But it might as well
+have served an examination of America s literary history as narrowly
+H7
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+148 Paideuma 44
+conceived, that is, the corpus of "polite letters" that began in earnest
+with Irving, Cooper, and Bryant. I have in mind to write that book as
+well.
+
+Traveling with Rourke s map opens up the American world to a
+fresh view of its distinctive ways of "imagining" itself in the world. We
+
+would perhaps be driven to rethink Marjorie Perloff s great essay
+"Pound/Stevens: Whose Era?" (1982) and ask instead (or in addition),
+for instance, "Reznikoff/Moore: Whose Era?" And we might be able
+
+to see why any conception of the "American Renaissance" without
+Poe and Dickinson won't do, and why Melville and the great writers
+
+of Europe held Cooper in such honor, and why Martin Delany is as
+important for our cultural memory as Frederick Douglass. Not many
+recall that Douglass did not found The North Star by himself. But we
+should.
+
+i
+
+Channeling Whitmans Democratic Vistas (1871), Richard Hofstadter observes that "It has been our fate as a nation not to have ideologies, but to be one." To the degree that this is the case, we would
+
+have to call this "American Ideology" (Seymour Lipseťs phrase) an
+Ideology of Enlightenment.1 It established itself in two great historical phases. The first came in and as the seventeenth-century Puritan
+establishment, the second in and as that eighteenth-century line of
+social and political thought that we call the Enlightenment. Sharply
+different as they are from each other, each is riven from within with
+conflicts and divisions: Roger Williams v. the General Court of Massachusetts, Anne Hutchinson v. John Winthrop, Congregationalist v.
+
+Quaker, Covenant v. Half-Covenant; and then, later, Paine v. a host
+of the Founding Fathers, Burr v. Hamilton, Adams v. Jefferson,
+Henry Clay and Daniel Webster v. Andrew Jackson. Both of those
+foundational imaginary sets- the Puritan and the secular Enlightenment-remain to this day living cultural forces perpetuating the con-
+
+tradictions of that double-edged sword we call American
+Exceptionalism. Most important, those respective habits of thought
+and expression feed upon certain textual instruments that command
+virtually absolute authority: in the first instance, the Bible; in the second, the American Constitution and the Bill of Rights. Remarkably,
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+Jerome McGanri / Indian Treaties and American Exceptionalism 149
+
+what began in North America as a struggle of religious commitments
+
+found its fulfillment- by no means its completion- as a struggle of
+secular ones.
+
+Those contradictions have preoccupied everyone who studies
+American history and culture and they are as well my subject here.
+
+While I want eventually to map those contradictions through key
+works of so-called "Classic American Literature ,"2 in this essay I
+focus on the general pertinence of a particular and neglected set of
+native American cultural events: Indian Treaties.3
+
+In a context dominated by global, transnational, and postcolonial
+studies- our current situation- such an approach might be reasonably judged dead on arrival. But I take it as an important and neglected truth what the poet observed, that there are "dead but sceptred
+sovereigns who still rule / Our spirits from their urns" (Byron, Manfred). Or in Trotskys inspiriting recalculation of Byron s cautionary
+reflection, that there is "a privilege of historical backwardness" (4).
+
+The peace and friendship treaties- "clasped hands" and "linking
+arms together" treaties- were dominating cultural events in the
+colonial period of American history (Williams 53, 116).4 They are
+important for understanding American history and culture exactly
+because the Revolution consigned them to what the new nation
+regarded as a superseded past.
+
+American culture between about 1780 and 1900 is, with notable
+exceptions, decidedly triumphal. In that spirit (critically framed as
+
+Classic American, or elevated to an American Renaissance), it
+brought forth a diverse body of imaginative prose and poetic reflections on American history and experience. In that corpus of work the
+
+customary terms of "The American Creed" of Exceptionalism are for better and for worse, in sickness or in health- on full display:
+"liberty, egalitarianism, individualism, populism, and laissez-faire"
+(Lipset 19). The historical conditions that promoted those values
+were Puritanism (the Puritan congregational government), the New
+World frontier, and- finally- the American Enlightenment (institu-
+
+tions of a Republican democracy).
+From the outset, America's Enlightenment imagination, both in
+its Puritan and its Republican forms, committed itself to a story that
+locates the national history in the orbit of Western ideas and Euro-
+
+pean colonial adventure. About 50 years ago Dale Van Every 's four-
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+15° Paideuma 44
+volume account oí The Frontier People of America (1754-1845) laid
+out a finished narrative version of this mythic tale. The volume Forth
+to the Wilderness (1961) is particularly eloquent. It gives an account
+
+of colonial North America from the end of the Seven Years War
+(1763) through a series of brutal Indian conflicts to the end of Dunmore s War (1774) and the onset of the American Revolution. In his
+
+foreword, the distinguished historian Ray Billington sees Every s
+work as a story "superbly" told, "distilling the essence from history
+
+... to reveal the broad sweep of human progress" (ix).
+The tale begins with the establishment in 1763 of George Ills
+Proclamation Line, which set the chain of the Appalachian Mountains as the western limit of white colonial expansion in America. It
+recounts the relentless pressure by colonists up and down that line to
+break across and begin the occupation of Indian territories to the further west. It ends with what Every calls "The Great Crossing" (chapter XX), when Daniel Boone breached the line, entering what is now
+Kentucky to found Boonesborough. A company of forty settlers soon
+followed, "arriving at Boonesborough," Every knowingly writes, "the
+day after Concord and Lexington" (1:348).
+
+This is how Every describes the Proclamation Line:
+On the one side was a civilized, politically and economically advanced community of industrious white men counseled by leaders of an intellectual
+capacity capable of identifying the lightning or composing a Declaration of
+
+Independence and on the other was a trackless, primordial wilderness
+infested by scattered tribes of irresponsible belligerent savages. (1:16)
+
+That is a lucid distillation of American history as it was broadly
+understood from the time of the earliest colonies until the 1960s.
+Although academic scholarship over the past five decades has complicated the story, it still dominates popular culture and contemporary politics. It feeds upon ideas, attitudes, and expressions that are as
+
+commonplace in colonial New England and New York as in the first
+Virginia settlements. This ideology would metastasize across the
+continent as the land was progressively appropriated and settled,
+forming and augmenting in the process a deeply meaningful corpus
+
+of American social and cultural memory and dream. Jefferson s
+"Empire of Liberty" and Whitman s "New World," like the Protes-
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+Jerome McGann / Indian Treaties and American Exceptionalism 151
+tant Reformation and its child, the Puritan "errand into the wilderness" (Perry Miller), simply made course corrections to a history that
+remained firmly Greco-Roman and Judeao-Christian.
+II
+
+Robert Frosts poem "The Gift Outright" was written out of that ide-
+
+ological nexus. The poem, Frost said, was "a history of the United
+States in a dozen lines of blank verse" ( Collected Prose 150). His fac-
+
+tual mismemory of the poem- it has sixteen lines- makes an interesting connection to the truncated history of the United States that
+the poem offers. In Frosts projection, "a history of the United States"
+
+only includes the Colonial Period as an explicitly rejected historyUnAmerican, so to say, and not part of what the United States
+"would become." "The Gift Outright" almost forgets, but not quite,
+
+the complex colonial histories that set the terms for "such as [the
+United States] would become" (348).
+The poem s own composition history shows how texts often expose
+
+certain matters of importance that they might have taken up but
+chose not to. The received last line- "such as she would become" was originally written (during the 1930s Depression) "such as she
+might become." Later, when President Kennedy asked Frost to read
+the poem at his inauguration, he also asked if Frost might change
+that last line to "such as she will become." Frost said he would.5 The
+difficult weather on Inauguration Day thwarted that decision, however. In the end Frost managed to recite only the first few lines of the
+poem. We will never know which final line he might have spoken.
+
+In Frosts nuanced argument, "we" Americans only become "possessed by" "the Land" when we make it a "deed of gift" of our lives
+in war. Frost is playing with a memory of the gifted land deeds native
+
+Americans made to English settlers during the colonial seventeenth
+and eighteenth centuries. One of the earliest of these was the 1621
+cession of Marthas Vineyard- Capawock was its Native name- to
+the Plymouth settlers, and our popular history records many more,
+
+some of them- like the land gifts William Penn told us he
+received- legendary events in American history.6 These deeds of gift
+
+would be scrupulously recorded by their colonial authors in many
+written and printed documents. But those early native gifts, Frost
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+i52 Paideuma 44
+suggests, would only get sealed when European immigrants to Amer-
+
+ica fought and died to take the land from the British Empire. The
+poem imagines these "many deeds of war" as beginning with the
+American Revolution and then continuing the country s Manifest
+Destiny to possess as much of the northern continent as possible
+("vaguely realizing westward"). Frosts poem explicitly does not
+remember the prehistory of the Revolution and its many colonial
+"deeds of war."
+Unpacking the poem s argument in this way, we may glimpse the
+tares growing in its field of waving grain. Frosts America is a memory
+
+whose focus on the Revolution has erased the nearly 200 years of
+colonial events that led up to it. That earlier period also saw "many
+deeds of war." Among the most consequential were the conflicts that
+caught up the colonists and the indigenes: the Powhatan Wars (1610-
+
+1646), the Pequot War (1637), King Philip's War (1675-1676), Bacon's
+Rebellion (1676), King William's War (1689-1697), the Tuscarora
+War (1711-1715), the Yamasee War (1715-1717), King George's War
+(1744-1748), the Seven Years War (1756-1763), the Anglo-Cherokee
+War (1758-1761), Pontiacs Rebellion (1763-1764), Lord Dunmore's
+War (1774), the Sullivan Expedition (1779). At the heart of all these
+military actions were struggles over land that one party wanted to
+acquire and control and the other wanted to keep or recover.
+Because the natives and the invaders were possessed by entirely different ideas about land and their relation to it, however, the wars also
+involved a fundamental conflict of civilizations.
+Although the invaders won all the wars and the natives lost nearly
+all their land, that ethnic conflict has not ended. If Native American
+tribal culture today is widespread and diverse, as it is, its civilities, like
+those of all non-white "Americans," remain systematically suborned.
+
+But that dismal subject isn't my subject. Rather, I want to suggest
+why the documentary record of the colonial period, where many
+deeds of war are set forth and glossed by the participants, must be
+
+radically reconceived and reread. For accompanying those colonial
+deeds of war at every point were a succession of treaties and deeds of
+peacemaking that equally engaged the conflicted parties. But a seri-
+
+ous discourse problem makes a clear view of that codependent history difficult to achieve. While the surviving deeds and associated
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+Jerome McGanri / Indian Treaties and American Exceptionalism 153
+
+commentaries are textual and Western, the treaty events that they
+document were in great measure oral and aboriginal.7
+When Indian gifts of land were translated into Western (textual)
+deeds of gift, native people came to recognize that a "pen and ink
+witchcraft" was often - indeed, nearly always- involved.8 Native gift-
+
+ing, as we shall see, could and did mutate into something else
+entirely when its social rituals- public, oral, and face to face- got
+textually represented in written deeds and treaties. This happened
+because there was a mismatch between what the natives and the
+immigrants understood when gifts were exchanged and treaties
+about land were made. The difference in media reflects a profound
+difference in social habitus.
+
+When Stuart Banner comments that "the concept of a land sale
+did not exist in North America before the English arrived," he identifies that crucial difference. Unlike the English who "had been buy-
+
+ing and selling land for centuries" (Banner 58), Native Americans
+did not own land, they lived in relation to it. As Canasatego put it in
+
+a famous speech to the Middle Colonists at a treaty convention in
+Philadelphia in 1742, his people, his ancestors, and their children all
+"came out of the ground," which was, he added, "everlasting" (Boyd,
+ed. 51).
+Canasatego was describing the ethos of what we call a subsistence
+
+economy. The People were part of a land that all creatures, not just
+human creatures, used and, in using, sustained. For native peoples,
+the land was more than a complex ecosystem, it was an existential
+absolute. To adapt a figure from abstract Western philosophy, it was
+Being in the cyclic Time of eternal return.
+
+In that frame of reference, when we read in the colonial documentary records about Indians "selling" lands that they "own," the
+language is entirely white and Western. Indians could not sell what
+they did not own. That is why William Cronon, discussing seventeenth-century land deals between natives and settlers, observes that
+
+they "had more to do with sovereignty than ownership" (66). The
+Powhatan Wars in Virginia erupted exactly because Powhatan
+insisted that he, not the English colony or the Crown, was- to adopt
+that Western legal term- sovereign of the lands the English wanted
+
+to settle.9 Only after three bloody wars- really, one long and
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+154 Paideuma 44
+renewed conflict (1610-1646)- would the English be able to settle, at
+least to their own satisfaction, their claim of sovereignty. They con-
+
+quered and destroyed the Powhatan Confederacy.
+Three years earlier, in 1646, the Wampanoag sachem Massasoit
+delivered one of the earliest and most celebrated declarations of the
+native view that their land was not alienable property. "What is this
+you call property? It cannot be the earth. For the land is our Mother
+. . . the woods, the streams, everything on it belongs to everybody and
+
+is for the use of all."10 Like nearly every Indian spokesman who
+would come after him, Massasoit did not recognize the concept of
+sovereignty at all. For Massasoit, the land itself was sovereign source.
+in
+
+For quite a long time we have known that so-called "Classic American Literature" is haunted, and that the haunting of our cultural
+works has scarcely ceased to this day. "What exactly was haunting
+antebellum America?" John Modern recently asked once again
+(284). Everyone cites the scandal of slavery- "America s original
+sin"- as at least one of the "unseen somethings haunting the day"
+(7), and not a few have recognized a demon driving the wars to seize
+the lands of Native Americans and destroy their civilizations (1610-
+
+1890). Largely focused on later, less primal nightmares, John Modern argued that they all reflect a philosophical ground he calls "the
+
+secular imaginary" (289). "More than an ideology" (282)- by which
+he means more than a constellation of related ideas- "the secular
+imaginary" is a quasi-religious faith,
+a moral force, a connective tissue, a widely shared and massively intricate set
+of epistemological assumptions. And like anything in excess of ideology, secularism defies logic, particularly its own. Consequently, it may be well-nigh
+impossible to measure the powers of this normalizing process in which the
+truly religious and the truly secular emerge as compatible, if not wholly continuous. (282-83)
+
+"What is haunting America" is, briefly, what popular culture has
+called the American Dream, so darkly addressed yet again by TaNehisi Coates in Between the World and Me. The nightmares that
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+Jerome McGarin / Indian Treaties and American Exceptionalism 155
+
+mutate from this dream are true historical realities- for instance, the
+history of violence in America- that get repeatedly translated, trans-
+
+formed, and recycled. Thomas Pynchon imagined them as the
+Thanatoids of Vineland. George Romero made them famous in a
+series of films about "the Living Dead."
+
+For Modern, "a language of ghostly possession" (xxix) underpins
+both Puritan and Enlightenment discourse. We are One Nation,
+under God, but God is now a "secular imaginary" pervading the
+exponents of America: according to the eclectic subtitle of Moderns
+book, "ghosts, Protestant subcultures, machines, and their metaphors
+. . . mass media, Moby-Dick , spirituality, phrenology, anthropology,
+
+Sing Sing Penitentiary, and sex with the new motive power." This
+comical and perverse list carries an unnerving argument-by-invitation: that we might each of us extend the list, according to our lights.
+
+For in Modern s view, the names of this demon are Legion and,
+more trying, they possess America. The secular imaginary itself
+could have been, perhaps should have been, added to Modern s list.
+It seems true, perhaps by definition, that this secular imaginary
+"defies logic," not least of all the logic of Modern s critical account.
+
+But because that secular imaginary is, as Modern points out, "a languages'-indeed, a living language- and therefore far from defying
+use and expression, I don't think it defies exposure and description.
+
+Such at any rate is my premise here, where I take a philological
+rather than a philosophical approach to the issues Modern addresses.
+That is to say, I try not to imagine that we students stand aside our
+
+subjects. My view proceeds from the inner standing point of my
+American language. In this way I hope to turn a small screw on the
+prevailing logic of critical method in order to seize the advantage
+one gains from close encounter where, as Laura (Riding) Jackson
+might say, "failure stalks in every word" (66).
+
+I say "a small screw" because I take my bearings from the peace
+and friendship Indian treaties- a corpus of American discourse
+undervalued by scholars of "Classic American Literature" and its
+abounding sequels: the scenes of encounter engaged- and then variously recorded- in the conferences and formal treaties made
+between Native Americans and Anglo-Americans from the early seventeenth century through the founding of the American republic in
+
+155
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+156 Paideuma 44
+the late eighteenth century. In those colonial documents, along with
+
+the contemporary narratives and commentaries that fill out their
+social and historical contexts, we can discover important upstream
+sources for what would later become a vast watershed.11 Deploying
+an ecological figure in the subtitle to one of his most famous and
+influential works (The Pioneers), Fenimore Cooper called that watershed "The Sources of the Susquehanna." A complex river system was
+Cooper s figure for the complex American history that was his book s
+true subject.12
+Almost 100 years ago Lawrence Wroth wrote a trenchant essay on
+
+the significance of these documentary remains. He called the
+treaties
+
+a neglected literary type that arose without conscious artistic design from the
+conflict of two distinct civilizations on the same soil- a type in which one
+reads the passion, the greed, and the love of life of hard-living men brought
+into close relationship without parallel conditions in the history of either race
+to guide its conduct. (766)
+
+The sentence is remarkable is several ways. Consider first of all that
+
+he describes these encounters as a "conflict of two distinct civilizations ." With few early American exceptions- Thomas Morton and
+Roger Williams are notable- the Western view has been, and still
+generally is, that Contact was between civilized (Early Modern) and
+uncivilized (Neolithic) peoples. Equally remarkable is that Wroth
+correctly saw "a neglected literary type" in these materials. But his
+account did not go on to parse this overlooked genre or explicate its
+
+deep significance. The deficiency was in great part removed by the
+ethno-historian of Native America William N. Fenton in his seminal
+essay "Structure, Continuity, and Change in the Process of Iroquois
+Treaty Making."
+Given the number and variety of treaties and treaty-makers in the
+seventeenth and eighteenth centuries, Fenton s focus on the Iroquois
+might seem too restricted. But in fact he chose well. First of all, the
+
+documentary record he could draw on is large and, even more
+important, historically comprehensive. That archive allowed Fenton
+
+to explain more than the impressive public policy coherence of the
+Covenant Chain treaties that Benjamin Franklin made famous
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+Jerome McGarin / Indian Treaties and American Exceptionalism *57
+
+when he published records of thirteen in his series of impressive
+folios.13 Fenton went behind the surface features of the treaties to dis-
+
+close the imaginative vision that shaped their meaning. The treaties
+were a structured, flexible, and highly articulated set of social cere-
+
+monies that could involve thousands of participants and that typically lasted many days, weeks, even months.
+More than "the product of the interaction of the two cultures," the
+treaties were "a species of drama in which the Iroquois were the playwrights, the directors, and teaching actors, and the joint producers
+with the colonial hosts" (Fenton 7). 14 Fenton sketched in good detail
+the general ritual forms and treaty protocols that grew organically
+
+with the historical emergence of the Iroquois Confederacy itself.
+They were a great Indian power in the regions where the British were
+
+establishing their early settlements in the seventeenth century. By
+the late seventeenth century, as the colonies matured and the settlers
+
+began pushing further westward, the Iroquois League had become
+the chief native power in the region.
+Most important of all, Fenton s synthetic analysis of the Iroquois
+
+Covenant Chain treaties threw into relief a widely dispersed Native
+American cultural mindset. We now think of the treaties almost
+exclusively in relation to their non-native participants, the New England, Middle, and Southern colonies that entered into them. But the
+Iroquois treaties were a social deduction drawn out of a general diplo-
+
+matic system that was operating well before the Europeans found
+their way to North America.
+
+The Iroquois treaty design is a social machinery for establishing
+peace and cooperation in a scene fraught with the threat of violence.
+
+It pivots on the gift exchange rituals- "total prestation"- famously
+described in Marcel Mauss s The Gift. Initiating and maintaining
+ceremonial gift exchanges were fundamental to the Neolithic civilizations of North America. In his classic study Stone Age Economics ,
+Marshall Sahlins explicated Mauss s theory of gift exchange through
+
+an extended comparison with Hobbes s Leviathan. For both Hobbes
+and Mauss, because "the understructure of society is war" (Sahlins
+171), mechanisms for avoiding its destructive inertia are imperative.
+Hobbes s first law of nature "is to seek Peace, and follow it" (177), and
+
+the modern secular state is the means for institutionalizing his
+famous Laws of Nature.15 "So in structure, [Hobbes s] argument
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+158 Paideuma 44
+unites with Mauss s. . . . Hobbes understands the suppression of
+Warre neither through the victory of one nor by the submission of all,
+
+but in a mutual surrender ' (177). That is the equivalent of Mauss s
+total prestation, the giving of gifts laying upon the receiver the obligation of reciprocity. In Sahlins' summary:
+The Gift transposes the classic alternatives of war and trade from the periphery
+
+to the very center of social life, and from the occasional episode to the continuous presence. . . . [Primitive society is at war with Warre, and ... all their
+dealings are treaties of peace. All their exchanges, that is to say, must bear in
+their material design some political burden of reconciliation. (182)
+
+The native people of America understood the authority and power
+of native kinship rules and gift-giving rituals. But because their histo-
+
+ries and geographies were not completely aligned- Abenaki and
+Ojibway, Narragansett and Pequot, Powhatan and Susquehannock,
+Iroquois and Algonquin- they were regularly thrown into the blood
+feuds and mourning wars that were a function of their own kinship
+
+obligations.16 The Iroquois League was created- probably sometime
+in the fifteenth century- around a series of ceremonial institutions
+
+that brought the original "Five Nations" of the League into cooperative relations. Those were the Onondaga, Oneida, Seneca, Cayuga,
+and Mohawk.
+
+So founded, the original Iroquois League fashioned a system of
+diplomatic intercourse that many different people throughout the
+region, native as well as non-native, could accommodate. When
+Benjamin Franklin proposed his famous Albany Plan at the Congress of 1755, he explicitly invoked the example of the Iroquois Confederacy. A coalition of allied colonies seemed to him the best means
+"for our common defense and Security." As his celebrated cartoon of
+the dissevered snake urged: "Join, or die." While his Albany Plan was
+rejected at the 1855 Congress, it would be in great part adopted when
+the colonies became the Confederate States of America and, finally,
+the United States of America.17
+
+The allied nations of the Iroquois League supplied the public ritual that shaped what we call the series of Covenant Chain treaty
+makings (1677-1768), which involved different Crown colonies as
+well as many indigenous people of the eastern region. The structure
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+Jerome McGann / Indian Treaties and American Exceptionalism 159
+
+was a sophisticated dilation of the gift-exchange ceremonies that
+were such an axial feature of native societies in North America. The
+
+Iroquois League executed a complex public event for renewing "the
+charter myth of the Great Peace" (Fenton 14), whose outward and
+visible sign was the Iroquois League itself. The ceremonies reflect
+and replay the events in the foundational epic of Deganawidah, the
+legendary Iroquois prophet who revealed "the Great Law" of peace
+that founded the Iroquois Confederacy, the alliance of five (and
+eventually six) nations that had previously been in recurrent conflict.
+English settlers and native people entered into their first treaty in
+
+1621. It was made between the Plymouth colony and Massasoit, the
+sachem of the Wampanoag Confederacy. Although the Plymouth
+settlers immediately abstracted it to a documentary record (March
+1621), the treaty itself involved a series of diplomatic ceremonies and
+
+gift exchanges that extended over nine months and culminated in
+that mythic American event called "the first Thanksgiving."18 As for
+
+the treaties with the Iroquois League, the earliest record we have is
+the 1645 Treaty of Trois-Rivières made with New France. James N.
+Fenton, Francis Jennings, and Mary Drucke have elucidated the
+form, symbology, and historical context of this treaty, supplying as
+well a reprint of an English translation of the original account from
+
+the Jesuit Relations ( Iroquois Diplomacy 127-53). Unlike the record
+of the 1621 treaty, the Jesuit Relations set down an unusually meticulous account of the events as they were orchestrated by the Iroquois
+
+for their French hosts. But the two treaties exhibit the same basic
+structure of Maussian reciprocal gift exchange ceremonials that get
+repeated over time.19 The Treaty of Trois-Rivières shows, in addition,
+the sophisticated forms that the Iroquois brought to the basic native
+
+gift-exchange rituals of the Covenant Chain treaties. Fenton has
+neatly summarized the "paradigm" that these spectacular ceremonials followed (28-30). A decisive innovation of Iroquois treaty making
+
+was the Condolence Ceremony ( Iroquois Diplomacy 150, 151), perhaps the most distinctive feature of Iroquois treaty-making: what the
+
+Jesuit recording the Treaty of Trois-Rivières called a "bond ... to
+console . . . and to wipe away . . . tears, according to the fashion of
+the barbarians" (150, 151). 20
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+i6o Paideuma 44
+CODA AS INCONCLUSIVE UNSCIENTIFIC POSTSCRIPT
+I have been sketching a crucial part of a continuous history stretching from the early seventeenth century to the late eighteenth cen-
+
+tury. It describes the principal means of social and political contact
+in the foundational colonial period. American native peoples and
+English immigrant communities negotiated their practical lifeworld
+relations through "barbarian" diplomatic protocols.
+To the extent that accommodation rather than force was the set-
+
+tlers' chosen modus operandi with the Indians, the available means
+were different versions of these native gift-exchange ceremonials.
+They mark an exceptionalism that has never been considered in the
+
+obsessive discussions of American Exceptionalism. The subject is
+normally taken up within a Western secular imagination of historical
+
+continuities and social progress. Of course, even such stadial imaginations of change recognize that they involve cultural upheaval, as
+Karl Polanyi's epochal work The Great Transformation (1944)
+showed.
+
+But Polanyi s tale of the Wests struggle to move from feudal to
+modern social and economic institutions is thoroughly Western in its
+
+focus. It does not reflect the radical character of the encounters
+between natives and invaders on American soil: a centuries-long
+face-to-face rendezvous between two profoundly different types of
+civilization; in the stadial terminology that still dominates our think-
+
+ing, one Early Modern, the other Neolithic. To grasp the radical
+character of the difference, consider the ioo-year-long British struggle to conquer Ireland, an event that overlapped the British invasion
+of America and supplied the invader with many of its military and
+civic leaders.21 In that case, the English were clashing with a late feu-
+
+dal civilization from which England itself was only beginning to
+emerge. Despite fierce divisions, not least of all religious divisions,
+the parties shared common memetic forms and were often able to
+
+meet on common ground. America was completely different
+because it already had sophisticated economic and social mechanisms that the Euro-Americans had to study and learn. Crucially,
+those native means for mitigating or preventing hostilities and, more
+positively, for enabling trade and social intercourse were civic instruments of aboriginal design.
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+Jerome McGanri / Indian Treaties and American Exceptionalism 161
+
+The native mechanisms reflect a need for conservative and stabi-
+
+lizing mechanisms in social spaces prone to violence and war. They
+are the political face of those subsistence economies that Marshall
+Sahlins in 1972 called "The Original Affluent Society." In our postmodern perspective, Sahlins s view seems at once true, preposterous,
+and unsettling.22 Firsthand seventeenth-century witnesses confirm
+that truth when they marvel at the rich natural resources of the New
+World. They all testify to and corroborate the power of the Neolithic
+subsistence technologies they discovered with the discovery of Amer-
+
+ica. But to John Locke- who never set foot in America, though he
+was deeply involved in exploiting its resources- the view was prepos-
+
+terous. As he remarks in his Second Treatise of Civil Government
+(1690), Native Americans "are rich in Land, and poor in all the Comforts of Life."23 The contradiction between those perspectives turns
+
+deeply unsettling when we suspect, as many now do, that extreme
+social alienation and conditions of endemic poverty are intimately
+bound up with technological achievements and political progress on
+one hand, and with ecological degradation and global threats to the
+biosphere on the other.
+
+What is haunting America is a stunned memory negatively preserved in those treaties, where a social mechanism for sustaining
+Generation through Nonviolence was set in motion to blunt or arrest
+
+the social inertias, both native and non-native, of Regeneration
+through Violence (Slotkin). The English parties that originally coop-
+
+erated in colonial treatymaking generally did so in bad faith, and
+after the Revolution they apostacized altogether. Although forced by
+
+circumstance to participate in "barbarian" political ceremonies, the
+English immigrants regarded them for almost two centuries as tem-
+
+porizing social expedients that they would sooner or later leave
+behind, as in fact they did. Because the native people who devised
+those ceremonies lived in territorialized ecospace and moved to
+cyclic, seasonal time, "temporizing social expedients" had a very different valence. For the native people, to be civilized meant to be sen-
+
+sible about the encompassing natural world, on one hand, and to
+work out stable, expedient, and timely social mechanisms on the
+other. Those would be the treaties that (a) were based in total prestation, and (b) had to be regularly renewed.
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+i62 Paideuma 44
+But for the apostates and especially for their children who constructed a Classic American Literature, the memory of a lost civiliza-
+
+tion preserved a secret life. We glimpse it in Crevecoeur s Letters
+from an American Farmer (1782) and even more in Jeffersons Notes
+on the State of Virginia (1785) and the tormented fictions of Charles
+
+Brockden Brown. But it is the career of James Fenimore Cooper
+where the dark truth of lost civilization - native and non-native becomes first completely visible. At that point, what we call "American Literature" began in earnest.
+Which of the documents of western civilization before James Fenimore Cooper realized that those documents of barbarism- the gift-
+
+exchange rituals and clasped-hands treaties- were transmitting
+messages of great importance for downstream America? We know
+that Franklin was listening both from his famous treaty folios and
+from his Albany Plan, which looked back to the organization of the
+
+Iroquois League and forward to the Confederate States of America.
+Or consider that while we customarily track the beginning of an
+environmental consciousness in America from Cooper to Thoreau,
+its roots are native and it was indigenous Americans who sacrificed
+their lives to preserve it.
+Classic American Literature and culture feeds off its colonial legacies, as we know. The culture of American slavery is a great part of
+that inheritance. But at least equally significant has been the legacy
+
+bequeathed through aboriginal/colonial contact. Whether contact
+was engaged in the Puritan colonies of New England, the plantation
+colonies of the South, or the mercantile Middle Colonies, the events
+
+were tense, perilous, and always brinked to conflict. The Indian
+treaties and their white documentary translations provide an invalu-
+
+able-if also fractured and obscured- record of foundational American history.
+
+Or consider briefly an early derivative record, the epochal Last of
+
+the Mohicans , which ends with an elaborate Condolence Ceremony. But in Cooper s mournful representation, it is not being practiced, it is being dismally elegized. The scene shows native American
+history mutating into white American myth. Presiding over the cere-
+
+mony is the Delaware sachem Tamenund (ca. 1625- ca. 1701), whose
+treaty making with William Penn licensed the happy American legend of Indian/colonial peace and friendship treaty making. We now
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+Jerome McGann / Indian Treaties and American Exceptionalism 163
+know that those founding treaty arrangements were far less happy
+
+than legend has argued.24 When Tamenund reappears in Cooper s
+work he is a literal ghost, having died a half century before the date
+of the action of Cooper's "Narrative of 1757." Cooper s re-enactment
+
+of the Condolence Ceremony is thus a spectral event, as we see
+when Colonel Munro, mourning the deaths of Uncas and his child
+Cora, addresses the assembly. "The time shall not be distant," Munro
+
+dreams, "when we may assemble . . . without distinction of sex, or
+rank, or color." To which Cooper appends Leatherstocking s mordant gloss:
+The scout listened to the tremulous voice in which the veteran delivered
+these words, and shook his head slowly when they were ended, as one who
+doubted their efficacy. "To tell them this," he said, "would be to tell them that
+the snows come not in the winter, or that the sun shines fiercest when the
+trees are stripped of their leaves." (Chapter 33)
+
+The Last of the Mohicans ends in a Condolence Ceremony of peace
+and friendship that Cooper s work remembers but disbelieves. His
+career from The Last of the Mohicans (1826) to The Crater (1847) will
+
+follow an arc of deepening skepticism, and a long line of American
+imaginative reflection will inherit and perpetuate that unhappy con-
+
+science. Reflecting on "Edgar Poe s Significance," Whitman called
+that conscience the "malady" of America (230). Poe, Melville, Twain,
+Henry Adams, the late James of The American Scene : in each we read
+
+the tormented renunciation of the exceptional American Dream
+originally revealed- unexpectedly, unbelievably- with aboriginal
+Contact.
+Paradoxically, the dream would survive through all those confessions of betrayal and disbelief. Even the Belle of Amherst made her
+work a mirror, and herself an index, of her Strange Nation s contradictory estrangements.25 We do not forget her 11 June 1852 letter to
+
+her beloved Susan. Reflecting on the Whig convention in Baltimore
+being torn apart over the question of slavery, Dickinson added a mor-
+
+dant postscript: "'Delenda esť America, Massachusetts and all!" And
+then came the letter s famous last words, warning Susan to "open me
+carefully" lest her forlorn testament shock her friend or, perhaps, her
+father, who was attending the convention and was carrying the letter
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+164 Paideuma 44
+to Susan (1:211-12). 26 A great American Apostate's Creed, those two
+
+sentences could be an epigraph for the internal exile she chose, the
+world elsewhere she imagined and lived.
+NOTES
+1. Hofstadter's remark is often quoted- for instance, in Seymour Lipseťs classic
+study, 18.
+
+2. The phrase is D. H. Lawrences, from his Studies in Classic American Literature
+(1923, 1924).
+
+3. The study of Indian treaties probably should begin with the following two works:
+Julian P. Boyd, ed., Indian Treaties Printed by Benjamin Franklin 1736-1762 (1938),
+and Francis Jennings et al., ed., The History and Culture of Iroquois Diplomacy
+(1995). Other important works, in chronological order, are: Lawrence C. Wroth,
+"The Indian Treaty as Literature" (1928), Constance Rourke, The Roots of American
+Culture and Other Essays (1942), A. M. Drummond and Richard Moody, "Indian
+Treaties: The First American Dramas" (1953), Francis Jennings, The Ambiguous Iroquois Empire (1984), Colin G. Calloway, Dawnland Encounters (1991), Robert A.
+Williams, Jr., Linking Arms Together (1997), James H. Merrell, "A Sort of Confusion:
+
+Treaties" (1999), Bruce E. Johansen, ed., Enduring Legacies: Native American
+Treaties and Contemporary Controversies (2004), and Colin G. Calloway, Pen and
+Ink Witchcraft (2013).
+
+4. Other treaties in the colonial period were imposed forcibly upon native people by
+colonials who had defeated them in war. These are not the treaties I am concerned
+with here. The clasped-hands figure appears on wampum treaty belts and eventually
+found its way into the embossed treaty medals that were a regular feature of later
+treaties- when, ironically, only the white hand wielded authority.
+5. The actual event turned out even more messy. He decided to write a new poem
+for the occasion and did, but the weather was so blustery that he couldn't read what
+he'd newly written, so he spontaneously began reciting "The Gift Outright" from
+memory. See Axelrod 209-10.
+6. Like all the land cessions made by the chief of the Wampanoag Confederacy to
+the Plymouth Colony, the Capowack gift was a gift of usufruct rights. See Cronon,
+chapter 4.
+
+7. I say "in great measure" because we do have some wampum records for the late
+treaties (see Iroquois Indians: A Documentary History ). In general, "Wampum served
+as aids to memory and storytelling as well as being ritualized gifts and records of
+agreements" (Calloway 27). But the colonial wampum record is seriously fractured
+and we remain uncertain, even profoundly ignorant, about how it was operating in
+the treatymaking ceremonies except in the most general ways. See Speck and Snyderman, "The Function of Wampum in Iroquois Religion." More studies of these
+documents as treaty records are needed. Mary A. Drucke's "Iroquois Treaties" in Iroquois Diplomacy is the best place to start. Useful discussion can be found in J. R.
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+Jerome McGarin / Indian Treaties and American Exceptionalism 165
+Miller; Calloway, Pen and Ink Witchcraft , 25-32; and Williams 51-58.
+8. Ottawa chief Egushawa originally used the phrase in 1791 when he spoke of "pen
+and ink witchcraft, [by] which they can make to speak things we never intended, or
+had any idea of, even an hundred years hence; just as they please" (11). The phrase
+enters the title of Calloway's excellent study. Note Egushawa 's "an hundred years
+since" and the depth of the cultural memory it signals.
+9. See Vaughan, ed., 4:8-9, 28. Seth Mallios has demonstrated how "[deteriorating
+exchange-based relations" undermined the settlement efforts at Ajacan, Roanoke,
+
+and Jamestown (23), but, as Mallios shows (see 21, 61, 69, 101-3), "exchangebased relations" were weak and uncertain from the outset.
+10. For Massasoit's comment, see Johansen, Encyclopedia , 211-12, and Marder, 10110. See also Cronon; Waters; and Snyderman, "Concepts of Land Ownership."
+1 1. 1 adopt this riverine analogy from the work of the great ethno-historian of Native
+
+American history William N. Fenton (see below).
+12. See my discussion of this matter in my essay "Philological Investigation II. A
+Page from Cooper," in A New Republic of Letters , 179-81.
+13. These are the treaties in Boyd's edition.
+14. Fenton calls the colonists the treaty "hosts" because the Covenant Chain treaty
+events nearly always took place at colonial venues (Albany, Lancaster, etc). The
+political implication of this arrangement should not be misunderstood. It is a sign of
+deference to the Indian nations, whose presence at the treaties has to be requested
+by the Crown colonies, who are also expected to bear the entire expense of the event
+(an obligation that the colonial hosts would often complain about).
+15. See Leviathan Book I, chapter 14: "the first and fundamental law of Nature,
+which is, 'to seek peace, and follow it.' The second, the sum of the right of Nature,
+which is, 'by all means we can, to defend ourselves.' From this fundamental law of
+Nature, by which men are commanded to endeavour peace, is derived this second
+law, 'that a man be willing, when others are so too, as far-forth as for peace and
+defence of himself he shall think it necessary, to lay down this right to all things, and
+
+be contented with so much liberty against other men as he would allow other men
+against himself.' For as long as every man holdeth this right of doing anything he
+liketh, so long are all men in the condition of war. But if other men will not lay down
+
+their right as well as he, then there is no reason for any one to divest himself of his;
+for that were to expose himself to prey, which no man is bound to, rather than to dis-
+
+pose himself to peace."
+16. On mourning wars see Richter; and Williams 53-57.
+17. See Shannon.
+18. The 1621 treaty was first recorded in William Bradford's diary of the first year of
+
+the settlement and then again later in his extended history Of Plymouth Plantation .
+The diary was first published in 1622 in a work now known as M ourťs Relation (see
+Dexter). Bradford's MS Of Plymouth Plantation , composed over a period of years
+(1630-1650), was first published in 1856.
+19. The eastern Algonquian tribes, including the Wampanoag tribes, adopted the
+Iroquois kaswentha ceremonials; see Speck.
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+i66 Paideuma 44
+20. Williams 53-61 gives a succinct account of the Condolence Ceremony and its
+relation to the Deganawida mythos. For the actual structure of the ceremonial see
+Fenton's commentary, 17-22. Jon Parmenter has many useful insights into the early
+history of Iroquois treatying with the French. See also where he points out that the
+treaties and councils were designed to facilitate a subsistence use of the land (2941)-
+
+21. "Assigning the Indians to Satan began almost with the first encounter" (Lovejoy
+606). See also Takaki.
+22. Marshall Sahlins, Stone Age Economics ; see especially chapter 1.
+23. See chapter 5 ("Of Property"), especially section 41. See also Cronon s commentary (54-55, 78-79) on Morton and Locke's different views.
+24. The legend of the amity between William Penn and Tamenend (Tammany,
+Tamenund) and the land sessions is the focus of Benjamin West's famous painting
+Treaty with the Indians (1771-1772). That the relations between the two were more
+difficult is now clear, however. In 1684, three years after Tamenend gifted lands to
+Penn, the sachem took a very different line, and Penn- back in England- wrote to
+his surveyor that Tamenend should be handled with severity. See Varga. "In 1685
+after Penn returned to England, Tammany apparently regretted the cession of territory and warned the new settlers to vacate the land. Some reportedly took his threats
+seriously and moved to New Jersey. To still the panic, Penn ordered measures taken
+to bring Tammany to order." Weslager 169. See also Myers, ed., where the matter is
+taken up at 24-25 and 83-91.
+25. See Kennedy's recent Strange Nation.
+26. Dickinson has in mind the tensions fracturing the Whig party as it was about to
+open its convention in June 1852. See Erkkila's comprehensive assessment of Dickinson's social and political views.
+
+WORKS CITED
+Axelrod, Steven Gould. "Frost and the Cold War." Robert Frost in Context. Ed.
+Mark Richardson. New York: Cambridge UP, 2014. 207-xx. Print.
+Banner, Stuart. How the Indians Lost their Land: Law and Power on the Frontier.
+Cambridge: Harvard UP: 2005. Print.
+Billington, Ray. Foreword. Van Every i:v-ix.
+
+Boyd, Julian P., ed. Indian Treaties Printed by Benjamin Franklin I7Ì6-1762.
+Philadelphia: Historical Society of Pennsylvania, 1928. Print.
+Bradford, William. History of Plymouth Plantation. Ed. Charles Deane. Boston:
+Massachusetts Historical Society, 1856. Print.
+Calloway, Colin G. Dawnland Encounters: Indians and Europeans in Northern New
+England. Hanover, NH: UP of New England, 1991. Print.
+- . Pen and Ink Witchcraft: Treaties and Treaty Making in Native American History.
+Oxford and New York: Oxford UP, 2013. Print.
+Coates, Ta-Nehisi. Between the World and Me. New York: Spiegel and Grau, 2015.
+Print.
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+Jerome McGann / Indian Treaties and American Exceptionalism 167
+Cooper, James Fenimore. The Last of the Mohicans. 2 vols. Philadelphia: H. C.
+Carey & I. Lea, 1826. Print.
+Cronon, William. Changes in the Land : Indians, Colonists, and the Ecology of New
+England. New York: Hill and Wang, 1983. Print.
+Dexter, Henry Martyn, ed. Mourťs Relation or Journal of the Plantation at Plymouth. Boston: John Kimball Wiggin, 1865. Print.
+
+Dickinson, Emily. Letters of Emily Dickinson. Ed. Thomas H. Johnson and
+Theodora Ward. 3 vols. Cambridge: Harvard UP, 1958. Print.
+Drucke, Mary A. "Iroquois Treaties. Common Forms, Varying Interpretations." Jennings, et al., ed. 85-114.
+Drummond, A. M., and Richard Moody. "Indian Treaties: The First American Dramas." Quarterly Journal of Speech 39 (1953): 15-24- Print.
+Egushawa. Minutes of Debates in Council, on the Banks of the Ottawa River, November, 1791. Baltimore: Warner & Hanna, 1800. Print.
+Erkkila, Betsy. "Dickinson and the Art of Politics." A Historical Guide to Emily Dickinson. Ed. Vivian R. Pollack. Oxford UP: New York, 2004. 133-74. Print.
+Fenton, William N. "Structure Continuity, and Change in the Process of Iroquois
+Treaty Making." Jennings, et al., ed. 3-36.
+Frost, Robert. Collected Prose. Ed. Mark Richardson. Cambridge, MA: Belknap P of
+Harvard UP, 2007. Print.
+- . "The Gift Outright." The Poetry of Robert Frost : The Collected Poems Complete
+and Unabridged. Ed. Edward Connery Latham. New York: Henry Holt, 1979.
+348. Print.
+
+Hobbes, Thomas. Leviathan. London, 1651. Print.
+Iroquois Indians : A Documentary History of the Diplomacy of the Six Nations and the
+League. 50 reels. Woodbridge, CT: Research Publications, 1984. Microform.
+Jackson, Laura (Riding). The Telling. New York: Harper and Row, 1973. Print.
+Jefferson, Thomas. Notes on the State of Virginia. 1785. Print.
+Jennings, Francis. The Ambiguous Iroquois Empire. The Covenant Chain Confederation of Indian Tribes with English Colonies from its Beginnings to the Lancaster
+Treaty of 1744. New York: W. W. Norton, 1984. Print.
+-, et al., ed. The History and Culture of Iroquois Diplomacy : An Interdisciplinary
+Guide to the Treaties of the Six Nations and their League. Syracuse: Syracuse
+UP, 1995. Print.
+
+Johansen, Bruce E., ed. Encyclopedia of Native American Economic History. Westport, CT: Greenwood P, 1999. Print.
+- . Enduring Legacies: Native American Treaties and Contemporary Controversies.
+Foreword by Vine De Loria Jr. Westport, CT: Praeger, 2004. Print.
+Kennedy, J. Gerald. Strange Nation: Literary Nationalism and Cultural Conflict in
+the Age of Poe. New York: Oxford UP, 2016.
+Lawrence, D. H. Studies in Classic American Literature. 1923, 1924. Print.
+Lipset, Seymour. American Exceptionalism: A Double-Edged Sword. New York:
+W. W. Norton, 1996. Print.
+Locke, John. Second Treatise of Civil Government. 1690. Print.
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+i68 Paideuma 44
+Lovejoy, David S. "Satanizing the American Indian." New England Quarterly 67.4
+(Dec. 1994): 603-21. Print.
+Mallios, Seth. The Deadly Politics of Giving : Exchange and Violence in Ajacan?
+Roanoke , and Jamestown. Tuscaloosa: U of Alabama P, 2006. Print.
+Marder, William. Indians in the Americas. San Diego: The Book Tree, 2005. Print.
+Mauss, Marcel. The Gift : Forms and Functions of Exchange in Archaic Societies.
+Trans. Ian Cunnison. Introduction by E. E. Evans-Pritchard. New York: Norton, 1967. Print.
+
+McGann, Jerome. A New Republic of Letters : Memory and Scholarship in an Age of
+Digital Reproduction. Cambridge: Harvard UP, 2014. Print.
+Merrell, James H. "A Sort of Confusion: Treaties." Into the American Woods. New
+York: Norton, 1999. 253-301. Print.
+Miller, J. R. Compacty Contracty Covenant : Aboriginal Treaty-Making in Canada.
+Toronto: U of Toronto P, 2009. Print.
+Miller, Perry. Errand into the Wilderness. Cambridge: Harvard UP, 1952. Print.
+Modern, John. Secularism in Antebellum America. Chicago: U of Chicago P, 2011.
+284. Print.
+
+Myers, Albert Cook, ed. William Penns Own Account of the Lenni Lenape or
+Delaware Indians. Rev. ed. Somerset, NJ, 1937. Print.
+Parmenter, Jon. Edge of the Woods: Iroquoiay 1534-1701. Lansing: Michigan State
+UP, 2010. Print.
+
+Richter, Daniel K. The Ordeal of the Longhouse : The Peoples of the Iroquois League
+in the Era of European Colonization. Chapel Hill: U of North Carolina P, 1992.
+Print.
+
+Rourke, Constance. The Roots of American Culture and Other Essays. Ed. Van
+Wyck Brooks. New York: Harcourt Brace, 1942. Print.
+Sahlin, Marshall. Stone Age Economics. Chicago: Aldine Atherton, 1972. Print.
+Shannon, Timothy J. Indians and Colonists at the Crossroads of Empire: The Albany
+Congress of 1754. Ithaca, NY: Cornell UP, 2000. Print.
+Slotkin, Richard. Regeneration Through Violence: The Mythology of the American
+Frontier 1600-1860. Middletown, CT: Wesleyan UP, 1974. Print.
+Snyderman, George S. "Concepts of Land Ownership Among the Iroquois and their
+Neighbors." Symposium on Local Diversity in Iroquois Culture. Ed. William N.
+Fenton. Smithsonian Institution. Bureau of American Ethnology Bulletin 149.
+Washington, DC: US Government Printing Office, 1051. 15-24. Print.
+Snyderman, George. "The Function of Wampum in Iroquois Religion." Proceedings
+of the American Philosophical Society 105. 6 (15 Dec. 1961): 571-608. Print.
+Speck, Frank. "The Functions of Wampum Among the Eastern Algonkian." American Anthropological Association Memoirs VI (1919): 3-71. Print.
+Takaki, Ronald. "The Tempest in the Wilderness: The Racialization of Savagery."
+Journal of American History 79. 3 (1992): 892-912. Print.
+Trotsky, Leon. History of the Russian Revolution. Trans. Max Eastman. Chicago:
+Haymarket Books, 2008. Print.
+Van Every, Dale. The Frontier People of America (1754-1845). 4 vols. New York:
+Morrow, 1960-1965. Print.
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+Jerome McGanri / Indian Treaties and American Exceptionalism 169
+Varga, Nicholas. "Americas Patron Saint: Tammany." Journal of American Culture
+10.4 (1987): 45-51. Print.
+Vaughan, Alden T., ed. Early American Indian Documents: Treaties and Laws ,
+1607-178 9. Washington, DC: University Publications of America, 1979. Print.
+Waters, Frank. Brave Are My People. Santa Fe: Clear Light Publishers, 1993. Print.
+Weslager, C. A. The Delaware Indians : A History. New Brunswick NJ, 1972. Print.
+Whitman, Walt. Specimen Days. Prose Works 1892 , Volume 1. Ed. Floyd Stovall.
+New York: NYU P, 1963. Print.
+Williams, Robert A., Jr. Linking Arms Together : American Indian Treaty Visions of
+Law and Peacey 1600-1800. Oxford UP: New York, 1997. Print.
+Wroth, Lawrence C. "The Indian Treaty as Literature." Yale Review 17 (1928): 74966. Print.
+
+This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:22:55 UTC
+All use subject to https://about.jstor.org/terms
+
+

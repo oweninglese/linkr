@@ -1,0 +1,3 @@
+---
+Aliases: [ "#gain-of-function" ]
+---
