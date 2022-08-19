@@ -17,14 +17,13 @@ arts = base_dir + artdir
 
 
 def resub(tag, line):
-    return re.sub(tag, "[[" + tag + "]]", line)
+    return re.sub(tag, f"[[{tag}]]", line)
 
 
 def get_tagfile():
     with open(tfile, "r") as tagfile:
         j = tagfile.read()
-        h = j.split(",")
-        return h
+        return j.split(",")
 
 
 def load_folder():
@@ -47,13 +46,12 @@ Returns:
 
 # print(i)
 
-def sub_file(file, tag, pobject):
+def sub_file(file, tag):
     """
     check single file for single tag
     """
     print(file, tag)
     with open(arts + file) as text:
-        post = text.read()
         pst = text.readlines()
         yamlend = endof_yaml(pst)
         print(yamlend)
@@ -80,18 +78,16 @@ def search_yaml(file, a):
 def endof_yaml(file):
     a = re.compile("---")
     b = []
-    c = search_yaml(file, a)
-    return c
+    return search_yaml(file, a)
 
 
 def tags_f(tag, pobject):
-    sub_file(pobject['title'] + ".md", tag, pobject)
+    sub_file(pobject['title'] + ".md", tag)
 
 
 def check_tags(afile, tag):
     post = fm.load(arts + afile)
     if tag in post.content:
-        print("found tag " + tag)
         post['tags'] += f" #{tag};"
         with open(arts + afile, 'w', encoding='utf-8') as text:
             text.write(fm.dumps(post))
@@ -101,10 +97,7 @@ def check_tags(afile, tag):
 load_folder()
 
 for filename in os.listdir(arts):
-    if filename.endswith(".md"):
-        afile = str(filename)
-    else:
-        afile = None
+    afile = str(filename) if filename.endswith(".md") else None
     with open(tfile, "r") as tagfile:
         j = tagfile.read()
         h = j.split(",")
