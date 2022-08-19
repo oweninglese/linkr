@@ -71,7 +71,6 @@ def search_yaml(file, a):
         if a.search(n):
             print("found yaml")
             end = i
-
     return end
 
 
