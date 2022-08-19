@@ -1,6 +1,7 @@
 #! /usr/bin/python
 
-"""sumary_line
+""" begin
+
 
 Keyword arguments:
 argument -- description
@@ -46,7 +47,8 @@ def check_file():
 
 
 def cleantags(tags):
-    """sumary_line
+    """ begin
+    `
     Keyword arguments:
     argument -- description
     Return: return_description
@@ -74,7 +76,8 @@ TAGS = check_file()
 
 
 def start(tags, articles):
-    """`sumary_line`a
+    """` begin
+    ``a
     Keyword arguments:
     argument -- description
     Return: return_description
