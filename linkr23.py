@@ -6,7 +6,6 @@ argument -- description
 Return: return_description
 """
 
-from abc import ABC
 import os
 import re
 
@@ -74,7 +73,7 @@ def endof_yaml(file):
     return search_yaml(file, abc)
 
 
-def check_file(tf):
+def check_file(tfi):
     """sumary_line"""
     bad = get_tags(tfi)
     return cleantags(bad)

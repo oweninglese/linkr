@@ -1,11 +1,11 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "../../../Library/new/.obsidian/snippets"
+		},
+		{
+			"path": ".."
 		}
 	],
-	"settings": {
-		"editor.tabCompletion": "on",
-		"diffEditor.codeLens": true
-	}
+	"settings": {}
 }

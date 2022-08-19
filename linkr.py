@@ -93,7 +93,7 @@ def check_tags(afile, tag):
     if tag in post.content:
         print("found tag " + tag)
         post['tags'] += f" #{tag};"
-        with open(arts + afile, 'w') as text:
+        with open(arts + afile, 'w', encoding='utf-8') as text:
             text.write(fm.dumps(post))
         tags_f(tag, post)
 
