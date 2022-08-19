@@ -1,29 +1,26 @@
 #! /usr/bin/python
-import json
-import io
 import os
-import posixpath
 import re
 from datetime import date
 
 import frontmatter as fm
-import yamldown
+from linkr26 import ARTDIR, TFILE
 
-artdir = '/vault/'
 TAGS: str = ''
-tfile = 'TAGS.csv'
 base_dir = os.path.abspath(os.path.dirname(__file__))
-arts = base_dir + artdir
+arts = base_dir + ARTDIR
 
 
 def resub(tag, line):
+    """sumary_line fm.load(afile)['summary']"""
     return re.sub(tag, f"[[{tag}]]", line)
 
 
 def get_tagfile():
-    with open(tfile, "r") as tagfile:
-        j = tagfile.read()
-        return j.split(",")
+    """sumary_line fm.load(afile)['summary']"""
+    with open(TFILE, "r", encoding="utf-8") as gfile:
+        jgf = gfile.read()
+        return jgf.split(",")
 
 
 def load_folder():
@@ -31,31 +28,29 @@ def load_folder():
 Args:
     TESTDIR (folder): folder containing md files
 Returns:
-    list: [list of dicts] --> [filename]: [Post object]"""
-    for filename in os.listdir(arts):
-        if filename.endswith(".md"):
-            post = fm.load(arts + filename)
+    list: [list of dicts] --> [fname]: [Post object]"""
+    for fname in os.listdir(arts):
+        if fname.endswith(".md"):
+            post = fm.load(arts + fname)
             post['author'] = 'ohmanfoo'
             post['source'] = '#todo'
             post['tags'] = ''
             post['created'] = str(date.today())
-            post['title'] = filename[:-3]
-            with open(arts + filename, 'w') as text:
+            post['title'] = fname[:-3]
+            with open(arts + fname, 'w', encoding="utf-8") as text:
                 text.write(fm.dumps(post))
 
-
-# print(i)
 
 def sub_file(file, tag):
     """
     check single file for single tag
     """
     print(file, tag)
-    with open(arts + file) as text:
+    with open(arts + file, encoding="utf-8") as text:
         pst = text.readlines()
         yamlend = endof_yaml(pst)
         print(yamlend)
-    with open(arts + file, 'w') as writer:
+    with open(arts + file, 'w', encoding="utf-8") as writer:
         for i, line in enumerate(pst):
             if i > int(yamlend):
                 newline = resub(tag, line)
@@ -65,26 +60,27 @@ def sub_file(file, tag):
 
 
 def search_yaml(file, a):
+    """sumary_line fm.load(afile)['summary']"""
     end = []
-    for i, n in enumerate(file, 1):
-        if i < 10: print(n)
-        if a.search(n):
-            print("found yaml")
+    for i, nic in enumerate(file, 1):
+        if i < 10 and a.search(nic):
             end = i
     return end
 
 
 def endof_yaml(file):
-    a = re.compile("---")
-    b = []
-    return search_yaml(file, a)
+    """sumary_line fm.load(afile)['summary']"""
+    abc = re.compile("---")
+    return search_yaml(file, abc)
 
 
 def tags_f(tag, pobject):
+    """sumary_line fm.load(afile)['summary']"""
     sub_file(pobject['title'] + ".md", tag)
 
 
 def check_tags(afile, tag):
+    """sumary_line fm.load(afile)['summary']"""
     post = fm.load(arts + afile)
     if tag in post.content:
         post['tags'] += f" #{tag};"
@@ -95,14 +91,10 @@ def check_tags(afile, tag):
 
 load_folder()
 
-for filename in os.listdir(arts):
-    afile = str(filename) if filename.endswith(".md") else None
-    with open(tfile, "r") as tagfile:
+for fame in os.listdir(arts):
+    afile = str(fame) if fame.endswith(".md") else None
+    with open(TFILE, "r", encoding="utf-8") as tagfile:
         j = tagfile.read()
         h = j.split(",")
-        print(f"Checking : {afile} ")
-        for i in h:
-            check_tags(afile, i)
-
-
-
+        for ick in h:
+            check_tags(afile, ick)
