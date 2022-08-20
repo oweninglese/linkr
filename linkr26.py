@@ -9,6 +9,7 @@ Return: return_description
 """
 
 import os
+
 from linkr import TFILE
 
 ARTDIR = '/final/'
@@ -98,7 +99,7 @@ def start(tags, articles):
                         encoding='utf-8') as nfile:
                     nfile.write(f"\n[[{article}]]")
                     nfile.write(f"#{article}")
-                    print(f"linked {article}
+                    print(f"linked {article}\
                           to {tag}")
 
 

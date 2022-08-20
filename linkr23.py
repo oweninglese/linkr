@@ -9,13 +9,13 @@ Return: return_description
 import os
 import re
 
-
 import frontmatter as fm
 import yamldown as yd
-from linkr import ARTDIR, TFILE
 
-TAGS: str = ''
-base_dir = os.path.abspath(os.path.dirname(__file__))
+from linkr import ARTDIR, TAGS, base_dir, load_folder, resub, start, tagfile, \
+    resub, endof_yaml, search_yaml
+
+
 arts = base_dir + ARTDIR
 TEST = """Aboriginal Peoples and Comprehensive Land
 Claims Negotiations in Canada.md"""
@@ -44,33 +44,12 @@ def suball():
         print(f"made {subs} substitions")
 
 
-def resub(tag, line):
-    """sumary_line"""
-    return re.sub(tag, f"[[{tag}]]", line)
-
-
 def checkforend():
     """sumary_line"""
     with open(tfi, "r", encoding='utf-8') as file:
         text = file.readlines()
         end = endof_yaml(text)
     return end
-
-
-def search_yaml(file, abc):
-    """sumary_line"""
-    end = []
-    for i, nbc in enumerate(file, 1):
-        if abc.search(nbc):
-            end = i
-            print(f"end {end}")
-    return end
-
-
-def endof_yaml(file):
-    """sumary_line"""
-    abc = re.compile("---")
-    return search_yaml(file, abc)
 
 
 def check_file(tfi):

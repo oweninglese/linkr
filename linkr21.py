@@ -1,13 +1,18 @@
 #! /usr/bin/python
+"""sumary_line
+
+Keyword arguments:
+argument -- description
+Return: return_description
+"""
+
 import os
 
 import frontmatter as fm
 
-from linkr import ARTDIR, load_folder, resub, start, tagfile
+from linkr import ARTDIR, load_folder,\
+    resub, start, tagfile, TAGS, base_dir
 
-
-TAGS: str = ''
-base_dir = os.path.abspath(os.path.dirname(__file__))
 arts = base_dir + ARTDIR
 
 

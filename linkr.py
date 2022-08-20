@@ -8,8 +8,8 @@
 import os
 import re
 from datetime import date
-import frontmatter as fm
 
+import frontmatter as fm
 
 ARTDIR = '/vault/'
 TAGS: str = ''
