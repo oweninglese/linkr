@@ -2,8 +2,10 @@
 import os
 import re
 from datetime import date
+
 import frontmatter as fm
-from linkr import ARTDIR, resub, tagfile, load_folder, start
+
+from linkr import ARTDIR, load_folder, resub, start, tagfile
 
 TAGS: str = ''
 base_dir = os.path.abspath(os.path.dirname(__file__))
