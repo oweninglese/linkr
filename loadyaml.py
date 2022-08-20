@@ -14,7 +14,7 @@ import yamldown as yd
 
 from linkr import (ARTDIR, arts, TAGS, base_dir, endof_yaml, load_folder, resub,
                    search_yaml, start, tagfile)
-from linkr23 import (TFILE, check_file, checkforend, cleantaggs,
+from makesubs import (TFILE, check_file, checkforend, cleantaggs,
                      get_post, get_postcontent, get_tags, suball)
 
 

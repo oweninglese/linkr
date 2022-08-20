@@ -10,7 +10,7 @@ import os
 from datetime import date
 
 from linkr import TAGS, TFILE, base_dir
-from linkr23 import check_file, cleantags
+from makesubs import check_file, cleantags
 
 ARTDIR = '/final/'
 arts = base_dir + ARTDIR
