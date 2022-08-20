@@ -1,7 +1,5 @@
 #! /usr/bin/python
 import os
-import re
-from datetime import date
 
 import frontmatter as fm
 
@@ -16,7 +14,7 @@ def check_tags(afile, tag):
     post = fm.load(arts + afile)
     if tag in post.content:
         post['tags'] += f" #{tag};"
-        with open(arts + afile, 'w') as text:
+        with open(arts + afile, 'w', encoding="utf-8") as text:
             text.write(fm.dumps(post))
 
 
