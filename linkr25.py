@@ -22,7 +22,8 @@ def get_tags():
     argument -- description
     Return: return_description
     """
-    with open(TFILE, "r", encoding='utf-8') as tagfile:
+    with open(TFILE, "r",
+              encoding='utf-8') as tagfile:
         j = tagfile.read()
         return j.split(",")
 
@@ -61,13 +62,15 @@ def start(tags):
     while "" in cleartags:
         cleartags.remove("")
     for tag in cleartags:
-        with open(arts + tag + ".md", "w", encoding='utf-8') as newfile:
+        with open(arts + tag + ".md", "w",
+                  encoding='utf-8') as newfile:
             post = {'author': 'ohmanfoo',
                     'source': '#todo',
                     'tags': '',
                     'created': str(date.today())}
             post['title'] = tag
-            newpost = ''.join(f"\n{str(i)}: {post[i]}\n" for i in post)
+            newpost = ''.join(f"\n{str(i)}:
+                        {post[i]}\n" for i in post)
             npi = f"---\n{newpost}\n---"
             newfile.write(npi)
             count += 1

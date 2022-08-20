@@ -12,7 +12,7 @@ import os
 import posixpath
 import re
 from datetime import date
-from linkr import ARTDIR, resub, tagfile, load_folder, start
+from linkr import ARTDIR, resub, get_tagfile, load_folder, start
 from linkr21 import check_tags
 import frontmatter as fm
 import yamldown

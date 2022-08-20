@@ -5,6 +5,7 @@ import frontmatter as fm
 
 from linkr import ARTDIR, load_folder, resub, start, tagfile
 
+
 TAGS: str = ''
 base_dir = os.path.abspath(os.path.dirname(__file__))
 arts = base_dir + ARTDIR

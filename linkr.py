@@ -10,6 +10,7 @@ import re
 from datetime import date
 import frontmatter as fm
 
+
 ARTDIR = '/vault/'
 TAGS: str = ''
 TFILE = 'linkr/TAGS.csv'
@@ -24,17 +25,20 @@ def resub(tag, line):
 
 def get_tagfile():
     """sumary_line fm.load(afile)['summary']"""
-    with open(TFILE, "r", encoding="utf-8") as gfile:
+    with open(TFILE, "r",
+              encoding="utf-8") as gfile:
         jgf = gfile.read()
         return jgf.split(",")
 
 
 def load_folder():
-    """ load all md in TESTDIR and append Post object to files dict list
-Args:
+    """ load all md in TESTDIR and append
+    Post object to files dict list
+    Args:
     TESTDIR (folder): folder containing md files
-Returns:
-    list: [list of dicts] --> [fname]: [Post object]"""
+R   eturns:
+    list: [list of dicts] -->
+    [fname]: [Post object]"""
     for fname in os.listdir(arts):
         if fname.endswith(".md"):
             post = fm.load(arts + fname)
@@ -43,7 +47,8 @@ Returns:
             post['tags'] = ''
             post['created'] = str(date.today())
             post['title'] = fname[:-3]
-            with open(arts + fname, 'w', encoding="utf-8") as text:
+            with open(arts + fname, 'w',
+                        encoding="utf-8") as text:
                 text.write(fm.dumps(post))
 
 
@@ -52,11 +57,13 @@ def sub_file(file, tag):
     check single file for single tag
     """
     print(file, tag)
-    with open(arts + file, encoding="utf-8") as text:
+    with open(arts + file,
+              encoding="utf-8") as text:
         pst = text.readlines()
         yamlend = endof_yaml(pst)
         print(yamlend)
-    with open(arts + file, 'w', encoding="utf-8") as writer:
+    with open(arts + file, 'w',
+              encoding="utf-8") as writer:
         for i, line in enumerate(pst):
             if i > int(yamlend):
                 newline = resub(tag, line)

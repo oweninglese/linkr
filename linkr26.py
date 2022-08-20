@@ -18,11 +18,13 @@ arts = base_dir + ARTDIR
 
 
 def link_article(tagfile, article):
-    """link tag article to article with tag in it
+    """link tag article to article
+    with tag in it
 
     Args:
-        tag (str): file name str to be filled
-        article (str): mkdown file to be linked to tag"""
+        tag (str): file name str to fill
+        article (str): mkdown file to link
+    """
     tagfile.write(f"[[{article}]]")
     tagfile.write(f"#{article}")
 
@@ -33,7 +35,8 @@ def get_tags():
         argument -- description
         Return: return_description
     """
-    with open(TFILE, "r", encoding='utf-8') as tagfile:
+    with open(TFILE, "r",
+              encoding='utf-8') as tagfile:
         j = tagfile.read()
         return j.split(",")
 
@@ -69,7 +72,8 @@ def get_articles():
     argument -- description
     Return: return_description
     """
-    return [f for f in os.listdir(arts) if f.endswith(".md")]
+    return [f for f in os.listdir(arts)
+            if f.endswith(".md")]
 
 
 ARTICLES = get_articles()
@@ -84,15 +88,18 @@ def start(tags, articles):
     Return: return_description
     """
     for article in articles:
-        cleartags = [tag.strip(" ") for tag in tags]
+        cleartags = [tag.strip(" ")
+                     for tag in tags]
         while "" in cleartags:
             cleartags.remove("")
         for tag in cleartags:
             if tag in article:
-                with open(arts + tag + ".md", "a", encoding='utf-8') as nfile:
+                with open(arts + tag + ".md", "a",
+                        encoding='utf-8') as nfile:
                     nfile.write(f"\n[[{article}]]")
                     nfile.write(f"#{article}")
-                    print(f"linked {article} to {tag}")
+                    print(f"linked {article}
+                          to {tag}")
 
 
 start(TAGS, ARTICLES)

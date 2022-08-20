@@ -17,7 +17,8 @@ from linkr import ARTDIR, TFILE
 TAGS: str = ''
 base_dir = os.path.abspath(os.path.dirname(__file__))
 arts = base_dir + ARTDIR
-TEST = "Aboriginal Peoples and Comprehensive Land Claims Negotiations in Canada.md"
+TEST = """Aboriginal Peoples and Comprehensive Land
+Claims Negotiations in Canada.md"""
 tfi = arts + TEST
 
 
