@@ -13,7 +13,6 @@ import frontmatter as fm
 ARTDIR = '/vault/'
 TAGS: str = ''
 TFILE = 'linkr/TAGS.csv'
-TAGS: str = ''
 base_dir = os.path.abspath(os.path.dirname(__file__))
 arts = base_dir + ARTDIR
 
@@ -98,10 +97,14 @@ def check_tags(afile, tag):
 
 load_folder()
 
-for fame in os.listdir(arts):
-    allfile = str(fame) if fame.endswith(".md") else None
-    with open(TFILE, "r", encoding="utf-8") as tagfile:
-        j = tagfile.read()
-        h = j.split(",")
-        for ick in h:
-            check_tags(allfile, ick)
+
+def start():
+    for fame in os.listdir(arts):
+        allfile = str(fame) if fame.endswith(".md") else None
+        with open(TFILE, "r", encoding="utf-8") as tagfile:
+            j = tagfile.read()
+            h = j.split(",")
+            for ick in h:
+                check_tags(allfile, ick)
+
+start()
