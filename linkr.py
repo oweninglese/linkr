@@ -102,9 +102,6 @@ def check_tags(afile, tag):
         tags_f(tag, post)
 
 
-load_folder()
-
-
 def start():
     for fame in os.listdir(arts):
         allfile = str(fame) if fame.endswith(".md") else None
@@ -113,6 +110,3 @@ def start():
             h = j.split(",")
             for ick in h:
                 check_tags(allfile, ick)
-
-
-start()

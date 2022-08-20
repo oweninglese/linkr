@@ -12,11 +12,9 @@ import re
 import frontmatter as fm
 import yamldown as yd
 
-from linkr import ARTDIR, TAGS, base_dir, load_folder, resub, start, tagfile, \
-    resub, endof_yaml, search_yaml
+from linkr import (ARTDIR, TAGS, base_dir, endof_yaml, load_folder, resub,
+                   search_yaml, start, tagfile, arts)
 
-
-arts = base_dir + ARTDIR
 TEST = """Aboriginal Peoples and Comprehensive Land
 Claims Negotiations in Canada.md"""
 tfi = arts + TEST
@@ -26,7 +24,7 @@ def suball():
     """sumary_line"""
     abc = checkforend()
     subs = 0
-    tags = check_file(tfi)
+    tags = check_file()
     cleartags = [tag.strip(" ") for tag in tags]
     while "" in cleartags:
         cleartags.remove("")
@@ -52,19 +50,21 @@ def checkforend():
     return end
 
 
-def check_file(tfi):
-    """sumary_line"""
-    bad = get_tags(tfi)
-    return cleantags(bad)
-
+def check_file():
+    """check if file exists
+    Keyword arguments:
+    argument -- description
+    Return: return_description
+    """
+    return cleantags(get_tags(tfi))
 
 def cleantags(tags):
-    """sumary_line"""
+    """sumary_line  remove empty tags"""
     alltags = []
-    for i in tags.split():
-        poo = i.strip("#")
-        oop = poo.strip(";")
-        alltags.append(oop)
+    for i in tags:
+        p = i.strip("#")
+        o = p.strip(";")
+        alltags.append(o)
     return alltags
 
 
@@ -86,7 +86,7 @@ def get_post(tfi):
         return post
 
 
-bad = check_file(tfi)
+bad = check_file()
 cad = checkforend()
 dad = suball()
 print(dad)

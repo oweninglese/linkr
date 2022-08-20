@@ -10,12 +10,10 @@ Return: return_description
 
 import os
 
-from linkr import TFILE
+from linkr import TAGS, TFILE, base_dir, arts
+from create_tagfiles import check_file, cleantags, get_tags
 
 ARTDIR = '/final/'
-TAGS: str = ''
-base_dir = os.path.abspath(os.path.dirname(__file__))
-arts = base_dir + ARTDIR
 
 
 def link_article(tagfile, article):
@@ -30,43 +28,6 @@ def link_article(tagfile, article):
     tagfile.write(f"#{article}")
 
 
-def get_tags():
-    """GET TAGS FROM TAGS.CSV
-        Keyword arguments:
-        argument -- description
-        Return: return_description
-    """
-    with open(TFILE, "r",
-              encoding='utf-8') as tagfile:
-        j = tagfile.read()
-        return j.split(",")
-
-
-def check_file():
-    """check if file exists
-    Keyword arguments:
-    argument -- description
-    Return: return_description
-    """
-    return cleantags(get_tags())
-
-
-def cleantags(tags):
-    """ begin
-    `
-    Keyword arguments:
-    argument -- description
-    Return: return_description
-    """
-    alltags = []
-
-    for i in tags:
-        pii = i.strip("#")
-        opi = pii.strip(";")
-        alltags.append(opi)
-    return alltags
-
-
 def get_articles():
     """get all articles in arts directory
     Keyword arguments:
@@ -78,7 +39,7 @@ def get_articles():
 
 
 ARTICLES = get_articles()
-TAGS = check_file()
+CLTAGS = check_file()
 
 
 def start(tags, articles):
@@ -103,4 +64,4 @@ def start(tags, articles):
                           to {tag}")
 
 
-start(TAGS, ARTICLES)
+start(CLTAGS, ARTICLES)

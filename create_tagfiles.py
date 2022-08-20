@@ -9,11 +9,10 @@ Return: return_description
 import os
 from datetime import date
 
-from linkr import TFILE
+from linkr import TAGS, TFILE, base_dir
+from linkr23 import check_file, cleantags
 
 ARTDIR = '/final/'
-TAGS: str = ''
-base_dir = os.path.abspath(os.path.dirname(__file__))
 arts = base_dir + ARTDIR
 
 
@@ -27,26 +26,6 @@ def get_tags():
               encoding='utf-8') as tagfile:
         j = tagfile.read()
         return j.split(",")
-
-
-def check_file():
-    """sumary_line
-    Keyword arguments:
-    argument -- description
-    Return: return_description
-    """
-    bad = get_tags()
-    return cleantags(bad)
-
-
-def cleantags(tags):
-    """sumary_line  remove empty tags"""
-    alltags = []
-    for i in tags:
-        p = i.strip("#")
-        o = p.strip(";")
-        alltags.append(o)
-    return alltags
 
 
 TAGS = check_file()

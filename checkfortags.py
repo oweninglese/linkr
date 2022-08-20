@@ -10,10 +10,8 @@ import os
 
 import frontmatter as fm
 
-from linkr import ARTDIR, load_folder,\
-    resub, start, tagfile, TAGS, base_dir
-
-arts = base_dir + ARTDIR
+from linkr import (ARTDIR, TAGS, arts, base_dir, load_folder, resub, start,
+                   tagfile)
 
 
 def check_tags(afile, tag):
