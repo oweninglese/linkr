@@ -6,14 +6,14 @@ argument -- description
 Return: return_description
 """
 
-import os
 from datetime import date
 
 from linkr import TAGS, TFILE, base_dir
-from makesubs import check_file, cleantags
+from makesubs import check_file
 
 ARTDIR = '/final/'
 arts = base_dir + ARTDIR
+TAGS = check_file()
 
 
 def get_tags():
@@ -49,8 +49,7 @@ def start(tags):
                     'tags': '',
                     'created': str(date.today())}
             post['title'] = tag
-            newpost = ''.join(f"\n{str(i)}:
-                        {post[i]}\n" for i in post)
+            newpost = ''.join(f"\n{str(i)}{post[i]}\n" for i in post)
             npi = f"---\n{newpost}\n---"
             newfile.write(npi)
             count += 1

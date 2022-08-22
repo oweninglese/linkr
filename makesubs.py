@@ -6,14 +6,11 @@ argument -- description
 Return: return_description
 """
 
-import os
-import re
 
 import frontmatter as fm
-import yamldown as yd
 
-from linkr import (ARTDIR, TAGS, base_dir, endof_yaml, load_folder, resub,
-                   search_yaml, start, tagfile, arts)
+from linkr import (endof_yaml, resub,
+                   arts)
 
 TEST = """Aboriginal Peoples and Comprehensive Land
 Claims Negotiations in Canada.md"""
@@ -57,6 +54,7 @@ def check_file():
     Return: return_description
     """
     return cleantags(get_tags(tfi))
+
 
 def cleantags(tags):
     """sumary_line  remove empty tags"""

@@ -48,7 +48,7 @@ R   eturns:
             post['created'] = str(date.today())
             post['title'] = fname[:-3]
             with open(arts + fname, 'w',
-                        encoding="utf-8") as text:
+                      encoding="utf-8") as text:
                 text.write(fm.dumps(post))
 
 

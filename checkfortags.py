@@ -6,12 +6,10 @@ argument -- description
 Return: return_description
 """
 
-import os
 
 import frontmatter as fm
 
-from linkr import (ARTDIR, TAGS, arts, base_dir, load_folder, resub, start,
-                   tagfile)
+from linkr import TFILE, arts, load_folder, start
 
 
 def check_tags(afile, tag):
@@ -20,6 +18,18 @@ def check_tags(afile, tag):
         post['tags'] += f" #{tag};"
         with open(arts + afile, 'w', encoding="utf-8") as text:
             text.write(fm.dumps(post))
+
+
+def get_tags():
+    """`sumary_lin`e`
+    Keyword arguments:
+    argument -- description
+    Return: return_description
+    """
+    with open(TFILE, "r",
+              encoding='utf-8') as tagfile:
+        j = tagfile.read()
+        return j.split(",")
 
 
 load_folder()

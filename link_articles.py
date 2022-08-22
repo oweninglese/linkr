@@ -1,67 +1,60 @@
 #! /usr/bin/python
-
-""" begin
-
+"""sumary_line
 
 Keyword arguments:
 argument -- description
 Return: return_description
 """
 
-import os
+from datetime import date
 
-from linkr import TAGS, TFILE, base_dir, arts
-from create_tagfiles import check_file, cleantags, get_tags
+from linkr import TAGS, TFILE, base_dir
+from makesubs import check_file
 
 ARTDIR = '/final/'
+arts = base_dir + ARTDIR
+TAGS = check_file()
 
 
-def link_article(tagfile, article):
-    """link tag article to article
-    with tag in it
-
-    Args:
-        tag (str): file name str to fill
-        article (str): mkdown file to link
-    """
-    tagfile.write(f"[[{article}]]")
-    tagfile.write(f"#{article}")
-
-
-def get_articles():
-    """get all articles in arts directory
+def get_tags():
+    """`sumary_lin`e`
     Keyword arguments:
     argument -- description
     Return: return_description
     """
-    return [f for f in os.listdir(arts)
-            if f.endswith(".md")]
+    with open(TFILE, "r",
+              encoding='utf-8') as tagfile:
+        j = tagfile.read()
+        return j.split(",")
 
 
-ARTICLES = get_articles()
-CLTAGS = check_file()
+TAGS = check_file()
 
 
-def start(tags, articles):
-    """` begin
-    ``a
+def start(tags):
+    """sumary_line
     Keyword arguments:
     argument -- description
     Return: return_description
     """
-    for article in articles:
-        cleartags = [tag.strip(" ")
-                     for tag in tags]
-        while "" in cleartags:
-            cleartags.remove("")
-        for tag in cleartags:
-            if tag in article:
-                with open(arts + tag + ".md", "a",
-                        encoding='utf-8') as nfile:
-                    nfile.write(f"\n[[{article}]]")
-                    nfile.write(f"#{article}")
-                    print(f"linked {article}\
-                          to {tag}")
+    count = 0
+    cleartags = [tag.strip(" ") for tag in tags]
+    while "" in cleartags:
+        cleartags.remove("")
+    for tag in cleartags:
+        with open(arts + tag + ".md", "w",
+                  encoding='utf-8') as newfile:
+            post = {'author': 'ohmanfoo',
+                    'source': '#todo',
+                    'tags': '',
+                    'created': str(date.today())}
+            post['title'] = tag
+            newpost = ''.join(f"\n{str(i)}{post[i]}\n" for i in post)
+            npi = f"---\n{newpost}\n---"
+            newfile.write(npi)
+            count += 1
+            print(f"created newfile for {tag}")
+    return f"created {count} files"
 
 
-start(CLTAGS, ARTICLES)
+start(TAGS)

@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"terminal.integrated.defaultProfile.windows": "Command Prompt",
+		"explorer.confirmDragAndDrop": false,
+		"explorer.confirmDelete": false,
+		"explorer.copyRelativePathSeparator": "/",
+		"files.autoSave": "onFocusChange",
+		"files.associations": {
+			"*.pyx": "python"
+		},
+		"workbench.editorAssociations": {
+			"*.ipynb": "default"
+		},
+		"workbench.editor.untitled.hint": "hidden",
+		"git.confirmSync": false,
+		"python.languageServer": "Jedi",
+		"autoDocstring.generateDocstringOnEnter": true,
+		"autoDocstring.quoteStyle": "'''",
+		"notebook.compactView": false,
+		"notebook.diff.ignoreMetadata": true,
+		"notebook.diff.ignoreOutputs": true
+	}
+}
