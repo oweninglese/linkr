@@ -5,12 +5,9 @@ Keyword arguments:
 argument -- description
 Return: return_description
 """
-
-
 import frontmatter as fm
 
-from linkr import (endof_yaml, resub,
-                   arts)
+from linkr import arts, endof_yaml, resub
 
 TEST = """Aboriginal Peoples and Comprehensive Land
 Claims Negotiations in Canada.md"""
