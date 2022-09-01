@@ -16,21 +16,6 @@ arts = base_dir + ARTDIR
 TAGS = check_file()
 
 
-def get_tags():
-    """`sumary_lin`e`
-    Keyword arguments:
-    argument -- description
-    Return: return_description
-    """
-    with open(TFILE, "r",
-              encoding='utf-8') as tagfile:
-        j = tagfile.read()
-        return j.split(",")
-
-
-TAGS = check_file()
-
-
 def start(tags):
     """sumary_line
     Keyword arguments:

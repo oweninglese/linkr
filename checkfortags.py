@@ -5,8 +5,6 @@ Keyword arguments:
 argument -- description
 Return: return_description
 """
-
-
 import frontmatter as fm
 
 from linkr import TFILE, arts, load_folder, start
