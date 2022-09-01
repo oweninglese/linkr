@@ -31,7 +31,7 @@ def get_tagfile():
         return jgf.split(",")
 
 
-def load_folder():
+def preload_folder():
     """ load all md in TESTDIR and append
     Post object to files dict list
     Args:

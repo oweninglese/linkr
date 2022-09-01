@@ -6,13 +6,13 @@
 """
 
 
-def get_tags(tFILE):
+def get_tags(tfile):
     """sumary_line
     Keyword arguments:
     argument -- description
     Return: return_description
     """
-    with open(tFILE, "r",
+    with open(tfile, "r",
               encoding='utf-8') as tagfile:
         j = tagfile.read()
         return j.split(",")

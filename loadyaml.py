@@ -9,22 +9,9 @@ Return: return_description
 import os
 import re
 
-
-from linkr import (arts, load_folder, search_yaml)
-from makesubs import (suball)
-
-
-def load_folder():
-    """ load all md in TESTDIR and append Post object to files dict list
-Args:
-    TESTDIR (folder): folder containing md files
-Returns:
-    list: [list of dicts] --> [filename]: [Post object]"""
-    for filename in os.listdir(arts):
-        if filename.endswith(".md"):
-            tfi = arts + filename
-            suball(tfi)
-    return "Done"
+from get_tags import get_tags
+from linkr import arts, load_folder, search_yaml
+from makesubs import suball
 
 
 def search_yaml(file, a):

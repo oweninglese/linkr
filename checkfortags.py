@@ -18,17 +18,5 @@ def check_tags(afile, tag):
             text.write(fm.dumps(post))
 
 
-def get_tags():
-    """`sumary_lin`e`
-    Keyword arguments:
-    argument -- description
-    Return: return_description
-    """
-    with open(TFILE, "r",
-              encoding='utf-8') as tagfile:
-        j = tagfile.read()
-        return j.split(",")
-
-
 load_folder()
 start()
