@@ -29,7 +29,7 @@ def preload_folder():
     Post object to files dict list
     Args:
     TESTDIR (folder): folder containing md files
-R   eturns:
+    eturns:
     list: [list of dicts] -->
     [fname]: [Post object]"""
     for fname in os.listdir(ARTS):
@@ -54,7 +54,6 @@ def sub_file(file, tag):
               encoding="utf-8") as text:
         pst = text.readlines()
         yamlend = endof_yaml(pst)
-        print(yamlend)
     with open(ARTS + file, 'w',
               encoding="utf-8") as writer:
         for i, line in enumerate(pst):
@@ -70,7 +69,7 @@ def tags_f(tag, pobject):
     sub_file(pobject['title'] + ".md", tag)
 
 
-def check_tags(afile, tag):
+def check_tags_and_write(afile, tag):
     """sumary_line fm.load(afile)['summary']"""
     post = fm.load(ARTS + afile)
     if tag in post.content:
@@ -87,4 +86,4 @@ def start():
             all_tags = tagfile.read()
             tags_list = all_tags.split(",")
             for pick in tags_list:
-                check_tags(next_file, pick)
+                check_tags_and_write(next_file, pick)
