@@ -16,7 +16,3 @@ def check_tags(afile, tag):
         post['tags'] += f" #{tag};"
         with open(arts + afile, 'w', encoding="utf-8") as text:
             text.write(fm.dumps(post))
-
-
-load_folder()
-start()
