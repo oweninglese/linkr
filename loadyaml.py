@@ -10,7 +10,6 @@ import os
 import re
 
 from get_tags import get_tags
-from linkr import arts, load_folder, search_yaml
 from makesubs import suball
 
 

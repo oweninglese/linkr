@@ -8,27 +8,20 @@
 import os
 import re
 from datetime import date
-
+from loadyaml import endof_yaml, search_yaml
+from config import Config as C
 import frontmatter as fm
 
-ARTDIR = '/vault/'
-TAGS: str = ''
-TFILE = 'linkr/TAGS.csv'
-base_dir = os.path.abspath(os.path.dirname(__file__))
-arts = base_dir + ARTDIR
+ARTDIR = C.ARTDIR
+TAGS = C.TAGS
+TFILE = C.TFILE
+BASEDIR = C.BASEDIR
+ARTS = BASEDIR + ARTDIR
 
 
 def resub(tag, line):
     """sumary_line fm.load(afile)['summary']"""
     return re.sub(tag, f"[[{tag}]]", line)
-
-
-def get_tagfile():
-    """sumary_line fm.load(afile)['summary']"""
-    with open(TFILE, "r",
-              encoding="utf-8") as gfile:
-        jgf = gfile.read()
-        return jgf.split(",")
 
 
 def preload_folder():
@@ -39,15 +32,15 @@ def preload_folder():
 R   eturns:
     list: [list of dicts] -->
     [fname]: [Post object]"""
-    for fname in os.listdir(arts):
+    for fname in os.listdir(ARTS):
         if fname.endswith(".md"):
-            post = fm.load(arts + fname)
+            post = fm.load(ARTS + fname)
             post['author'] = 'ohmanfoo'
             post['source'] = '#todo'
             post['tags'] = ''
             post['created'] = str(date.today())
             post['title'] = fname[:-3]
-            with open(arts + fname, 'w',
+            with open(ARTS + fname, 'w',
                       encoding="utf-8") as text:
                 text.write(fm.dumps(post))
 
@@ -57,12 +50,12 @@ def sub_file(file, tag):
     check single file for single tag
     """
     print(file, tag)
-    with open(arts + file,
+    with open(ARTS + file,
               encoding="utf-8") as text:
         pst = text.readlines()
         yamlend = endof_yaml(pst)
         print(yamlend)
-    with open(arts + file, 'w',
+    with open(ARTS + file, 'w',
               encoding="utf-8") as writer:
         for i, line in enumerate(pst):
             if i > int(yamlend):
@@ -72,21 +65,6 @@ def sub_file(file, tag):
                 writer.write(line)
 
 
-def search_yaml(file, a):
-    """sumary_line fm.load(afile)['summary']"""
-    end = []
-    for i, nic in enumerate(file, 1):
-        if i < 10 and a.search(nic):
-            end = i
-    return end
-
-
-def endof_yaml(file):
-    """sumary_line fm.load(afile)['summary']"""
-    abc = re.compile("---")
-    return search_yaml(file, abc)
-
-
 def tags_f(tag, pobject):
     """sumary_line fm.load(afile)['summary']"""
     sub_file(pobject['title'] + ".md", tag)
@@ -94,19 +72,19 @@ def tags_f(tag, pobject):
 
 def check_tags(afile, tag):
     """sumary_line fm.load(afile)['summary']"""
-    post = fm.load(arts + afile)
+    post = fm.load(ARTS + afile)
     if tag in post.content:
-        post['tags'] += f" #{tag};"
-        with open(arts + afile, 'w', encoding='utf-8') as text:
+        post['tags'] += f"#{tag} "
+        with open(ARTS + afile, 'w', encoding='utf-8') as text:
             text.write(fm.dumps(post))
         tags_f(tag, post)
 
 
 def start():
-    for fame in os.listdir(arts):
-        allfile = str(fame) if fame.endswith(".md") else None
+    for fname in os.listdir(ARTS):
+        next_file = str(fname) if fname.endswith(".md") else None
         with open(TFILE, "r", encoding="utf-8") as tagfile:
-            j = tagfile.read()
-            h = j.split(",")
-            for ick in h:
-                check_tags(allfile, ick)
+            all_tags = tagfile.read()
+            tags_list = all_tags.split(",")
+            for pick in tags_list:
+                check_tags(next_file, pick)
