@@ -63,7 +63,7 @@ def cleantags(tags):
     return alltags
 
 
-def get_tags(post):
+def get_posttags(post):
     """sumary_line"""
     abc = fm.load(post)
     return abc['tags']

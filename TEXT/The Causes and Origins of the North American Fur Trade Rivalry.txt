@@ -1,0 +1,1483 @@
+---
+
+title:
+created:
+tags:
+source:
+author:
+
+---
+The Causes and Origins of the North American Fur Trade Rivalry: 1804-1810
+Author(s): Ann Carlos
+Source: The Journal of Economic History , Dec., 1981, Vol. 41, No. 4 (Dec., 1981), pp.
+777-794
+Published by: Cambridge University Press on behalf of the Economic History
+Association
+Stable URL: https://www.jstor.org/stable/2120645
+
+The Company's financial crisis of 1809-1810 brought about by the decline in
+demand due to the Napoleonic Wars shocked it out of complacency and into
+aggressive competition.
+
+r HE North America fur-trading industry existed for almost two
+hundred years, from the mid-seventeenth to the mid-nineteenth
+century. During these two centuries the fur trade was the driving force
+behind the geographical expansion of the economy from the St. Lawrence Basin to the Pacific Ocean, creating a lasting communications
+network for the region.
+The industry had for most of its existence two distinct branches. One
+branch was operated from the shores of Hudson Bay by a company
+commonly known as the Hudson's Bay Company. The other branch,
+
+the St. Lawrence Basin and Montreal, was under French control until
+1764, and then, under control of British, mainly Scottish, merchants,
+was conducted by an ever decreasing number of firms. In 1804 the two
+remaining Montreal firms merged into the Northwest Company. After
+
+1804, then, the North American fur trade was a duopoly. The duopoly
+lasted for seventeen years, until the union of the two in 1821.
+
+The years 1804 to 1821 were a crucial period in the development of the
+Hudson's Bay Company, and saw the end of the fur trade as an
+
+important actor in the development of Montreal. With the merger of the
+two companies in 1821 the center of the fur trade moved from the St.
+Lawrence Basin to the shores of Hudson Bay, although at the beginning
+Hudson's Bay was the smaller company.
+
+Commentators on the relationship between the two companies in the
+period normally assume that the competition between them was highly
+Journal of Economic History, Vol. XLI, No. 4 (Dec. 1981). ? The Economic History
+Association. All rights reserved. ISSN 0022-0507.
+
+The author is affiliated with the Departments of Economics, Huron College and University of
+Western Ontario, London, Ontario, Canada. She would like to thank C. Knick Harley, James R.
+Markusen, Donald G. Paterson, John Palmer, Edward Saraydar and two anonymous referees for
+
+helpful comments and suggestions. The permission of the Hudson's Bay Company for use of its
+archives is gratefully acknowledged. This paper is a condensed version of the chapter five of her
+Ph.D. dissertation "The North American Fur Trade, 1804-1821: A Study in the Life Cycle of a
+Duopoly," University of Western Ontario, 1980.
+
+777
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+778
+
+Carlos
+
+aggressive. The belief can be seen very clearly in E. E. Rich's The Fur
+Trade and the Northwest to 1857: "the fur trade was ravaged by the
+most uncompromising hostility in the whole history of that adventurous
+
+business.' Other authors refer to the "severity of the struggle" and the
+"acute competition" after 1804.2 I will show that on the contrary from
+1804 to 1810 the relationship is better described as passive rather than
+
+aggressive. Further, I will show how changes in the European market,
+specifically the fall in demand for furs as a result of the Napoleonic
+wars, led to a breakdown in this passive relationship. The breakdown
+
+occurred primarily as a result of the severe financial crisis that the
+Hudson's Bay Company faced in 1809-1810, generated to a large extent
+
+by the loss of the European markets and by the increases caused by the
+war in the prices of provisions and stores for the North American trade;
+
+it was exaggerated further by the Company's policy within the North
+American market.
+INTERFIRM BEHAVIOR, 1804 TO 1810
+
+This picture of the allegedly hostile relationship between Northwest
+Company (NWC) and Hudson's Bay Company (HBC) is given its
+clearest statement by Frederick Merk:
+For fifteen years the NWC and the HBC clashed in the forests of Rupert's Land. It was
+
+a bitter war in which each party wielded weapons of trade and of violence mercilessly in
+turn. Rival posts fought each other at close range; there was under-cutting and over-
+
+bidding; . . . From the arsenal of war were drawn raids, the levelling of each other's
+trading posts, incitation of the Indians and half-breeds to violence, open fighting and
+secret stabbing and shooting in the shadows of the forest.3
+
+The attitude of Hudson's Bay toward its competitor as documented in
+the annual letters sent by the committee in London to its men at the Bay
+was quite different from that portrayed by Merk. With the merger of the
+remaining Montreal traders into the rival company the committee wrote
+
+informing its servants that they were to "maintain the utmost peace and
+harmony with their opponents; it is not the intention nor the interest of
+this company to create contentions either with the natives or with the
+Canadians."4 Again in 1806 the committee wrote that its men "were to
+avoid any discussion or disagreement with those people" but to
+"maintain the utmost peace and harmony with your opponents."5 In
+1 E. E. Rich, The Fur Trade and the Northwest to 1857 (Toronto, 1967), p. 194.
+2 W. T. Easterbrook and Hugh Aitken, Canadian Economic History (Toronto, 1956), pp. 174,
+177.
+
+3 Frederick Merk, "Fur Trade and Empire," George Simpson's Journal 1824/25 (Cambridge,
+Massachusetts, 1931), p. x.
+
+4 London Correspondence Outward-Official, Public Archives of Canada (PAC), HBC MG20A6,
+Albany Factory, 1803.
+
+5 Ibid., 1806.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade Rivalry 779
+1808, the men were reminded to stay "on as peaceable terms as possible
+with your opponents."6 Thus throughout the whole period from 1804 to
+1810 the policy of Hudson's Bay was not one of aggression but one of
+maintaining peace and harmony with the Northwest Company. The
+Hudson's Bay committee, in fact, believed in a "steady perseverance in
+pursuing the business"7 because "our articles of trade will from their
+superior quality command a preference" and will then "ensure you a
+decided superiority. "8
+The evidence on the Hudson's Bay Company's attitude in the period
+before 1810 comes from the company's committee meeting minutes and
+correspondence with its traders in Hudson Bay; the same quality or
+quantity of evidence does not exist for the other company. Although
+minutes for several of the Northwest Company's annual meetings still
+exist, the evidence on the company's attitude during these years comes
+mainly from the diaries and journals of partners and traders, and in part
+from the rationality of following a predatory form of behavior after 1804.
+It can be argued that the Northwest Company prior to 1804 had engaged
+in predatory competition with the other Montreal firm, the XYC (that is,
+Sir Alexander McKenzie and Company); when the struggle ended in
+1804, one might argue (as has Morton) that it tried to take over
+Hudson's Bay in the same manner.9 But in the earlier struggle the old
+Northwest Company had in fact failed to push the XYC out of the
+market, ending the struggle with a merger between equals. Predatory
+competition is very expensive. That the companies merged can be taken
+as evidence either that they were becoming financially exhausted or that
+they realized that predation was not going to work. Both suggest that it
+would not have been rational for the companies to continue such
+behavior against the Hudson's Bay Company. The argument that the
+competition between the Northwest Company and the Hudson's Bay
+
+Company was not predatory is further strengthened by the diaries and
+journals of such Northwest men as Daniel Harmon, who spent sixteen
+years from 1800 west of Lake Superior, and Alexander Henry, a
+Northwest partner. 10 They wrote at length about the good relations
+existed between the companies. Harmon in fact wrote "the greater part
+of the Northwest and Hudson's Bay people live on amicable terms; and
+when one can with propriety render a service to the other it is done with
+cheerfulness. " 11
+
+6Ibid., 1808.
+7 Ibid., 1803 para. 5; 1809 para. 3.
+8 Ibid., 1803.
+
+9 Arthur Morton, A History of the Canadian West to 1870171 (London, 1939).
+10 Daniel Harmon, A Journal of Voyages and Travels in the Interior of North America (New
+York, 1922). Elliot Coues, ed., New Light on the Early History of the Greater Northwest (New
+York, 1897).
+
+" Harmon, A Journal of Voyages, p. 123.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+780
+
+Carlos
+
+In short, the relationship between the two companies was not
+predatory. This is not to imply that no aggressive behavior occurred at
+all, but rather that when it did occur it was the result of local conditions
+and personalities rather than general policy of the companies. Although
+the Hudson's Bay Company's minutes mention aggressive behavior on
+the part of certain Northwest traders, the incidents are few in number.
+
+The Northwest traders similarly comment on the occasional aggressive
+actions of the Hudson's Bay men in their areas. Alexander Henry wrote
+that there were "many reports circulating to the prejudice of Mr.
+Hughes and myself, supposed to be due to my neighbour's art of
+detraction to which I am sorry to find him much addicted."12
+If the relationship between the two cannot be characterized as
+predatory, neither can it be characterized as a strategy of joint profit
+
+maximization. In fact, an attempt at a collusive agreement failed. In
+1804, just after the merger of the Montreal firms, the Northwest
+
+Company proposed to its rival that the Hudson's Bay Company allow
+them a transportation route to the Bay and storage facilities there. In
+return for such facilities the Northwest Company was willing to pay an
+
+annual sum of ?2000 and leave all its posts in the Moose and Eastmain
+areas. 13 The Hudson's Bay committee realized "that it would be advantageous for all concerned in the fur trade if some regulation can be made
+
+with the Canadian company or companies. "14 But there were problems
+for the Hudson's Bay Company in such an agreement. One of them can
+be seen in the remark just quoted: the committee spoke of the
+"Canadian company or companies" because it was not certain about
+the nature of the firm it faced. In a similar vein the committee was
+worried about the security of collateral that the Northwest Company
+would put up and the possibility of further entrants to the market. In a
+letter to the Northwest Company negotiators the committee wrote
+... we must therefore be allowed to enquire how far we may be secured from the
+encroachment of succeeding traders who may disavow the acts of their predecessors,
+and although enjoying all the benefits resulting from the completion of the present
+negotiations, and we expect that in addition to that satisfactory explanation, you will
+again offer in such collateral security that will ensure to us those advantages which it is
+
+your intention to offer in compensation for those facilities in prosecuting your trade;
+
+which must manifestly operate so much to our disadvantage.'5
+
+The main stumbling block, however, was a restriction the Hudson's
+Bay Company wished to impose. The committee informed the Northwest Company that "you must be aware that we are of course restrained
+12 Coues, New Light, p. 594.
+13 Eastmain and Moose Factories were situated on the eastern and southern shores of James
+Bay.
+
+14 Minutes of Transactions between HBC and NWC 1804-1806, PAC HBC MG20A1, Reel 18.
+s5 Ibid., Letter, 31st January 1806, para. 39.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade Rivalry 781
+to carry on our trade exclusively with Great Britain, it will therefore be
+a necessary consequence of our treaty that you should confine yourself
+to the same restriction." 16The restriction was quite unacceptable to the
+Northwest Company, which at that time was attempting to ship furs to
+
+China, selling furs to Astor for the American market, and sending furs in
+American ships directly to the Baltic.
+
+At the local level the Hudson's Bay committee was not dead set
+against agreements between traders, but it insisted on being informed
+and on the whole discouraged them. The failure of the two companies to
+reach a collusive agreement meant, of course, that profits were lower
+for both companies than if the two firms had colluded to maximize joint
+profits. This was of significance for the Hudson's Bay Company in that
+the lower profit exacerbated the financial crisis of 1809-1810.
+Thus, for the years 1804 to 1810, the behavior of the Hudson's Bay
+Company and the Northwest Company was neither predatory nor
+collusive. The Hudson's Bay policy was to remain "on as peaceable
+terms as possible" with its competitor. The companies coexisted
+peacefully but did not collude.
+THE EUROPEAN MARKET
+
+The role of the European markets is one that has been particularly
+neglected in most of the literature on the fur trade, and particularly on
+the Hudson's Bay Company. Little is known about either the structure
+
+of the Continental market in the years prior to the European Blockade
+or the magnitude of the fall in demand faced by the companies as a result
+of the Napoleonic Wars. E. E. Rich is one of the few authors to mention
+that the Hudson's Bay Company did indeed sell a high proportion of
+certain furs and skins destined for resale at the major European fairs of
+Leipzig, Frankfurt, and St. Petersburg. From the Hudson's Bay minutes for the years prior to 1806 it is evident that the committee felt that
+its European buyers were very important customers. The minutes
+report quite frequently that the scheduled sales had to be postponed
+
+because of "the lateness of the foreign mails."'17
+The Continental Blockade was not formally introduced by Napoleon
+until 1806. It is clear, however, that the European market was being
+disrupted as early as 1804. Table 1 gives the numbers of furs exported
+from England to Europe in each year from 1800 to 1808. By 1808 the
+numbers of all furs exported had declined dramatically, and a year
+earlier the decline had begun. The numbers in parentheses below the
+1807 export figures show that year's exports as a percentage of the 1800
+16 Ibid., para. 40. The Committee was informing the NWC agents that since it was required by a
+Navigation Act clause in its charter to sell its furs only on the English market, the NWC would have
+to be bound also by the same clause.
+
+17 London Correspondence Outward, 1798/1806.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+782
+
+Carlos
+
+000000
+
+X ~ ~~~~ ee 0 ~
+
+0o~6 0 O0 0 -z5
+
+q
+
+oo
+
+r.)
+
+00
+
+C
+
+eg
+
+o
+
+e440
+
+e.
+
+oo
+
+o
+
+4>
+
+00
+
+l6
+
+~~ 00~~~~~ 'f~~~~~ 0- 0 " -C4
+
+0
+00
+
+00
+
+o
+
+4
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+)
+
+00 0 a 0I N6 0
+~~ ~~~ 00
+
+o
+
+00
+
+0
+
+m
+
+00
+
+_
+
+0
+
+Ew~~~~
+3
+
+Y
+
+t
+
+88
+
+?8~~~~~~
+
+o ~ ~ ~ ~ ~ ~~~~~~~ r~~~~~~~~~~~- ~ ~ - C,,r-
+
+H
+
+z
+
+||
+
+_E Q t WS iB @ tt__q WS e
+o~~~~~~~~~~~I
+
+0
+
+00~~~0
+
+~
+
+r
+
+E
+
+@~ ~~~~~~, 2 W 88 > 8g
+0
+
+00
+
+0
+
+Q J00 000 0000W0
+
+X *k Q~~~~~~~~~~
+0 000 0 E Q 600Q
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade Rivalry 783
+level. Deer, fox, otter, and raccoon declined by 50 percent; bear,
+beaver, and mink declined 75 percent; the remaining furs declined by at
+least 90 percent.
+
+The Napoleonic Wars not only cut the numbers of furs exported from
+Great Britain to Europe but also shifted the markets for which these furs
+were destined. From 1804 there was a move in the main market area
+from the center of Europe to the periphery (such as to Heligoland-a
+
+British colony-and Sweden). Other areas in Europe were also affected
+by the Blockade. Prussia and Russia received furs from Great Britain.
+Prussia, however, appeared to have been a proxy market for all of
+"Germany." Russia, on the other hand, was a legitimate market for
+British furs, consistently purchasing beaver and other skins in every
+year until 1808, and was in fact the main market for beaver.
+The official values of British furs exported, listed in Table 2 for the
+years 1800 to 1811, do not denote the market value of the goods in
+question, but they do give us an idea of the relative changes at fixed
+
+prices that occurred. The official value of skins exported, taking a five
+
+year average from 1802 to 1806, was ?67,000, while the average for the
+years 1807 to 1811 was ?23,000, a decrease of almost 70 percent. In
+short, both the actual figures for furs exports and the official value
+figures show a decline of over 50 percent by 1808. Table 2 suggests that
+the decreased demand continued down to 1814.
+
+The surviving sales records for the years 1807 and 1808 show that
+
+TABLE 2
+
+OFFICIAL VALUE OF BRITISH FURS AND SKINS EXPORTED FROM ENGLAND
+
+(?)
+Year Export Figures Skins and Hides
+1800
+
+?77,300
+
+1801
+
+78,400
+
+1802
+
+77,200
+
+1803
+
+52,200
+
+1804
+
+68,200
+
+1805
+
+82,300
+
+1806
+
+55,900
+
+1807
+
+29,400
+
+1808
+
+?29,100
+
+4,550
+
+4,730
+
+1809
+
+39,900
+
+1810
+
+32,500
+
+1811
+
+9,330
+
+1812
+
+1814
+
+23,600
+
+1815
+
+19,700
+
+Source: Export Figures-Great Britain's Board of Customs and Excise. This series on British
+import and export figures ends in 1808. Skins and Hides-British Parliamentary
+
+Papers-imports and exports. The import and export figures do not contain a continuou
+series of the official value of British furs and skins exported from England, rather figu
+for individual sets of years. All figures rounded.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+784
+
+Carlos
+TABLE 3
+
+QUANTITY OF UNDAMAGED SKINS SOLD AT HBC SALES
+
+Kinds
+
+of
+
+Fur
+
+1800
+
+1808
+
+cwt. qts. lbs. cwt. qts. lbs.
+Parchment
+
+Coat
+Cub
+
+Beaver
+
+Beaver
+
+Beaver
+
+Wolf
+Fox
+
+21
+
+8453
+
+7141
+
+Otter
+
+9000
+
+Martens
+
+19221
+
+Cat
+Elk
+
+Rabbits
+
+12
+
+18
+
+29
+
+2
+
+26
+
+skins
+
+66
+
+skins
+
+skins
+
+skins
+367
+
+skins
+
+skins
+
+6587
+
+445
+
+2
+
+0
+
+1483
+
+skins
+
+skins
+
+2081
+
+Deer
+
+26
+
+59
+
+7
+
+skins
+
+379
+
+909
+
+4
+
+skins
+
+423
+
+Bear
+
+1
+
+0
+
+27
+
+skins
+
+Fisher
+
+Wolverine
+
+3
+
+skins
+
+905
+
+Musquash
+
+499
+
+skins
+
+3135
+
+Mink
+
+8
+
+skins
+
+skins
+
+1235
+
+dozen
+
+cwt. qts. lbs.
+Feathers
+
+Quills
+
+248
+
+173
+
+Castoreum
+
+1
+
+0
+
+9
+
+11
+
+0
+
+0
+
+40m.
+
+24
+
+8
+
+1
+
+20
+
+Source: Fur Sale Invoice Book 1798-1810, PAC HBC MG20A52. The fur sale invoices are not
+continuous; they only cover the years 1798-1801, 1807-1808 and one sale in 1810.
+
+these years were extremely bad sales years for the company.'8 Table 3
+describes the quantities of undamaged skins sold at the Hudson's Bay
+auctions in 1808, comparing that year to 1800. In 1808 the company sold
+only some deer and bear skins, apart from its sale of beaver. It is clear
+that the Hudson's Bay Company was directly affected by the fall in
+European demand that resulted from the Napoleonic Wars and the
+
+Continental System.
+
+FINANCIAL STATUS OF THE COMPANIES
+Hudson's Bay Company
+
+To show why the Hudson's Bay Company was faced with a financial
+crisis in 1809-1810 it is necessary to explain how the Company normally
+operated. The most basic feature of its financial operation was its lack of
+ready cash, resulting from the lumpiness of its transactions. Trade
+goods had to be purchased late in December and early in the new year
+for the following year's trade, whereas the fur sales were held from late
+January to late April. As a result, the Company held very little excess
+18 The sales records are not complete. The records only list the furs sold and their prices for
+1798, 1799, 1800, 1801, 1807, and 1808.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade Rivalry 785
+cash, financing the purchase of trade goods with a ? 10,000-?20,000
+overdraft facility with the Bank of England, the Company's banker.
+
+During the winter months the Company would borrow against the
+facility and repay it as receipts arrived from the sales. The receipts were
+spread over much of the year, and even in normal years one can see the
+
+Company being paid in May or June for furs sold in a January sale.
+While this was the normal operating policy, the Company's asset
+position from 1804 of ?134,950 appeared ample to secure its overdraft
+with the Bank of England.'9
+The Hudson's Bay Company sales revenue figures are given in Table
+
+4 and cash balances in Tables 5 and 6. The strain on the company arising
+from the very poor years in 1807 and 1808 can be seen in the cash
+
+balance sheets. As pointed out, the overdraft facilities with the Bank of
+England were normally used only during the winter months, which was
+the case for 1804 through 1806. The far smaller sales revenue for 1807
+had an immediate impact on the cash position. Not only did the
+company use its overdraft facilities during the winter months, but it
+
+remained in debt for practically the whole year, with the liquidity
+problem becoming most acute during the summer. By then the company
+
+had reached its overdraft limit even before it had purchased its trade
+goods for the following year. Consequently, the company asked the
+Bank of England to extend its overdraft by a further ?30,000, increasing
+
+its borrowing limit to ?50,000, to which the Bank of England agreed.20
+The following year was also bad. Although the cash balance position
+improved substantially for some months, the company still had made
+TABLE 4
+
+HBC SALES REVENUE FIGURES 1804-1814
+Year
+
+1804
+
+?
+
+55,900
+
+1805
+
+59,100
+
+1806
+
+59,500
+
+1807
+1808
+
+21,800
+39,900
+
+1809
+
+72,300
+
+1810
+
+63,200
+
+1811
+
+58,000
+
+1812
+
+37,900
+
+1813
+
+84,700
+
+1814
+
+66,200
+
+Source: Grand Ledger, PAC HBC MG20A14/13 Reel 235. All figures rounded.
+
+19 Minute Book, PAC HBC MG20A1, Reel 18. The Company's assets were its total stock valued
+at ?103,950, its funded property in London, and its bonds consisting of ?30,000 invested in 3
+percent consols, ?10,000 in old south sea annuities, and ?366.14.6 in 3 percent reduced annuities.
+20 Ibid., 1807. This sum of ?30,000 was not credited directly to the company's account, but
+placed in the names of three committee members: Mainwaring, Neaves, and Raikes. In July 1808,
+the Company become responsible for the full ?50,000 credit facility.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+786
+
+Carlos
+TABLE 5
+
+HBC CASH BALANCES WITH THE BANK OF ENGLAND, 1806
+Month
+
+?
+
+Month
+
+?
+
+JAN -6,232 JUNE +9,150
+-3,421
+JULY +201
+FEB
+
+-3,469
+
++8,019
+
+-2,664
+-789
+
+AUG
+
++2,160
+
++3,165
+NOV + 1,750
+MAR
+
++11,687
++
+
++1,457
+
+15,555
+
++710
+
++4,414
+
+DEC -1,564
+APR
+
++2,514
+
+-3,339
+
++4,117
+
+-3,984
+
++1,299
++3,809
+MAY +5,385
++1,410
++1,164
++ 1,303
+
+Source: Minute Book, PAC HBC MG20A1/48.
+
+use of the full ?50,000 overdraft limit by December. During 1808, the
+
+asset position of the Company deteriorated, with the sale of all funded
+property, annuities, and consols on a poor market.21 In September the
+Company changed its relationship with the Bank of England, employing
+Lefevre as its private bankers and leaving the Bank of England as
+strictly a lender. Although 1809 was a very good year, with the
+Company receiving ?72,343 from its fur sales (more than the two
+previous years combined), the Company's position by December of
+1809 had not greatly improved. The Company still owed the Bank of
+England ?40,000 and had a positive balance with its bankers of only
+?1,733. The increased revenue from furs had been offset by the effect of
+wartime inflation on the price of trade goods the Company had to
+purchase in England. Over the four-year period 1803-1804 to 1808-1809
+the cost of the Company's provisions rose by over 60 percent. The warinduced increases in prices faced by the Company were greater than the
+average increase of British commodity prices, which was only 29
+percent.22
+By 1809 the extent of the Company's problems led it to appeal to the
+Treasury for assistance in the form of a loan of ?60,000 and a
+
+21 Ibid., 1808, or E. E. Rich, The Hudson's Bay Company (London, 1958-59), p. 266
+22 Based on A. Gayer, W. W. Rostow and A. J. Schwartz, "Monthly Indices of
+Commodity Prices," in their The Growth and Fluctuation of the British Economy 1790-1850, 2
+Vols. (Oxford, 1953), Table 39, p. 468.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade Rivalry 787
+TABLE 6
+
+HBC CASH BALANCES WITH THE BANK OF ENGLAND, 1807
+Month
+
+?
+
+Month
+
+f
+
+JAN -12,500 JUNE -13,483
+-13,153
+
+-15,333
+
+-13,346
+
+-15,472
+-17,595
+
+FEB -9,105
+-8,002 JULY -18,364
+-7,383
+
+-30,361
+
+-7,436
+SEPT -40,756
+
+MAR
+
+-5,818
+
+-41,350
+
+-4,054
++4,421 OCT -43,114
+
++4,044
+
+-41,808
+
++1,841
+
+NOV -42,258
+-42,447
+
+APR
+
++1,268
+
+-39,395
+
+-3,490
+-4,962 DEC -40,468
+-40,356
+MAY
+
+-6,754
+
+-40,479
+
+-9,912
+-10,713
+
+-11,645
+
+Source: Minute Book, PAC HBC MG20A1/48.
+
+postponement of the duties owed on its imports of furs and skins into
+England. The Company explained that as a result of the war it had lost
+considerable revenue and, furthermore, that it had pledged its credit to
+the limit with all sources.23 The Treasury replied that although it could
+not lend money without an Act of Parliament it would extend the time
+period for the payment of import duties for a further twelve months.
+
+Thus by 1809-1810 the Company was faced with serious financial
+problems. Its normal operating procedures had meant that any decrease
+in demand leading to a fall in sales revenue, even for a relatively short
+period of time, resulted in the Company having to fall back on further
+credit or on sale of those assets that it had previously used as collateral
+for the credit. The financial problems were exacerbated further by warinduced increases in the price of goods. The Company therefore
+undertook a complete reorganization of its management and trading
+methods, as we shall see.
+
+23 This would seem to suggest that the Company was facing very real financial problems and
+may be part of the reason why they moved to a private banking company and away from the Bank
+of England. The Company also obtained short-term cash from its committee members on which it
+
+paid 5 percent. Minute Book examples of some such short-term borrowing are for 1809: 11th
+January 1809-"Received ?1,000 from Thomas Langley esq., for use of the Company." 15th
+February 1809-"Received from William Mainwaring, ?1193.7.0 for use of Company." 23rd
+August 1809-"Secretary borrowed on 14th Inst. of William Mainwaring ?500."
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+788
+
+Carlos
+
+Northwest Company
+The Northwest Company did not suffer as severe a financial strain as
+did the Hudson's Bay Company. The unequal impact of the fall in
+demand can be attributed to two main factors. As has been noted
+already, the Northwest Company had diversified its markets, and was
+not tied solely to the English market. In 1804 and 1805 the Company
+shipped furs directly from Quebec to Hamburg using American ships.24
+In 1808, it secured "a saving price for otters and 23,000 martens" by
+
+selling them to Astor, "with a view to relieve the London market," as
+was the shipment of ?9,000 worth of furs to the United States for sale.25
+The second major factor operating in favor of the Northwest Company was its ability to change the relative prices it paid for furs to match
+
+the demand conditions in its foreign markets. The Hudson's Bay
+
+Company's inability or unwillingness to change relative prices, as I
+argue below, contributed further to the financial crisis of 1809-1810. By
+contrast, as a result of its pricing strategy in the North American market
+
+the Northwest Company was able to obtain the furs (especially beaver)
+that still sold on the English market. The letters sent from Sir Alexander
+McKenzie and Company to Inglis, Ellice and Company comment on
+this fact, tying the good returns of that company to the price of beaver
+on the English market. In 1807 they wrote "we are happy to remark that
+
+our returns have been most ample and promise greater profits on the
+business of the year, allowing that your favourable report respecting
+Beaver is realized," and this was in spite of "tardy and mutilated
+sales."26 Again in 1808, in other letters between these two companies,
+Alexander McKenzie and Company wrote "...on the subject of furs we
+regret the low state of the market and unfortunately see little
+prospect of a speedy change in their favour.... Still, let Beaver continue
+to bear a good price and we shall make a handsome profit on the
+
+business of the year."27 In fact beaver prices remained very high until
+g28
+
+1809.2
+
+There were a few other minor reasons for the good performance of the
+Northwest Company. It was in a position to secure some of its
+provisions and trade goods in markets other than the British, buying
+
+provisions in both Montreal and Detroit: fine flour sold for 15 shillings a
+
+hundredweight in Montreal, 21.5 shillings in London. Thus, it did not
+face to the same extent the increase in prices and the higher transporta24 Minute Book, Minutes of Transactions, Reel 18.
+25 Sir Alexander McKenzie Papers, Letter Book XY, Public Archives of Canada, MG49, M13491351, 1808. John Jacob Astor, the chief figure involved in the U.S. fur trade, formed the American
+Fur Company in 1809.
+
+26 Sir Alexander McKenzie Papers, 23rd October, 1807.
+27 Ibid., 28th July and 22nd October, 1808.
+28 Fine beaver prices were: 1804, 21/7; 1805, 23/9; 1806, 28/; 1807, 27/11; 1808, 27/1. Auction
+Catalogue of Fur Trade Produce, PAC HBC MG20A54.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade Rivalry 789
+tion costs that faced the Hudson's Bay Company. Further, the Northwest Company was able to store furs whose prices had fallen; in 1808
+the Northwest Company put 1,100 fine bear skins in storage.29
+HUDSON's BAY COMPANY BEHAVIOR 1804-1810
+
+The Hudson's Bay committee meetings and letters to the officers at
+the Bay indicate a clear awareness of the impact of the Napoleonic
+
+Wars. In a letter written in 1808 to the Treasury asking for a deferral of
+import duties the Company stated that the reason for the request was
+"the difficulties the Company labours under on account of the nonex-
+
+portation of their furs to the Continent."30 This can be seen again in the
+letter of May 1809 asking the Lords of the Treasury for a ?60,000 loan,
+again on account of the "total interruption of all exportation to the north
+
+of Europe.' '31 The committee understood that demand on the European
+markets had fallen close to zero. In such a situation the reaction of the
+
+Company should have been to decrease its output to a new lower
+optimal level.
+
+The Company's actual response to the European situation, however,
+was not to attempt to decrease the quantity of furs imported into
+
+England but rather to try to change the composition of imports. The
+committee "resolved that every exertion should be used to promote as
+much as possible the importation of those articles which meet a ready
+
+sale for home consumption."32 The policy of attempting to change the
+composition of the Company's output rather than its level implies that
+the Hudson's Bay committee perceived the elasticity of demand for
+
+those furs as high.33 The Company ordered its chief factors to change
+the composition of their output but did not allow them to change the
+relative prices of the furs to the Indians, forcing its traders to work with
+a policy of moral suasion. In particular the committee wanted to
+increase its supply of beaver, which was, as noted earlier, the only fur
+
+that still sold for a good price on the English market. In 1807 the
+
+committee wrote that as "?this [beaver] always commands a sure
+
+certain sale," they were to obtain as much as possible.34 Again in 180
+the factors were informed that as beaver prices had increased considera-
+
+bly "they should get as much of it and as good quality as possible."35
+Yet at no point did the Company consider either decreasing the quantity
+29 Sir Alexander McKenzie Papers, 22nd October 1808.
+30 Minute Book, 1808.
+31 Ibid., 17th May, 1809.
+32 London Correspondence, 1806.
+
+33 It is difficult to measure the elasticity because of the lack of information concerning the
+quantities of furs sold on the English market by the Northwest Company and the lack of precise
+data on income levels in the United Kingdom and Europe for these years.
+34 London Correspondence, 1807.
+
+35 Ibid., 1808.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+790
+
+Carlos
+
+of furs exported from the Bay or changing relative prices. Many
+authors, such as E. E. Rich, have praised the Company for its ability to
+keep its level of output at the old levels. But the inability to adjust
+output in an optimal fashion would further lower profits.
+The committee did not allow their chief factors much independence in
+
+setting prices. In 1804 the committee wrote to William Auld stating that
+"we disapprove of altering the standard for bears" and informing him
+
+that he did not understand the full ramifications of a price change.36 In
+1807 the Company was still committed to its given standard or prices, as
+it wrote in its annual letter:
+We conceive that it may hurt the general trade in some respects to alter the standard so
+long established with the Indians but we hope you are at liberty to reject and discourage
+trading in furs or skins in which we lose very considerably... We must however, be
+satisfied to take the bad with the good.37
+
+The policy had perverse effects. Instead of changing the composition
+of furs in favor of those skins that sold for English home consumption it
+increased the quantity of what were essentially useless skins. As
+Alexander Henry noted in his journal, in 1808, "they [the Blackfeet]
+brought in wolves, but I sent them to my neighbours [the Hudson's Bay
+Company] as wolves were not in season."38 So the Northwest Company was in fact using the Hudson's Bay Company as a sink for furs it was
+not purchasing. The perverse effect of the Company's moral suasion
+policy is commented upon further by Colin Robertson, who wrote: "As
+to your standard by which your accounts are at present settled in the
+interior it is so prejudicial to your interest that a stranger would be apt to
+conclude ... that wolves' skins and Parchment were the only articles in
+demand in London, while the Beaver and the Musk-Rat were of little or
+no value."39 As can be seen in Table 7, the Company's policy did not
+
+lead to any shifts out of wolves, mink, and martens into beaver.'"
+By 1808 the committee decided that at least some prices must be
+changed, basically those for cats, wolves, rabbits, and kitt foxes. But
+this was only a very limited change; the Company still relied on its
+"moral suasion" policy. The following year the committee wrote a
+letter to its traders that shows the company realized it had to alter its
+policy (recall that by 1809 the Hudson's Bay Company was in a poor
+36 London Correspondence, Annual letter to Churchill Factory, 1804.
+
+37 Ibid., 1807.
+38 Coues, New Light, p. 558. By "in season" Henry means the fur season on the London marke
+39 Colin Robertson was an ex-northwesterner whom the Company ultimately hired to outfit a
+brigade destined for Athabasca. Colin Robertson's suggestions to the Company, 1810; Selkirk
+Papers, Papers relating to the Red River Settlement PAC MG19. P. 530.
+
+40 1809 was a bad year because of the severe winter. Sir Alexander McKenzie Papers, Lette
+Book XY. Wolf, mink, and marten were demanded principally in Europe. The stickiness of prices
+appears to contradict Arthur Ray and Donald Freeman, "Give us Good Measure": An Economic
+
+Analysis of Relations Between the Indians and the HBC before 1736 (Toronto, 1978). But two very
+different periods are involved.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade Rivalry 791
+TABLE 7
+
+FURS EXPORTED FROM HUDSON'S BAY, 1804-1810
+Year
+
+Kind of Fur 1804 1805 1806 1807 1808 1809 1810
+
+Beaver Coat (lbs) 1,670 1,860 1,010 1,050 1,680 1,420 1,270
+Parchment (skins) 31,700 28,100 20,700 29,800 32,900 32,000 29,700
+Marten (skins) 17,200 22,300 40,200 40,500 33,700 2,350 51,800
+
+Otter 4,160 4,500 3,450 4,320 5,080 866 8,210
+Cat 1,090 820 1,050 1,590 2,790 277 7,030
+Fox (all species) 3,110 8,350 13,300 3,050 3,740 2,700 7,410
+Wolverin 358 356 313 401 163 37 401
+
+Bears (all species) 460 529 566 759 1,060 162 1,560
+Wolf 3,260 3,200 4,180 3,700 97 16,330
+Fisher 228 211 4,260 502 714 164 989
+Mink
+
+847
+
+1,400
+
+417
+
+2,660
+
+3,180
+
+706
+
+4,500
+
+Raccoon 890 1,060 1,500 1,010 1,170 1,150 1,070
+Musquash 16,200 31,100 21,000 14,900 24,700 21,200 32,600
+Rabbit 9,360 28,000 34,700 54,300 25,900 34,200 101,000
+Deer
+
+4,310
+
+4,990
+
+4,440
+
+4,060
+
+5,340
+
+45
+
+3,930
+
+Source: Fur Trade Importation Book, PAC HBC MG 20A53/1. All figures rounded.
+
+financial position, having a ?50,000 debt with the Bank of England and
+no annuities or consols). The letter read:
+We expect by the return of our ships signed by the chiefs and all the Inland traders, a
+
+distinct account of all the goods are really traded with the natives as well as the real
+standard on which they are bartered, which will enable us to make those alterations we
+may find necessary in the Standard of our Trade.4'
+
+Again in the 1809 letter the committee expressly asked the factors to
+store at the Bay any skins that would not sell in England, because any
+skins that were imported into England were assessed for import duty,
+payment of which the company could postpone only for twelve months
+(or a little more under the special agreement). After the postponement
+the Company was forced to put the skins up for sale, as in 1809, when it
+had to "expose to sale the importation of 1806 to save the drawback of
+the duties on exportation and have scarcely obtained a price equal to
+one-third of the cost."42 Thus the committee wrote:
+Having still in our warehouses your last Consignments of Martens, Otters, Cat, Foxes,
+
+Bears, Wolves, Wolverines, Mink, Raccoon, Deer and Elk, we desire you will retain all
+the packages of the above mentioned unsaleable articles till another season.43
+
+So by 1809, faced with serious financial problems in London, the
+
+committee began to store the unsaleable furs on the Bay."
+41 London Correspondence, Annual letter to all Factories, 1809.
+42 Ibid., 1809, para. 8.
+43 Ibid., para. 10.
+" Storing unsaleable furs at the Bay lasted only one year. In their 1810 letter, the Committee
+ordered "you will send home all the furs, skins and every article of trade as well of this year as
+those left behind last year." London Correspondence, 1810.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+792
+
+Carlos
+
+Two explanations may be given for the policy of price rigidity. The
+first is the Company's perception of the decline in demand and of its
+relationship with the Indians. The committee may have perceived the
+fall in demand as being transitory and was prepared, therefore, to accept
+the short-run losses from non-adjustment rather than, so to speak,
+
+laying-off any of its Indians. The Company may have feared that when
+demand increased again those same Indians might not have returned,
+going to the Northwest Company instead.45 The Indians' attitude, the
+Company believed, would have been that the Company had let them
+down and could not be trusted. Indeed, it was just such an argument
+that the Northwest Company used against the Hudson's Bay Company
+when it first arrived in Athabasca, telling the Indians not to trade with
+the Hudson's Bay Company because it was not to be trusted when it
+said it was going to return to that area. The second explanation is that
+the committee may have feared that if it lowered its level of output a
+new firm would move into the vacated area. Just such a fear helped to
+undo the 1804-1806 negotiations between the two companies.
+The contrast between the policies followed by the Hudson's Bay
+Company and the Northwest Company can be linked, perhaps, to the
+histories of the companies. The Northwest Company grew out of the
+highly competitive structure that existed from 1770 among the many
+Montreal merchants and traders. The organization of the Company gave
+all the partners, both the merchants in Montreal and the traders who
+directed operations in the field, direct involvement in the formulation of
+company policy. In comparison the Hudson's Bay Company had
+evolved not only in relative isolation from competitive pressure but also
+over a far longer period of time, from 1670. The result was a more rigid,
+formal structure in which policy was directed essentially by the committee in London.
+RETRENCHMENT AND AFTERMATH
+
+For the Hudson's Bay Company, the major results of this financial
+crisis were the changes in the structure and in the management of the
+Company's trade, which became known as the Retrenchment System.
+The system was brought into effect by Andrew Wedderburn (later
+named Andrew Colvile) and was basically a compromise position
+between two other plans introduced to save the company in 1809.
+Committee member Andrew Wollanston proposed a move out of the fur
+trade for a number of years. The company could, in the meantime, try to
+establish a timber industry on the Bay, exploiting the high war demands.
+Colin Robertson proposed another plan, namely that the company
+4 This fits in with the Rich-Rotstein thesis on the importance for the fur trade of the alliance
+structure among the Indian tribes.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade Rivalry 793
+should reorganize the factories on the Bay, putting the chief factors on
+profit-sharing to increase their sense of competition, and that it increase
+
+the number of men on the Bay, especially by hiring Canadians who
+knew the interior and could effectively oppose the Northwest Company.
+
+The chief factors would also be allowed far more discretion over what
+prices they would pay the Indians for furs. Finally, the Company was to
+expand its trade into the fur-rich areas of Athabasca and the Peace
+River.46
+The Colvile Retrenchment System took from Robertson the idea of
+reorganizing the factories on the Bay. The chief factors were placed on a
+profit-sharing scheme and the whole organization of the Bay trade was
+tightened. No longer was each factory to operate on its own; rather, the
+
+whole trading area was divided into a northern and southern department, each under a single superintendent. Unlike Robertson's plan,
+
+however, the Colvile scheme did not initially propose any expansion of
+the trade. Like Wollanston's plan, the Colvile plan emphasized that the
+company should reorganize itself within the areas in which it now
+operated. Colvile argued that it was "madness given the finances of the
+
+Company to attempt such an enterprise [Athabasca] now. All hopes of
+an Athabasca enterprise must be founded on the efficiency of the new
+System under which the Company will operate.... Besides we shall be
+more likely to succeed in a contest in Athabasca, when the home
+territory of the Company is fully occupied, by numerous and powerful
+establishments, conducted by active servants whose interests are
+
+assimilated with those in the Company."47
+The financial crisis of 1809-1810 can be viewed as a shock which
+forced the Hudson's Bay Company to act in a manner more consistent
+with profit-maximizing theories of behavior. Basically the committee
+was determined to change its company's relative position in the industry
+and to obtain a larger market share. The results over the following
+eleven years can be outlined briefly. The committee's activities were
+directed toward increasing the Hudson's Bay market share. The Company supported, for example, the development of the Red River
+Settlement, which it saw as a solution to the manpower and provisioning
+problems created by the Napoleonic Wars. It also pursued furs far more
+vigorously. The more vigorous policy had been called for by the
+Retrenchment System, but the resulting depletion of the animal stocks
+intensified the company's activities. As a result of declining animal
+stocks the Hudson's Bay Company finally in 1816 moved outside its
+traditional trading areas into the Athabasca district.
+While the Hudson's Bay Company was beginning to pursue its more
+aggressive policy the Northwest Company was still trying to bring about
+46 Selkirk Papers, p. 530.
+47 Selkirk Papers. p. 25.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+794
+
+Carlos
+
+a collusive agreement. Negotiations in 1810-1811, of course, failed.
+Eventually the Northwest Company began to see its rival's actions as
+
+attempts to push it out of the trade entirely. It saw the Red River
+Settlement in particular as a direct attempt to injure its competitive
+position. The belief that the Hudson's Bay Company was trying to push
+it out of the trade was further heightened by the methods used to obtain
+furs, and finally confirmed by the Hudson's Bay move into the
+Athabasca district, which for twenty years had been a Northwest area.
+By 1816 the Hudson's Bay actions finally led the Northwest Company
+to adopt a similarly aggressive strategy.
+
+It was, then, during the next five years that the predatory competition
+much discussed in the literature occurred. The origins and end of this
+
+aggressive behavior are discussed in detail in my paper, "The Birth and
+Death of Predatory Competition in the North American Fur Trade:
+
+1810-1821"; the predation that occurred can be classified easily into
+two main areas, psychological warfare-disruption of the trade-and
+trading in the other firm's furs.48 The well-documented "kidnapping
+business" was a method used especially by the Northwest Company to
+disrupt its rival's trade. Of greater financial significance, however, was
+the policy pursed by both companies of attempting to obtain furs
+destined for and already paid for by the rival firm.
+The predation was short-lived. In 1821, a complete union of the two
+companies was achieved and the fur trading industry operated as a
+monopoly. The merger was the result of financial and political factors.
+By 1821 the aggressive competition of the previous five years was
+exerting a severe financial strain on both companies. The exact timing
+
+of the merger was a consequence of a set of events set in motion by
+Angus Bethune and John McLaughin, both Northwest Company partners. These men, holding proxies for eighteen other Northwest partners, opened negotiations with the Hudson's Bay Company. Very
+
+shortly thereafter the Northwest Company agents in London commenced negotiations on the part of the company itself. A merger
+
+became the most likely outcome when the government offered to ratify
+any outcome at which the negotiators arrived. Thus in 1821 the
+Canadian fur trade became a monopoly concern operated by the new
+Hudson's Bay Company.
+"8 Ann Carlos, "The Birth and Death of Predatory Competition in the North American Fur
+Trade: 1810-1821," University of Western Ontario Working Paper, 1980.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:55 UTC
+All use subject to https://about.jstor.org/terms
+
+

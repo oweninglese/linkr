@@ -1,0 +1,1388 @@
+---
+
+title:
+created:
+tags:
+source:
+author:
+
+---
+The North American Fur Trade: Bargaining to a Joint Profit Maximum under
+Incomplete Information, 1804-1821
+Author(s): Ann M. Carlos and Elizabeth Hoffman
+Source: The Journal of Economic History , Dec., 1986, Vol. 46, No. 4 (Dec., 1986), pp.
+967-986
+Published by: Cambridge University Press on behalf of the Economic History
+Association
+Stable URL: https://www.jstor.org/stable/2121817
+We examine bargaining between the Northwest Company and the Hudson's Bay
+Company using recent models of bargaining under incomplete information. Two
+previously undisturbed bodies of correspondence are analyzed: letters between
+
+the two companies and letters between the Hudson's Bay Company and its
+London committee. Through merger the companies achieved a joint maximum,
+
+but the lengthy and costly bargaining process dissipated much of the potential gain
+through depletion of animal stocks. Achievement of a joint maximum was
+hindered by incomplete information, commitment to a strategy which led to
+bargaining breakdowns, delineation of each party's rights under law, and environmental changes.
+
+The early development of British North America is the history of
+exploitation of the natural resource base. One such early activity
+was the fur trade. Its impact on the development of the Canadian
+economy was related, in turn, to organization of the markets and to
+ownership of property rights in the resource. A rich body of literature on
+the fur trade focuses on the trade's development and the roles played by
+
+the Hudson's Bay Company and the Northwest Company.' But, the
+
+literature has been largely descriptive rather than analytical.' While a
+
+Journal of Economic History, Vol. XLVI, No. 4 (Dec.1986). C The Economic History
+Association. All rights reserved. ISSN 0022-0507.
+Ann Carlos is Assistant Professor of Economics, Huron College, London, Ontario N6G 1H3;
+Elizabeth Hoffman is Associate Professor of Economics, Purdue University and the University of
+Wyoming, Laramie, Wyoming 82071.
+
+The authors would like to thank Scott Burison, Vince Crawford, Claudia Goldin, Knick Harley,
+
+Glenn Harrison, Peter Morgan, John Nye, John Treble, members of the Indiana Economic History
+Workshop, participants at the 1985 World Congress of the Cliometrics Society, and two
+anonymous referees for their comments on earlier drafts.
+
+I See, for example, W. Stewart Wallace, Documents Relating to the Northwest Company
+(Toronto, 1934); H. A. Innis, The Fur Trade in Canada (Toronto, 1970); Arthur S. Morton, A
+History of the Canadian West to 1870-71 (London, 1939); E. E. Rich, History of the Hudson's Bay
+Company, 1670-1870, 2 vols. (London, 1959).
+
+2The few analytical works include the work of Ann Carlos, The North American Fur Trade,
+1804-1821: A Study in the Life Cycle of a Duopoly (New York, 1986); "The Causes and Origins of
+
+the Canadian Fur Trade Rivalry, 1804-1821," this JOURNAL, 41 (Dec. 1981), pp. 777-94; and "The
+Birth and Death of Predatory Competition in the North American Fur Trade: 1810-1821,"
+
+Explorations in Economic History, 19 (July 1982), pp. 156-83. Another recent paper by Alice T.
+Enders and W. Bentley Macleod, "Competition and Collusion in the North-American Fur Trade:
+1804-1821" (unpublished manuscript, Queens University, 1984) also looks at the fur trade from a
+bargaining perspective. However, their analysis differs from ours in two important respects. First,
+
+967
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+968 Carlos and Hoffman
+great deal is known about the historical facts surrounding the development of the fur trade little is known about the reasons behind those
+observed facts.
+An important period for the development of the industry was the
+years from 1804 to 1821. During this seventeen-year period the
+Hudson's Bay Company and the Northwest Company were a duopoly
+
+unhindered by antitrust legislation. Not only were these two companies
+operating in the same geographic market area and the sole buyers of furs
+on the North American market, they were also the most important
+
+sellers of furs on the British market. With such a market organization,
+traditional cooperative game theory suggests that these firms should
+
+have arrived at an agreement to conserve the resource rents. Rather, the
+period is characterized by intense conflict and ended with dissipation of
+the resource.
+We examine why the two companies took seventeen years to arrive at
+
+a profit-maximizing agreement and focus on the various attempts made
+by both parties to arrive at such an agreement. An examination of the
+bargaining during this period provides insight into the historical development of the North American fur trade and empirical evidence on the
+problems encountered in bargaining under incomplete information. The
+bargaining process between the two companies is examined by an
+
+analysis of two rich and previously undisturbed bodies of correspondence. One is between the Hudson's Bay Company and its London
+management committee, and the other is between the committee and
+the Northwest Company. These documents show the process of negotiation and the reasons why the companies failed to reach an agreement
+before 1821.
+I. A MODEL OF TWO-PARTY BARGAINING WITH INCOMPLETE
+INFORMATION AND COMMITMENT APPLIED TO THE FUR TRADE
+
+While more traditional cooperative game-theory literature would
+suggest rapid agreement to conserve rents, recent literature on bargaining under incomplete information suggests a model which better captures the historical bargaining process considered here. Following
+Roger Myerson and Vince Crawford, each company can make some
+
+amount of profit by itself, without cooperating with the other firm.3 We
+refer to these profits as the profits at the conflict outcome or disagreement outcome. But, in a world of imperfect information, neither firm
+they do not use the primary source material. Second, they do not consider models of bargaining
+under incomplete information.
+
+'Roger B. Myerson, "Two-person Bargaining Problems with Incomplete Information,"
+Econometrica, 52 (Mar. 1984), pp. 461-87; and "Cooperative Games with Incomplete Information," International Journal of Game Theory, 13 (1984), pp. 69-96; Vincent P. Crawford, "A
+Theory of Disagreement in Bargaining," Econometrica, 50 (May 1982), pp. 607-38.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade 969
+knows the other firm's profits at the conflict outcome or whether the
+
+other firm is a tough or a soft bargainer. In such a world, Myerson
+suggests that each firm wants to reveal as little as possible about itself
+and may even misrepresent itself in hopes of bargaining for a larger
+share of whatever joint profits are available. In particular, each firm
+would like the other firm to believe that its individual profits would be
+
+high at the conflict outcome and that it is likely to be a tough bargainer.
+Since each side is reluctant to reveal very much about itself and may
+
+even misrepresent itself, neither side can trust the information it gets
+from the other side. Thus, since the information on the profits at the
+conflict outcome which emerges as the aggregation of each firm's
+alleged profits is likely to be misleading, each firm knows that it cannot
+accept any agreement that specifies a specific amount of profit going to
+
+each firm. This implies that the firms are more likely to bargain over a
+mechanism for distributing whatever profits they can amass if they can
+cooperate than over some specific number that might turn out to be
+unobtainable.
+
+One possible efficient mechanism is what Myerson refers to as a
+'random dictatorship." In other words, in each period during which the
+parties cooperate, one of them is chosen to be dictator by some random
+process. Presumably, during that period, the dictator will maximize
+
+joint profits and retain a large proportion of the profits for itself. If the
+random process gives each firm an equal probability of being dictator,
+
+then joint profits will always be maximized and each firm will get about
+one-half of the profits, on average. While it is perhaps stretching the
+point to say that the Hudson's Bay Company and the Northwest
+Company ever contemplated a random dictatorship, they did spend a
+great deal of time trying to reach a merger agreement and bargaining
+over which side would make the decisions for the monopoly which
+would result. Moreover, when they failed to reach a merger agreement
+early on they turned their attention to other mechanisms for distributing
+whatever joint profits they might earn. In particular, they bargained
+over a distribution of territory that each would then exploit as a
+monopolist.
+
+While a merger or a dictatorship of some kind would be efficient, in
+the process of misinforming one another bargainers could choose a
+mechanism assigning positive probability to some "bad" outcomes for
+both parties once the true information about conflict profit levels and
+bargaining strength is revealed. While this did not exactly happen to the
+
+Hudson's Bay Company and the Northwest Company, since they did
+eventually agree on a merger, they did fail to agree (bargaining breakdown) numerous times. Each time bargainers fail to agree they get only
+the conflict or disagreement profits, which are, presumably, significantly less than what they could earn at the cooperative outcome.
+Another problem when firms deliberately mislead one another is that
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+970 Carlos and Hoffman
+each side may threaten the other by verbally committing itself to a
+position which is untenable in light of the demands from the other side.
+Having made such a verbal commitment, it is difficult to back down
+without losing face. Crawford argues that it is rational for a bargainer to
+commit himself to an advantageous position, because, if the opponent
+becomes convinced of his stance, the payoff is potentially high. But,
+once the bargainers commit themselves to strategies, they may leave no
+room for agreement.
+There is little doubt that the Hudson's Bay Company and the
+Northwest Company recognized the benefits from cooperation; yet, the
+bargaining process was long and costly. The key elements of the model
+of bargaining under incomplete information are inferred from the
+correspondence we examined. First, each side seemed to be trying to
+mislead the other about its initial position. The Hudson's Bay Company
+may even have been trying to covertly improve its relative initial
+
+position during the negotiation. Second, there is almost no mention of
+specific profits to be divided. Instead, the companies seemed to be
+searching for a mutually agreeable mechanism: first merger, then
+territorial division, then drive the other firm out of business, and finally
+merger once again. Third, by 1810 the Hudson's Bay Company had
+committed itself to a particular strategy and had linked that stance to the
+
+"rights and honour" of the company. It is clear that if the Northwest
+Company had accepted the Hudson's Bay Company's position, the
+
+payoff to the Hudson's Bay Company would have been very large. But,
+the strategy did not work. The Northwest Company refused to be
+threatened and bargaining kept breaking down.
+II. BACKGROUND MATERIAL FOR THE DUOPOLY PERIOD
+
+By 1804 the British North American (Canadian) fur trade was
+controlled by two companies, the Northwest Company and the
+Hudson's Bay Company. The Northwest Company was a joint-stock
+
+partnership, in which each partner was fully liable for the debts of the
+company. There were two different types of partners: the Montreal
+merchants, who furnished capital for the enterprise, and "Wintering
+
+partners," who went out to trade with the Indians. Wintering partners
+
+had no obligation to provide capital or credit to the company; their role
+was to organize the trade with the Indians.4 Because Wintering partners
+were shareholders, they had an interest in the profitable operation of the
+
+company and, in effect, were on profit-sharing rather than wage
+
+contracts. Thus, they would have been concerned if the profitability of
+the company was endangered.
+
+The Hudson's Bay Company, whose headquarters were in London,
+
+'The Northwest Company trade in the interior was divided into districts known as departments
+Over each department there was a Wintering partner.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade 971
+was a joint-stock, limited liability company, established by Royal
+Charter in 1670. Control and decision-making authority lay with the
+governor and the committee in London, and they allowed their officers
+in Canada very little latitude. The charter gave the company rights to all
+the land within the Bay's drainage basin, an area that extends as far west
+as the Rocky Mountains. However, the charter did not create an
+exclusive right to trade in that area. The English Parliament ratified the
+charter in 1690, for a period of seven years, but never re-ratified it.
+A central theme of all the negotiations was the charter. So important
+was the charter that when negotiations opened in 1804, both sides
+sought legal advice about its validity. Counsel for both sides gave the
+opinion that the Crown could grant land but not exclusive trading rights.
+Only Parliament could grant trading rights. Thus, the use of the charter
+during the negotiations revolved around the grant of land. With exclusive rights to land in the charter area, it was possible for the charter
+holder to deny rival firms the right to build supply and trading posts.
+Without posts, it was impossible, over those distances in the early
+nineteenth century, to keep traders supplied. The object of negotiation,
+then, was to find a mechanism which allowed both to benefit from the
+charter and which could keep potential rivals out of the trade.
+The use of the charter as a barrier to entry had been noted in the
+Journals of the Voyages of Alexander Mackenzie, published in 1801.5
+Mackenzie, an explorer and Northwest Company partner, argued that
+the fur trade could be carried out most profitably by a single company.
+He proposed "the junction of such a commercial association [Northwest Company] with the Hudson's Bay Company." The new company
+would carry out the trade "under the priviledge of their [Hudson's Bay
+Company] charter." If negotiation on merger should fail, MacKenzie
+suggested that the least the Hudson's Bay Company could do for the
+Montreal traders as British citizens was to grant them a right of passage
+from Hudson Bay inland "for the sole purpose of transport, under the
+most severe and binding restrictions not to interfere with their trade on
+
+the coast."6
+III. 1804 TO 1810
+
+In 1804 the Northwest Company requested right of transit through
+York factory on Hudson Bay to Lake Winnipeg. Its request created an
+
+opening to establish purposeful bargaining 'with the Hudson's Bay
+Company. The Northwest Company offered to withdraw from all other
+posts in the vicinity of Hudson Bay. The Hudson's Bay Company
+realized "that it would be advantageous for all concerned in the fur
+trade if some regulation could be made with the Canadian company or
+'W. K. Lamb, ed., Journals and Letters of Sir Alexander MacKenzie. (Toronto, 1970).
+6Ibid., pp. 416-17.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+972 Carlos and Hoffman
+companies."7 But, it wanted more than the abandonment of already
+unprofitable posts. In particular, it wanted compensation for the present
+
+and future loss of trade that right of transit implied. Thus, the door for
+serious discussion between the two parties was opened.
+
+The theoretical framework discussed previously suggests some characteristics of these discussions. In particular, although the first round of
+negotiations seems like a simple merger-directed bargaining session, the
+two companies do not mention profit-sharing arrangements outside of a
+strict merger. The Hudson's Bay Company, in particular, will only
+discuss mechanisms which give control over the profits from the
+venture to itself. The Northwest Company can buy the Hudson's Bay
+Company outright, thus guaranteeing the purchase price to the
+Hudson's Bay Company shareholders, or the two companies can merge
+under the directorship of the Hudson's Bay Company committee in
+London.
+
+Also, the charter is only invoked in regard to the sale of transit rights
+to the Northwest Company. Knowing the Hudson's Bay Company
+
+cannot deny it the right to trade furs, the Northwest Company requests
+the right to build a legally guaranteed post in the charter area. In return,
+it agrees to withdraw from other posts in the charter area which it
+occupied illegally (in the context of the charter). Failing to agree, both
+sides return to the status quo, or conflict outcome, which includes some
+amount of trespass by the Northwest Company on the Hudson's Bay
+Company charter land.
+
+Although both firms recognized the gains from cooperation, they
+
+failed to reach agreement on the first round. The first-round failure
+illustrates some of the inherent bargaining problems. In particular, the
+
+Northwest Company was so recently formed that the Hudson's Bay
+Company did not know what to expect from its new rival. The
+committee was also concerned with security of tenure and the ability of
+the Northwest Company to enforce agreement on all potential traders
+out of Montreal.8
+
+When the two sides communicated again in May 1805, the Northwest
+
+Company explained that it did not want to challenge the Hudson's Bay
+Company trade or the validity of the charter. Rather, it simply wanted
+to exclude potential rivals.9 At the same time, however, James Forsyth,
+the London agent for the Northwest Company, explained that the
+'Minutes of Transactions Between Hudson's Bay Company and the Northwest Company
+1804-06, Public Archives of Canada [henceforth PAC] Hudson's Bay Company MG20AI reel 18,
+para. 6.
+
+8 The Northwest Company had been formed by the merger of Alexander Mackenzie's company
+and the old Northwest Company. The rivalry leading up to this merger was particularly intense and
+
+bitter. The Hudson's Bay Company letters at this time speak of "Canadian traders who respect
+neither justice nor equity but commit open acts of violence...." Hudson's Bay Company
+Records, Minute Books, MG20AI/219 (PAC, p. 6).
+
+9 Minutes of Transactions, letter of May 1805.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade 973
+company was not in favor of a partition of districts. In its reply, the
+Hudson's Bay Company asked if the Northwest Company wanted to
+buy it out. Although this proposal would have given the Northwest
+Company what it wanted, the negotiators could not accept it because all
+available capital had been used to create the new Northwest Company.
+The Hudson's Bay Company then proposed the second option, a
+"junction of interests," with the charter to protect the new company.
+Although this became the ultimate solution, the Northwest Company
+refused it at that time because the center of control would have moved
+from Montreal/Fort William to London. Given the recent struggle to
+create the Northwest Company, itself, the negotiators realized that the
+Wintering partners would never agree.
+After these proposals were rejected, the Hudson's Bay Company
+committee made an all-or-nothing offer, asking the Northwest Company
+negotiators either to buy out the Hudson's Bay Company or to make a
+special offer. Forsyth offered 2,000 pounds sterling annually for seven
+years, to withdraw from James Bay, and to build no posts other than
+York any closer to the sea than their present posts. In addition, it
+"offered to give Bonded security of two sufficient mercantile houses for
+
+the due performance of all their engagements."'10
+The Hudson's Bay Company committee again showed its uncertainty
+about its competitors by requesting "collateral security that will ensure
+to us those advantages which it is your intention to offer in compensation for those facilities in prosecuting your trade" and by reminding the
+Northwest Company negotiators that, "you must be aware that we are
+of course restrained to carry on our trade exclusively with Great Britain,
+it will therefore be a necessary consequence of our treaty that you
+should confine yourself to the same restrictions."11
+The Northwest Company "offered to give a Bonded Security" for its
+conduct, but "would not submit to any restriction or limitation to carry
+on their trade with Hudson Bay to and from Great Britain exclu-
+
+sively. "12 For its part, the Hudson's Bay Company committee felt that
+if the Northwest Company was not willing to meet its requirements, the
+Hudson's Bay Company "should not feel justified in acceding to the
+
+terms proposed.'"13 In February of 1806 the negotiations ended.
+The failure of the Hudson's Bay Company to push harder for the
+charter boundary at this time (by threatening to bring a trespass suit, for
+instance) suggests that the gains from trying to assert that property right
+were perceived as being small (or even negative) as compared with
+
+accepting the profits at the conflict outcome. Perhaps the Hudson's Bay
+10 Ibid., Letter of 19 February 1806.
+" Ibid., letter of 31 January 1806.
+
+12 Ibid., letter of 19 February 1806.
+13 Ibid., letter of 22 February 1806.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+974 Carlos and Hoffman
+Company already feared a Northwest Company countersuit charging
+that the Hudson's Bay Company had never settled its charter land. In
+any event, the Hudson's Bay Company letters during the period suggest
+satisfaction with the status quo, given that they could not get a merger
+by peaceful negotiation. Over the next seventeen years, however,
+changes in the output market and depletion of animal stocks combined
+to dramatically change the Hudson's Bay Company's perception of the
+potential value of its charter.
+Although the two companies were unable to reach a formal contractual agreement in the 1804/06 negotiations, they continued to cooperate
+informally from 1804 to 1810.14 This informal cooperation seemed to
+generate enough joint profits to make the "conflict" outcome preferable
+to any formal agreements yet proposed. The letters show that both
+companies wanted to preserve informal cooperation. The Hudson's Bay
+
+Company continually wrote to its officers, telling them to "maintain the
+utmost peace and harmony with your opponents" and "to avoid any
+discussion or disagreement with those people."15 Alexander Henry, a
+Northwest Company partner, wrote at length in his journal of the good
+
+relations that existed between the men of both companies. 16 In general,
+all the evidence suggests the two companies were learning about each
+another's relative strengths and market shares and learning to trust one
+
+another. Formal negotiations were not reopened but, at the same time,
+each firm went out of its way not to threaten the other firm.
+
+Despite the lack of formal negotiations, however, Alexander
+MacKenzie continued to try to gain access to Hudson Bay for the
+
+Northwest Company, either through a grant of privileges from the
+government or through the purchase of shares in the Hudson's Bay
+
+Company. To buy shares, however, MacKenzie needed an individual
+trusted by the Hudson's Bay Company to buy shares for him. Thomas
+Douglas, the 5th Earl of Selkirk agreed, but it soon became clear that
+MacKenzie and Lord Selkirk were playing very different games.
+
+MacKenzie wanted to gain enough votes on the Hudson's Bay Com-
+
+pany committee to guarantee the Northwest Company a right of passage
+for its western trade. Selkirk, on the other hand, wanted the Hudson's
+
+Bay Company to grant him land for colonization. 17
+Negotiations were complicated further by events in Europe. In 1808
+the Napoleonic Blockade cut the demand for furs on the English market
+14 This period is discussed at length in Carlos, "Causes and Origins."
+15 Hudson's Bay Company Records, London Correspondence Outward-Official-Albany 1800,
+PAC MG2OA6.
+
+16 Elliot Coues, ed., New Light on the Early History of the Greater Northwest: The Manuscript
+Journals of Alexander Henry and of David Thompson (New York, 1897).
+
+17 Lord Selkirk conceived the idea of a colony at Red River from the description of the area
+provided by Sir Alexander Mackenzie in his book.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade 975
+by at least 50 percent of the 1800 level.'8 Not only was overall demand
+cut in half, the effect fell more heavily on the Hudson's Bay Company.
+There were two reasons why that company suffered more. First, its
+charter required that it abide by the Navigation Acts and sell on the
+English market only. Thus, it could not try to develop new markets. The
+Northwest Company, on the other hand, turned more to the American
+market. Second, the Hudson's Bay Company was so centralized in
+London that it was impossible to make short-term adjustments in the
+prices it paid the Indians. The Northwest Company responded to the
+new demand conditions by changing its relative prices. Thus, it was able
+to obtain the more valuable furs, leaving the Hudson's Bay Company to
+purchase (at its prescribed prices) only those furs whose market demand
+had decreased.19 As a result, the Hudson's Bay Company's profits
+declined dramatically.
+In fact, by 1809/10 the Hudson's Bay Company was faced with a very
+severe financial crisis, the severity of which is suggested in Table 1. As
+the table shows, the surplus from cooperation must have fallen precipitously. Where before it had looked as though they were playing a
+nonzero-sum game with large benefits from cooperation, it must have
+started to look like a zero-sum game after 1808.20
+The company went from making healthy profits to amassing large
+losses between 1807 and 1808. In response, the Hudson's Bay Company
+committee decided to pursue the fur trade more aggressively, by making
+full use of its charter rights and by moving into territory previously
+worked only by the Northwest Company. The Hudson's Bay Company
+particularly wanted to move into the Northwest Company's prime
+beaver area around Lake Athabasca, because by 1810 its traditional
+trading areas were becoming depleted. The Hudson's Bay Company
+also began to discuss taking the Northwest Company to court for
+trespassing on charter lands.
+As a result of the change in the environment and the new strategy of
+the Hudson's Bay Company committee, the bargaining process became
+more bitter and protracted the next time. The surplus had become
+smaller and the relative initial positions of the two firms had substan-
+
+tially changed. Now, neither firm trusted that it could guarantee itself
+
+better profits from cooperation. Each side feared the other was gaining
+at its expense. What really happened was the total joint profits had fallen
+'8A full discusion of the effect of this fall in demand can be found in Carlos, "Causes and
+Origins."
+
+'9 Coues, New Light. Alexander Henry noted in 1808 that the Blackfeet "brought in wolves, bu
+I sent them to my neighbors [Hudson's Bay Company] as wolves were not in season," i.e., not in
+demand, p. 558.
+
+20 In a zero-sum game there are no benefits from cooperation. Anything one firm wins is at the
+expense of the other firm.
+
+This content downloaded from
+192fff:ffff:ffff:ffff:ffff on Thu, 01 Jan 1976 12:34:56 UTC
+All use subject to https://about.jstor.org/terms
+
+976 Carlos and Hoffman
+TABLE 1
+
+HUDSON'S BAY COMPANY PROFIT AND LOSS ACCOUNTS
+
+(in pounds sterling)
+Year
+
+Profits
+
+1800
+
+?747
+
+1801
+
+1,578
+
+1802
+
+5,189
+
+1803
+
+3,026
+
+1804
+
+Losses
+
+?9,412
+
+1805
+
+1,088
+
+1806
+
+2,718
+
+1807
+
+8,778
+
+1808
+
+21,423
+
+1809
+
+19,118
+
+1810
+1811
+
+8,773
+
+1,329a
+
+1812
+
+1,02lb
+
+1813
+1814
+
+3,152
+
+11,711
+
+1815
+
+4,006
+
+1816
+
+3,285
+
+1817
+
+2,168
+
+1818
+
+2,624
+
+1819
+
+30,628
+
+1820
+
+19,249
+
+a
+
+12,484
+
+und
+
+overhaul of the company's accounting practices. The new system was put into operation in 1811.
+
+b 658 under the old accounting practices.
+Source: Profit and Loss Accounts, Grand Ledger, Hudson's Bay Company, Public Archives of
+Canada, MG20A14.
+
+because of the blockade and because competition had depleted the
+animal stocks.
+As the next round of formal negotiations began in 1811 the focus of
+
+bargaining changed since 1804/06. Previously the issues were the right
+
+of transit from Hudson Bay for the Northwest Company and a possible
+merger of the two companies or a buyout of the Hudson's Bay
+Company. In 1810, on the other hand, the focus was entirely on
+establishing clear geographical areas within which each company would
+be able to maintain a fur-trading monopoly. Having failed to merge in
+the previous round of negotiations, they now bargained over a mechanism which would maintain the integrity of the two companies.
+
+IV. THE NEGOTIATIONS OF 1810 TO 1811
+
+The next round of negotiations formally opened on June 3, 1811.
+When one examines the offers and counteroffers made in this round, it
+is evident that each company was trying to mislead the other about its
+
+initial position, its true demands, and its true bargaining posture. The
+
+Hudson's Bay Company tried to convince the Northwest Company that
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade 977
+unless it retained its charter it could not enter into an agreement. By
+invoking the charter, the company claimed to be in a strong legal and
+financial position vis-d-vis the Northwest Company, despite the fact
+that the company's profits were much lower than they had been during
+the previous negotiation. Although the offer did include sole Northwest
+Company control of the Athabasca, this was not as magnanimous as it
+sounded. The Hudson's Bay Company had previously been unsuccessful in setting up posts there.
+The Northwest Company, for its part, pretended to be indifferent to
+an agreement. It wanted the Hudson's Bay Company to believe that it
+was offering to cede valuable territories and maintain marginally valu-
+
+able ones. The Northwest Company even tried to claim it might actually
+
+be hurt by the magnanimous division it had proposed. In reality,
+however, the proposal guarded the Northwest Company's most profitable areas and conceded currently unprofitable ones.
+Another characteristic of this round of negotiations is that the two
+
+companies continued to bargain only over a mechanism for distributing
+profits, not over a specific division of the profits. In 1804/06 they had
+
+tried to agree on a merger or buyout, but failed. This time they tried to
+divide the territory into separate monopolies. This could also have been
+an efficient mechanism if they could simultaneously have resolved the
+issue of transit rights. As it was, however, they again ended up with the
+
+conflict outcome. By misleading one another they could not find out
+how much joint profit they were dividing and how each proposed
+
+division would distribute those profits. The breakdown in bargaining
+also occurred because the Hudson's Bay Company committed itself to
+a particular stance before the negotiations opened and linked that stance
+to the reputation of the company.
+
+Turning now to a more detailed analysis of the bargaining process, the
+Northwest Company letters to the Hudson's Bay Company committee
+
+offered a set of boundaries that would last for twelve years. Their
+proposed division meant that the Hudson's Bay Company would have
+the whole of the Assiniboine region and the south and west side of the
+
+Saskatchewan from Cumberland House to the Rockies, "beyond which
+
+they are not to go.' '21 In return, the Northwest Company requested the
+Athabasca, the Upper Churchill and the Beaver River districts, all the
+land north and west of the Saskatchewan, and some parts of the Nipigon
+region. The Northwest Company's arguments centered on a desire "to
+
+curtail expense in the competition of a trade for which the circum-
+
+stances of the times are particularly unpropitious. "22 The company
+hoped that these boundaries would be beneficial to both parties. The
+2 Papers Relating to the Red River Settlement, Selkirk Papers, PAC MG 19, pp. 1-3000, letter
+3 June 1811.
+22 Ibid.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+978 Carlos and Hoffman
+Hudson's Bay Company could now obtain greater returns by working
+its own departments and would not have to waste resources on
+unsuccessful forays into the remote Northwest Company regions. The
+Northwest Company would also gain, "provided the basis of a treaty
+can be founded on the exclusion of the Hudson's Bay Company traders
+from the Athabasca posts discovered and established at so much
+expense by the Northwest Company.' '23
+The Hudson's Bay Company's reply began by dismissing the Northwest Company proposal as "a scheme so inadmissible that to entertain
+it would imply a disregard both of the interest and Honour of the Body
+we represent.' '24 Thus, from the very beginning of this round of
+bargaining, the Hudson's Bay Company committee was staking the
+honor of the company on maintaining its position. Despite taking such
+a strong stand, however, the tone was still conciliatory and the letter
+ended up with the statement that: "if this difficulty can be removed, we
+shall be ready to treat if an arrangement on fair principles and on such
+terms as may evidently be for the mutual advantage of both companies. "25 Thus, while honor was put foremost, the heart of the negotiation revolved around the meaning of "an arrangement of fair principles."
+To the Northwest Company a fair arrangement was one which left it
+Athabasca and which took into consideration the actual possessions of
+the Northwest Company and the lands it had opened. The Hudson's
+Bay Company's definition of a fair arrangement was one which guaranteed its charter limits, in return for which the company would not go
+over the height of land to the Saint Lawrence at Fort William, to
+Athabasca at Methye Portage, or to the Columbia at the southern end of
+
+the Continental Divide. But, the committee would not promise to stay
+out of the unexplored areas west of the Rockies. The Hudson's Bay
+
+Company promised, however, to make "every reasonable accommodation in respect to posts of deposit and provisions will be readily
+accorded to on our part."26
+The response by the Northwest Company was unenthusiastic. Northwest Company agents in London pointed out that they were being asked
+to give up half the land currently operated by the company without
+indemnity. Such a move "would lead to the sacrifice of the best interests
+
+of our constituents."27 Thus, while they were "unwilling to say anything which might] shut the door to further negotiations" no division
+based on the charter limits was possible.28 Thus, both companies
+23 Ibid.
+
+24 Ibid., letter of 26 June 1811.
+25 Ibid.
+
+26 Ibid., letter of 24 July 181 1.
+27 Ibid., letter of 6 August 1811.
+28 Ibid.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade 979
+TABLE 2
+
+BEAVER AND MUSQUASH/MUSKRAT EXPORTED BY THE HUDSON'S BAY
+COMPANY, 1800-1821
+
+Percent of 1800 Musquash/Muskrat Percent of 1800
+Year
+
+Beaver
+
+1800
+
+Skins
+
+35,037
+
+Exports
+
+100%
+94
+
+Skins
+
+Exports
+
+15,278
+
+100%
+
+15,894
+
+104
+
+1801
+
+33,252
+
+1802
+
+37,187
+
+106
+
+1803
+
+32,327
+
+92
+
+1804
+
+31,737
+
+90
+
+16,153
+
+1805
+
+28,083
+
+80
+
+31,100
+
+204
+
+1806
+
+20,732
+
+59
+
+21,046
+
+138
+
+1807
+
+29,758
+
+1808
+
+32,884
+
+84
+93
+
+1809
+
+32,025
+
+1810
+
+29,720
+
+8,534
+
+56
+
+10,757
+
+70
+
+14,886
+24,660
+
+91
+
+106
+
+97
+
+161
+
+21,167
+
+39
+
+84
+
+32,564
+
+213
+
+1811 missing
+
+1812
+
+15,524
+
+44
+
+25,268
+
+165
+
+1813
+
+17,069
+
+48
+
+83,081
+
+544
+
+1814
+
+19,170
+
+1815
+
+10,380
+
+54
+29
+
+138,772
+
+908
+
+99,534
+
+651
+
+1816 missing
+1817
+
+27,815
+
+79
+
+154,070
+
+1,008
+
+1818
+
+25,493
+
+72
+
+63,357
+
+1819
+
+17,356
+
+49
+
+62,431
+
+409
+
+1820
+
+15,683
+
+44
+
+66,236
+
+434
+
+1821
+
+20,565
+
+113,914
+
+745
+
+57
+
+415
+
+Note: Total of whole or parchment and cub beaver but not coat beaver.
+
+Source: Public Archives of Canada, Hudson's Bay Company MG2OA53, Fur Trade Importation
+Book.
+
+arrived at the conflict outcome once again. This time, however, they did
+not continue to coexist peacefully. Instead, a major, long-lasting change
+in the fur-trading environment began.
+V. COMPETITION: 1812 TO 1815
+
+While the Napoleonic Blockade precipitated the change in the
+Hudson's Bay Company's strategy and the beginning of competition, it
+did not last very long. Had that been the only crisis, the benefits from
+
+cooperation would have been evident soon again. Unfortunately depletion of animal stocks became an increasingly serious problem after
+
+1810.29 Table 2 shows the quantity of beaver exported from Hudson Bay
+from 1800 on. Between 1810 and 1816 the quantity available for export
+fell significantly relative to the years prior to 1810. The temporary
+
+increase after 1816 illustrates the Hudson's Bay Company's move into
+the Athabasca region. The problem of depletion can also be seen in the
+
+composition of the furs exported. As Table 2 demonstrates, muskrat
+became far more important. Unfortunately, however, increasing depen29 See Carlos, "Birth and Death," for a discussion of the animal stock depletion.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+980 Carlos and Hoffman
+dence on muskrat brought increasing dependence on the cyclical nature
+of the environment since muskrat populations follow cyclical climatic
+variations 30
+
+The financial crisis had already forced the Hudson's Bay Company to
+undergo a complete restructuring not just of its trading methods, but,
+more importantly for this discussion, of its view of the company's role
+in the fur trade. The aim was to increase the company's market share
+and to force the Northwest Company to accept a change in market-share
+distribution. The plan made clear that the company should change from
+informal cooperation to aggressive competition.
+The committee's commitment to its charter can also be seen in the
+steps taken in late 1811. A condition of the original charter had been the
+settlement of land, a condition so far unfulfilled. In 1811 the Hudson's
+Bay Company sold Lord Selkirk the land in the Red River area he had
+wanted for colonization. This tract, known as the Selkirk Settlement or
+the Red River Settlement, lay at the heart of the Northwest Company
+provisioning area around the bottom of Lake Winnipeg. The Hudson's
+Bay Company also began actively spying on the Northwest Company as
+part of its campaign to maintain the rights of its charter. All the chief
+factors were told to report on the activities of the Northwest Company,
+which would allow the Hudson's Bay Company to prosecute acts of
+trespass. Meanwhile, the Hudson's Bay Company began preparation
+for establishing posts in the Northwest Company monopoly areas, the
+Rocky Mountains and the Athabasca. In 1814, the committee wrote to
+the governor of the Northern Department, "[T]he country across the
+mountains we should imagine to be already occupied by the Northwest
+
+Company and therefore you should be prepared for an opposition.''31
+Although depletion was not as serious a problem for the Northwest
+
+Company, it was still a concern, and any monopoly lands became that
+much more valuable. The Northwest Company's financial position was
+further affected by the War of 1812, some of which was fought in its
+territory. Moreover, the Selkirk settlement compounded the effect of
+the war, since the Northwest Company could no longer provision itself
+fully from that district. This, in turn, made it seem to the Northwest
+
+Company that the Selkirk settlement was a deliberate attack.
+By 1814, the Northwest Company began to express concern over the
+
+direct threat from the Hudson's Bay Company's new policy. In that
+year the Northwest Company partners decreed that "no Hudson Bay
+
+servants should in future be received into any of the company's posts in
+case of starvation, and on no account [are any] to be engaged in the
+
+30Arthur Ray, Indians in the Fur Trade (Toronto, 1974), p. 121. The muskrat was affected b
+changes in the level of precipitation. Any significant increases or decreases in the water levels in
+rivers decimated the population.
+
+31 London Correspondence Outward, para. 38, 1814.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade 981
+Northwest Company. "32 This was a very strong stand, especially when
+starvation was an ever-present threat to the existence of both trader and
+Indian.
+
+Finally, in late 1815 the Hudson's Bay Company moved into the
+Athabasca region, even though in both the previous negotiations (1804
+and 1810) the area had been conceded as a monopoly region by the
+Hudson's Bay Company. This provocation initiated a series of countermoves and a period of active, often hostile, competition.
+VI. 1815 TO 1821
+
+Before the worst began, however, the two companies attempted,
+unsuccessfully, to negotiate once again, beginning in December of 1815.
+
+The Hudson's Bay Company adopted a "tough" bargaining stance from
+the outset. In particular, the company maintained its commitment to the
+
+charter, believing it could not afford to do otherwise. The company
+pursued that strategy even though it had already led to a bargaining
+breakdown. In fact, it might be argued that the company was not
+seriously negotiating but simply testing to see if the Northwest Company would concede an increased market share. Also, the Hudson's
+Bay Company appointed Lord Selkirk as its chief negotiator. That
+choice could not have helped the bargaining process. He was new to the
+scene, was negotiating on the basis of written instructions from En-
+
+gland, and disliked the Northwest Company because of its supposed
+involvement in what was known as the Seven Oaks Massacre at the Red
+River Settlement. The Northwest Company disliked him because of the
+Red River Settlement itself.
+In August 1815, the Hudson's Bay Company wrote Lord Selkirk
+
+telling him the company was "fully convinced of the importance of
+some arrangement between the Hudson Bay Company and the Northwest Company. . . ." and that he should try to reach a new agreement,
+without budging on the issue of the charter.33 In particular, he was told
+that, in "any compromise with the Northwest Company the main object
+to be attended to is the preservation of the chartered rights of the
+Hudson's Bay Company, avoiding any concession which can fairly be
+
+construed into a dereliction of our privileges.""n Selkirk was also to try
+to get an acknowledgment of those "rights to the property and jurisdiction of all the country lying upon the waters that run into Hudson
+Bay. "35
+In return, the committee empowered Selkirk to repeat the offer of
+
+1811. The Hudson's Bay Company would give up claim to the
+32 Wallace, Documents, p. 273.
+33 Selkirk Papers, August 1815 instructions to Lord Selkirk, p. 163 In.
+34 Ibid.
+
+35 Ibid.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+982 Carlos and Hoffman
+Athabasca and not go over the height of the land to the south.36 It would
+provide provisioning posts in the lands given up by the Northwest
+Company, and it would give the Northwest Company right of transit
+from Lake Winnipeg to Port Nelson on Hudson Bay.37 This latter offer
+could be considered a conciliatory gesture on the part of the Hudson's
+Bay Company. The right of transit was not offered in 1810, and it thus
+represents a major change in position between 1810 and 1815.
+When the two sides met in Montreal, Selkirk told John Richardson,
+the Northwest Company agent, that the Hudson's Bay Company was
+willing to enter into an agreement consistent with its "rights and
+honour." It is not clear whether Selkirk actually ever mentioned the
+offer of a right of transit through Hudson Bay. The Northwest Company
+made two counteroffers. The first was a division of the territories
+acceptable to itself. The second was a merger of the trade for eight
+years, with the profits (or losses) being split two-thirds to the Northwest
+
+Company and one-third to the Hudson's Bay Company. Each company
+would sell half the skins, and the skins would be shipped from either
+
+Montreal or Hudson Bay, whichever was cheaper. The division reflected the relative initial sizes of the two companies but did not
+recognize the expansion of the Hudson's Bay Company as a result of its
+more aggressive pursuit of the trade. Selkirk replied that the committee
+still adhered to the same principles as in 1811 and in fact as "the
+circumstances of the Hudson's Bay Company being materially im-
+
+proved since 1811, they might rather be expected to raise than lower
+their demands.' 38
+In spite of Selkirk's rejection of both offers, the Northwest Company
+continued to push for a merger. First, they proposed that the Northwest
+
+Company would manage the interior and would send a representative to
+the bay to supervise activities there. Everything was to be inventoried,
+and all posts and buildings would return to the firm which built them at
+the end of the partnership. Second, the agreement would constitute
+neither an admission by the Hudson's Bay Company that its charter was
+inviolate nor an admission by the Northwest Company that is was valid.
+The Northwest Company argued that it should manage the trade to
+ensure unity of management. If there were two managements there
+
+would be "useless waste of expenditure, and risk of property, to which
+
+opposition necessarily gives rise."39 The Hudson's Bay Company
+would appoint one man to work with the Northwest Company agents,
+
+36In spite of the fact that the Hudson's Bay Company was negotiating with the Northwest
+Company to leave Athabasca under Northwest Company control, the Hudson's Bay Company had
+already sent an outfit to Athabasca.
+
+37 Selkirk Papers, August 1815 instructions to Lord Selkirk.
+38 Ibid., negotiations of 10 December 1815, p. 217n. The actual details of the Northwest Company
+counterproposal were put forward on 12 December.
+39 Ibid., negotiations of 12 December.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade 983
+and there would be no distinction between departments (for example,
+Athabasca) for the duration of the partnership (that is, all profits would
+
+simply be divided regardless of origin).
+Selkirk replied on 23 December that he could only deal with a division
+based on the limits of the charter and could not originate any plan for
+union. In so replying, he showed once again his commitment to the
+charter limits. He wrote that he "ha[d] no doubts that very superior
+
+profits might be derived from the whole trade being under one undivided
+management."40 But, he was still of the opinion that there were inherent
+and unsurmountable difficulties. One of these was the "radical difference in the constitution of the two companies.... It would be a waste
+of time to enter into a consideration of its details.' 41 He proposed an
+arrangement of boundaries as "the best chance of reconciling the
+interests of the companies. "42 In addition, given that, the "opposition. . . has had the effect of exhausting the country," Selkirk argued
+that the Northwest Company should be happy that the Hudson's Bay
+
+Company only asked for the same boundaries as in 1811, seeing that the
+
+Hudson's Bay Company was better off than in 1811.43 The Northwest
+Company rejected Selkirk's offer once again.
+Thus, negotiations broke down again. This time, however, both sides
+proceeded to adopt policies designed to force the other to concede.
+Each now tried aggressively to capture trade from the other and to
+disrupt whatever trade the other continued to control.44 The following
+letter makes it clear that the Hudson's Bay Company had decided that
+aggressive competition was necessary. The committee wrote: "We
+consider it to be of the most essential importance to the permanent
+interest of the company that the opposition to the Northwest Company
+
+in the Athabasca should be vigorously pursued."45 The effect this
+period of competition had on the Northwest Company's profits is not
+known precisely. But, Table 1 shows that the Hudson's Bay Company
+was severely hurt. The cost of the campaign extended the Hudson's Bay
+
+Company to its overdraft limit, and its trading losses must have been
+enormous.46
+
+It is likely that the Northwest Company was also badly hurt, since the
+40 Ibid.
+
+41 Ibid.
+
+42 Ibid.
+
+43 Ibid., negotiations of 23 December (p. 244).
+44 At this point the threats and counterthreats became directly physical. The use of such tactics
+as bully boys, trading each others' debts, and the kidnapping business is discussed at length in
+Carlos, "Birth and Death."
+
+45 London Correspondence Outward, 1817.
+
+46 E. E. Rich, ed., Journal of Occurrence in the Athabasca Department by George Simpson,
+1820 and 1821 and Report (Toronto, 1938) states that the Hudson's Bay Company trading loss had
+
+been 12,000 pounds sterling over a long period (p. 394).
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+984 Carlos and Hoffman
+partners reopened negotiations in 1820, citing the bad financial situation
+and growing violence of the trade.47 The Wintering partners were
+becoming so concerned about the violence and trading losses that they
+threatened to withdraw from the partnership when it expired and to
+negotiate to join the Hudson's Bay Company themselves.
+The Hudson's Bay Company may also have become concerned that
+its position on the charter was no longer tenable. Although the Hudson's
+Bay Company had been collecting evidence on Northwest Company
+trespass on its property, the Northwest Company actually initiated
+proceedings. In late 1815 and early 1816, the Northwest Company wrote
+to the Colonial Office, challenging the charter as the basis for the Red
+River Settlement.48 In 1817, the Colonial Office's representative to the
+government, W. B. Coltman, found the charter (and hence the settle-
+
+ment) void, because of the long period of nonuse.49 The Hudson's Bay
+Company's concern was that this would become the government
+position. In fact, by 1819 the British government was becoming very
+concerned about the state of affairs in its "Indian countries" and was
+beginning to question the companies about events in British North
+America. In 1820 the government informed both parties that it "might
+be disposed to go into and confirm any arrangement the parties might
+make between themselves.' 50
+The response was immediate and dramatic. In 1821 the firms agreed
+to merge, creating a monopolist in the North America fur trade. The
+agreement specified that each company would provide an equal share of
+capital and that trade was to be carried on for twenty-one years under
+the name of The Hudson's Bay Company and under its charter. Trade
+
+was to be conducted by a board consisting of the Hudson's Bay
+Company governor, two Hudson's Bay Company committee members,
+and two Northwest Company members. It was to use the London
+agencies of the Hudson's Bay Company and be carried out through
+Hudson Bay. Profits were to be divided annually into one hundred
+
+shares dispersed as follows: twenty each to Hudson's Bay Company
+and Northwest Company proprietors, forty to "persons actually employed in conducting the trade in North America," ten held in reserve,
+five to Lord Selkirk's heirs, and five to Simon McGillivray and Edward
+
+Ellice, two Northwest Company partners, for loss of their London
+
+agency.51
+In July 1821, the government passed the "Act for Regulating the Fur
+7 The Northwest Company position was severely weakened by the capture of Fort William in
+1817 by Lord Selkirk. The company lost two years' trade, furs in 1817 and trade goods in 1818.
+48 Rich, Journal, p. 356.
+
+49Ibid., p. 361.
+
+50 Selkirk Papers, p. 6960.
+51 Agreement for carrying on the fur trade by the Hudson's Bay Company exclusively under the
+terms within mentioned and Deed Poll, 26 March 1821. See Wallace, Documents, p. 321.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+North American Fur Trade 985
+Trade and Establishing a Criminal and Civil Jurisdiction Within Certain
+Parts of North America." This act recognized the validity of the charter
+and gave the new company a commercial monopoly of trade within all
+the land not specifically covered by the charter.
+
+VII. DISCUSSION AND CONCLUSIONS
+
+Why did the Hudson's Bay Company and the Northwest Company
+take seventeen years to reach an agreement and dissipate the resource
+rents in the process when the market structure and freedom from
+antitrust suggest that the firms should have arrived at an agreement
+quickly? Analysis of the attempts by these two companies to reach an
+agreement suggests that they did indeed want to maximize profits and
+that they understood the gains from cooperating and the dangers
+inherent in delaying. But, the documents also reveal that changes in the
+
+input-output market, the historical environment regarding the charter,
+and the nature of the bargaining process combined to make it particularly difficult for the firms to reach agreement.
+The features which are important here are essential for explaining the
+
+long delay in achieving agreement and for illuminating aspects of
+current bargaining theory. Uncertainties regarding actual profits, relative bargaining strengths of the respective parties, and extent of
+commitment to strategies made the bargaining process somewhat indirect. Neither side wished to reveal very much about itself, but each
+wanted to find out as much as it could about the other side. It is even
+
+possible to make some sense of their unwillingness to get opinions on
+the charter in these terms. It may have seemed better for each firm to
+come to agreement on a mechanism for distributing the profits before
+seeking a ruling on the charter. And, in some sense, that is what they
+finally did. They agreed to a merger, and then the government agreed to
+honor the charter.
+Because of the uncertainty and the unwillingness of each firm to
+reveal very much, the bargaining process was extremely long, and most
+of the profits were dissipated. The firms began with a round of
+unreasonable offers and counteroffers, each trying to begin in the most
+advantageous position and to keep the other firm guessing. Next, each
+firm tried to learn as much as it could about the other firm, exploring the
+strength of the other's bargaining position. Had there not been a
+blockade and depletion of the animal stocks, it is likely the firms would
+have reached agreement on a mechanism much earlier.
+However, change in the environment altered the information structure and the benefits from playing the game. The absolute and relative
+
+positions of the firms changed, and they had to begin the process all over
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+986 Carlos and Hoffman
+again.52 Once again, neither side wished to reveal much about itself and
+each probably believed it was weak as a result of the environmental
+deterioration. Each side knew the surplus was smaller, but neither
+wanted to accept less than it had expected from the original round of
+bargaining. But to get back to its 1804 position, each side would have
+had to get more than 50 percent of the surplus available in 1816. When
+they both tried to do just that, they nearly destroyed one another and the
+entire fur trade.
+VIII. POSSIBLE EXTENSIONS
+
+The analysis presented here may provide a framework for studying
+other duopolies (or small groups of firms) in economic history, especially in cases where standard economic theory does not seem to
+account for the observed historical developments. Whenever members
+of an industry with few firms have direct contact with one another, the
+possibility exists that their interaction is better understood in terms of
+bargaining under incomplete information than in terms of noncooperative duopoly or imperfect competition theory. For example, the growth
+of the railroads in the Midwest in the 1860s and the merger movement
+in the late nineteenth century involved a few firms in each case and
+those firms maintained close contact with one another. Reference to
+bargaining theory might add to understanding these developments.53
+
+52 actual personnel on the Hudson's Bay Company committee had also changed. By 1810 t
+composition of the committee was quite different from what it had been in 1804.
+53 There is already some other work in economic history which uses bargaining theory. We have
+
+already mentioned Enders and Macleod, "Competition and Collusion." There is also the work of
+
+Gary D. Liebcap and Steven N. Wiggins, "The Influence of Private Contractual Failure on
+Regulation: The Case of Oil Field Unitization," Journal of Political Economy, 93 (Aug. 1985), pp.
+690-714; Ronald N. Johnson and Gary D. Libecap, "Contracting Problems and Regulation: The
+Case of the Fishery," American Economic Review, 72 (Dec. 1982), pp. 1005-22; and Steven N.
+Wiggins and Gary D. Libecap, "Oil Field Unitization: Contractual Failure in the Presence of
+Imperfect Information," American Economic Review, 75 (June 1985) pp. 368-85.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:20:39 UTC
+All use subject to https://about.jstor.org/terms
+
+

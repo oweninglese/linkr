@@ -79,7 +79,7 @@ def check_tags_and_write(afile, tag):
         tags_f(tag, post)
 
 
-def start():
+def create_tagfiles():
     for fname in os.listdir(ARTS):
         next_file = str(fname) if fname.endswith(".md") else None
         with open(TFILE, "r", encoding="utf-8") as tagfile:
