@@ -8,6 +8,7 @@
 import os
 import re
 from datetime import date
+from frontYAML import YAML
 from config import Config as C
 import frontmatter as fm
 
@@ -86,3 +87,33 @@ def create_tagfiles():
             tags_list = all_tags.split(",")
             for pick in tags_list:
                 check_tags_and_write(next_file, pick)
+
+
+def search_yaml(file, a):
+    """
+Find last str(a) lineno in file.
+Used to find last line with symbol: '---'
+"""
+    end = []
+    for i, nii in enumerate(file, 1):
+        if a.search(nii):
+            end = i
+    return end
+
+
+def endof_yaml(file: str):
+    """
+    Find end of frontmatter with symbol: ---
+    Used to call search_yaml with correct regex
+    """
+    import re
+    abc = re.compile("---")
+    return search_yaml(file, abc)
+
+
+def checkforend(file: str):
+    """ Return end lineno of frontmatter section"""
+    with open(file, "r", encoding='utf-8') as afile:
+        text = afile.readlines()
+        end = endof_yaml(text)
+    return end

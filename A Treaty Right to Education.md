@@ -1,12 +1,13 @@
----
 
+```
 title:
 created:
 tags:
 source:
 author:
+```
 
----
+
 A Treaty Right to Education
 Author(s): Sheila Carr-Stewart
 Source: Canadian Journal of Education / Revue canadienne de l'éducation , 2001, Vol. 26,
@@ -629,13 +630,13 @@ All use subject to https://about.jstor.org/terms
 services and educational resources - staff, schools, and material resources
 
 - equitable with those provided by provincial educational systems. First
-Nations students were denied the educational programming and
-opportunities which facilitated similar achievement levels as their nonAboriginal peers. The separate educational system and lack of educational
-attainment was identified in a study of the 1921 Canada Census: "The
-Indians are only very slightly connected with the education efforts of the
-different provinces, the responsibility for their education lying with the
-Dominion and private denominational institutions (Dominion Bureau of
-Statistics, 1926, p. 38). Furthermore, the study stated the inclusion of literacy
+  Nations students were denied the educational programming and
+  opportunities which facilitated similar achievement levels as their nonAboriginal peers. The separate educational system and lack of educational
+  attainment was identified in a study of the 1921 Canada Census: "The
+  Indians are only very slightly connected with the education efforts of the
+  different provinces, the responsibility for their education lying with the
+  Dominion and private denominational institutions (Dominion Bureau of
+  Statistics, 1926, p. 38). Furthermore, the study stated the inclusion of literacy
 
 statistics for the First Nations population in Canadian statistics as a whole
 
@@ -1497,5 +1498,3 @@ Treaty 7. Montreal, QC, & Kingston, ON: McGill-Queen's University P
 This content downloaded from
 192.30.202.8 on Fri, 16 Jul 2021 01:58:36 UTC
 All use subject to https://about.jstor.org/terms
-
-
