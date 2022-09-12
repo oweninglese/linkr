@@ -8,7 +8,6 @@
 import os
 import re
 from datetime import date
-from loadyaml import endof_yaml, search_yaml
 from config import Config as C
 import frontmatter as fm
 
