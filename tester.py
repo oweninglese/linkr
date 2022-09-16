@@ -44,6 +44,7 @@ with open(TAGSPATH, 'r') as tagsfile:
 def resub(tag: str, line: str) -> str:
     """
     Replace the tag with the line from the file.
+
     @param tag - the tag to replace with the line from the file.
     @param line - the line from the file.
     @returns the line with the tag replaced with the line from the file.
@@ -62,6 +63,7 @@ ALLTAGS = []
 def fm_allfolder() -> None:
     """
     Load all md files in TESTDIR and append the author,
+
     source, tags, created, and title.
     @returns None
     """
