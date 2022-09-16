@@ -78,10 +78,8 @@ def fm_allfolder() -> None:
 
 
 # 1) create tag files from TAGS.csv
-# T.create_tagfiles(cleartags)
 
 # 2) tags frontmatter is not set until after next line
-# fm_allfolder()
 
 # 3) gather all files in ARTS directory
 testfiles = [file for file in os.listdir(ARTS) if file.endswith(".md")]
@@ -94,6 +92,8 @@ def do_for_all_file_and_tags() -> None:
     Check for tags and write to tag files.
     @returns None
     """
+    T.create_tagfiles(cleartags)
+    fm_allfolder()
     for file in testfiles:
         check_tags_and_write(file, cleartags)
     for testfile in testfiles:
