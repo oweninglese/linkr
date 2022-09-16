@@ -1,0 +1,1320 @@
+---
+author: ohmanfoo
+created: '2022-09-15'
+source: '#todo'
+tags: '#Canada #government #April #climate #January #Great #1970 #property #HBC #New
+  #Quebec #South #America #May #France #alliance #college #science #American #King
+  #Arctic #Treaty #August #Bay #death #Crown #California #March #Indian #Toronto #mental
+  #North #Ireland #history #treatment #British #Europe #Africa #Washington #Irish
+  #2000 #February #Britain #slaves #Canadian #French #Spanish #Turkey #flu #trade
+  #Queen #Scotland #Dublin #science #research #Pacific #1668 #1670 #1690 #1711 #1713
+  #1718 #1724 #1730 #1740 #1741 #1743 #1744 #1745 #1746 #1747 #1748 #1749 #1750 #1751
+  #1752 #1760 #1763 #1767 #1769 #1770 #1772 #1774 #1780 #1783 #1784 #1787 #1789 #1790
+  #1796 #1799 #1803 #1807 #1921 #1931 #1932 #1942 #1952 #1958 #1959 #1962 #1963 #1969
+  #Governor #Attorney #company #companies #War #Northern #President '
+title: The Hudson's BayCompanyand Its Critics in the Eighteenth Century
+---
+
+The Hudson's [[Bay]] Company and Its Critics in the Eighteenth Century
+Author(s): Glyndwr Williams
+Source: Transactions of the Royal Historical Society , [[1970]], Vol. 20 ([[1970]]), pp. 149-171
+Published by: Cambridge University Press on behalf of the Royal Historical Society
+Stable URL: https://www.jstor.org/stable/3678766
+JSTOR is a not-for-profit service that helps scholars, [[research]]ers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Royal Historical Society and Cambridge University Press are collaborating with JSTOR to
+digitize, preserve and extend access to Transactions of the Royal Historical Society
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+THE HUDSON'S BAY COMPANY AND
+ITS CRITICS IN THE
+EIGHTEENTH CENTURY
+By Glyndwr Williams, Ph.D.
+
+READ 14 NOVEMBER [[1969]]
+
+AS the Hudson's [[Bay]] Company prepare
+
+tercentenary it is not mere academic pe
+prompts a paper on a period in the Com
+when it was threatened with extinction. Lon
+
+fascination, and crucial in the story of the Com
+
+one of the great business enterprises of the m
+survival amid the bitter criticism directed at
+in the eighteenth century. Small and appare
+showed unexpected stubbornness in resisting
+whelmed several of its fellows. The controver
+
+the Hudson's [[Bay]] Company also help to illum
+
+tile pressure groups working against mon
+
+eighteenth century, and reveal something of
+which accompanied the steady expansion of
+overseas.
+
+The Hudson's [[Bay]] Company was born in a [[flu]]r
+granting in Charles II's reign. The East India Com
+Muscovy Company gained new charters, two su
+[[companies]] were incorporated, and in [[May]] [[1670]] th
+Company of Adventurers of England [[trade]]ing in
+received a royal charter after the pioneer tradin
+Nonsuch to Hudson [[Bay]] in [[1668]]-9. The first Gov
+
+Rupert (the second, James, duke of York), an
+original 'Adventurers' included such notable
+
+Arlington, the duke of Albemarle and Anthony
+The charter granted the new Company exclusive
+and [[government]] over
+
+all those Seas Streightes [[Bay]]es Rivers Lake
+
+Soundes in whatsoever Latitude they shall bee t
+
+the entrance of the Streightes commonly c
+149
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+IO TRANSACTIONS OF THE ROYAL HISTORICAL SOCIETY
+
+Streightes together with all the Landes and Territoryes
+
+the Countryes Coastes and Soundes afordsaid...l
+
+-an immense area which later knowledge was to reveal ex
+as far as the Rocky Mountains.
+A parchment grant was one thing, its exploitation quit
+other. Almost from the beginning the Company had to co
+with the competition of rival fur-[[trade]]rs from [[New]] Franc
+disrupting effects of raids and occupations during the fr
+Anglo-[[French]] hostilities of the late seventeenth centruy, i
+loping expeditions from both Old and [[New]] England, and fin
+difficulties at home.2 As the hopes of easy profits recede
+courtiers and ministers of the early days were replaced by
+
+men, and it may have been the Company's resultant la
+
+political weight which explains the partial failure of its attemp
+
+[[1690]] to obtain Parliamentary confirmation of the charter.
+mentary approval was given for seven years only, and from
+onwards the Company's legal existence was perilously depen
+on the shaky foundations of royal prerogative.
+
+The extent to which the Company was embroiled in
+
+diplomacy and politics at this time obscures the fact that its t
+
+remained a small-scale affair: a couple of ships a year to th
+three or four posts garrisoned by less than a hundred men
+and returns which allowed dividend payments only at err
+intervals. The most useful printed source for the early hist
+the Company, John Oldmixon's [[British]] Empire in Americ
+the Company firmly in its place. The [[history]] of Hudson
+Oldmixon conceded, should have come first in his book si
+was the most northerly of [[British]] territories in [[America]], but
+
+being no Towns nor Plantations in this Country, but two or
+
+poor Forts to defend the Factories, we thought we w
+
+Liberty to place it where we pleas'd, and were loath to let
+History open with the Description of so miserable a Wilder
+
+1E. E. Rich (ed.), Minutes of the Hudson's [[Bay]] Company z6yz([[Toronto]], Champlain Society, and London, Hudson's [[Bay]] Record S
+[[1942]]), P. 139. Acknowledgement is made to the Hudson's [[Bay]] Re
+
+Society for permission to quote from its volumes.
+
+2 On all this see E. E. Rich, The History of the Hudson's [[Bay]] Co
+zGyo-z8yo (London, Hudson's [[Bay]] Record Society, [[1958]]), Vol. I.
+
+3 John Oldmixon, The [[British]] Empire in [[America]] (London, I708), i
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+THE HUDSON BAY COMPANY AND ITS CRITICS I151
+
+At the time when Oldmixon was writing, during the [[War]] of the
+[[Spanish]] Succession, [[French]] incursions had in fact restricted th
+Company to a single post in the [[Bay]]; and although [[government]]
+
+support of the Company led to a restoration of posts and territories
+
+by the [[Treaty]] of Utrecht in [[1713]], this was not achieved without
+an exasperated comment from Bolingbroke about the obstinacy o
+'these smug ancient gentlemen' of the Hudson's [[Bay]] Company.'
+
+Bolingbroke's jibe was misplaced in one respect. The new
+[[Governor]] of the Company, who was to remain the dominan
+figure in its affairs for thirty years after the Utrecht settlement,
+
+was a young Bencher of the Middle Temple, Sir Bibye Lake
+
+Only twenty-seven years old when he succeeded his father as
+Deputy [[Governor]] in [[1711]], Lake became [[Governor]] the next year
+and held that position until his [[death]] in [[1743]]. Also Sub-Governo
+of the Royal [[Africa]]n Company, Lake was the first [[Governor]] o
+the Hudson's [[Bay]] Company to devote most of his attention to th
+
+problems of overseas [[trade]], and under him the Company's
+
+fortunes revived. In the [[Bay]] the coastal posts shared a modest
+expansion of [[trade]], while in London the Committee followed a
+policy of sound, conservative finance which allowed the paymen
+
+of regular dividends from [[1718]] onwards. But if Lake's long
+
+governorship ushered in a period of quiet prosperity it also saw
+the beginnings of resentment and opposition which after his [[death]]
+
+threatened to overturn the Company. One of the Company'
+
+main defences against potential rivals was secrecy, an obsessive
+
+guarding of the knowledge and expertise accumulated by it
+
+servants over the years of living, trading and navigating in th
+sub-[[Arctic]] conditions of the [[Bay]] region. Details of the timing an
+
+route of the dangerous voyage through Hudson Strait, th
+position of harbours in the [[Bay]], methods of [[trade]] with th
+
+[[Indian]]s, were carefully hidden from outsiders. Instructions from
+the London Committee to the [[Bay]] factors laid down that 'none
+of our servants do send any intelligence to, or carry on any cor
+
+respondence with any person whatsoever in London or else
+
+where relating to the affairs of the Company.'2 Ships' captains
+were ordered to deliver journals kept on board to the Company
+
+1 Quoted in Beckles Willson, The [[Great]] Company (London, 19o8), i. 256
+2 [[HBC]] A.6/5, fo. 56. I am grateful to the [[Governor]] and Committee of th
+Hudson's [[Bay]] Company for permission to quote from the Company record
+
+at Beaver House, London.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+152 TRANSACTIONS OF THE ROYAL HISTORICAL SOCIETY
+
+immediately on arrival, and to ensure that all letters brought h
+
+on the ships were sent to the Committee for scrutiny.' Membe
+
+the Committee itself were warned not to let copies of the c
+out of their possession.2 What little exploration was carri
+
+by Company servants rarely became public knowledg
+
+printed maps of the [[Bay]] remained as crudely inaccurate a
+had been a century before. At home the Company's shares
+came on to the open market, and the names of stockholder
+even of the Committee were not available., In a guide to th
+
+printed in this period Bibye Lake was listed, but only
+
+capacity as director of the Royal [[Africa]]n Company.4 Whe
+
+second edition of Oldmixon's [[British]] Empire in Americ
+published in [[1741]], the sole additional information on the
+pany since the first edition was the rather stale news that its
+
+tories had been restored by the [[Treaty]] of Utrecht. On de
+ments since [[1713]] the author could say nothing, since the a
+
+tions to the Company for information had gone unans
+
+despite his 'pressing instance'.5
+Up to a point the policy of close secrecy was effective.
+quarter of a century the Company slipped from public sigh
+escaped the criticism levelled at the other overseas trading
+
+panies. Cato's Letters, widely read in periodicals and co
+
+editions during the aftermath of the [[South]] Sea Bubble, cast
+those [[companies]] as unions of
+
+great Numbers of artful and wealthy Merchants into
+
+spiracies and Combinations against general Trade, and by
+means giving or selling the Industry and Acquirements
+whole Nation to satiate and glut a few overgrown Plund
+... They are the Bane of all fair Commerce, the Discoura
+
+ment of our Manufacturers, the Ruin of private and industr
+
+1 [[HBC]] A.6/6, fos. 83, I10.
+2 [[HBC]] A.I/33, fo. 77d.
+3 Hudson's [[Bay]] had been an active stock only during the 169O's, an
+last public quotation was in I7o0. The Company's records show tha
+
+transfers in the eighteenth century were arranged privately, and tha
+of the transfers were from one member of a family to another, or b
+existing shareholders. See e.g. [[HBC]] A.43/4 (Stock Transfer Book, 1
+4 A Compleat Guide to London (London, [[1740]]), p. 134.
+
+5 John Oldmixon, The [[British]] Empire in [[America]] (2nd edn., Lo
+[[1741]]), i. 566-7.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+THE HUDSON BAY COMPANY AND ITS CRITICS 153
+
+Traders, and must end in the Ruin of themselves, and all Tr
+
+whatever. 1
+
+Twenty years later Matthew Decker, in his Essay on the Causes oJ
+the Decline of the Foreign Trade, was pursuing the same theme:
+
+'Monopolies are absurd, inconsistent, and destructive.. . never
+yet was a Monopolized Trade extended to the degree of a Free
+one; therefore any Country abounding in Monopolies must
+decline in Trade.'2 But the Hudson's [[Bay]] Company was not mentioned in either work. At a time when the East India Company,
+Royal [[Africa]]n Company, Levant Company and [[South]] Sea Company faced criticism in and out of Parliament,3 the Hudson's [[Bay]]
+Company carried on its [[trade]] with a minimum of fuss and bother.
+The chink in the Company's protective armour proved to be
+that chimera of [[Arctic]] exploration, the [[North]]west Passage. Lake
+and his prosaic fellow directors were totally unable to convince
+
+Arthur Dobbs, Surveyor-General of [[Ireland]] and for long an
+[[Irish]] M.P. noted for his fiery dedication to the expansion of
+
+[[British]] [[trade]], that it had made a serious search for that mythical
+strait.4 Frustrated by the Company, Dobbs turned to his political
+and mercantile contacts in London, and by [[1740]] had persuaded
+the Walpole administration to send a naval expedition to Hudson
+[[Bay]] in quest of a passage. Under the command of Christopher
+
+Middleton, a captain formerly in the Company's employ, the
+expedition sailed in [[1741]], but not before the Company had fought
+a running skirmish with the Admiralty over the potential threat
+to its [[trade]]. Lake's reluctance to promise aid to Middleton's ships
+if they got into difficulties provoked an indignant response from
+the First Lord of the Admiralty, Sir Charles Wager. In letters to
+the duke of [[New]]castle and the Regency Council Wager described
+1 Cato's Letters (London, [[1724]]), iii. 172, 176.
+2 Matthew Decker, An Essay on the Causes of the Decline of the Foreign
+
+Trade (London, [[1744]]), p. 233 See, for example, the summary in Lucy S. Sutherland, The East India
+Company in Eighteenth-century Politics (Oxford, [[1952]]), pp. 28-30, of the
+attack on the East India Company in [[1730]] by M.P.'s supported by a group
+of London, Liverpool and Bristol merchants.
+4 On Dobbs, the Hudson's [[Bay]] Company and the [[North]]west Passage see
+Desmond Clarke, Arthur Dobbs Esquire z689-z y65 Surveyor-General of
+[[Ireland]] Prospector and [[Governor]] of [[North]] Carolina (London, [[1958]]), chs. 5-8;
+Glyndwr Williams, The [[British]] Search for the [[North]]west Passage in the
+Eighteenth Century (London, [[1962]]), chs. II-V.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+154 TRANSACTIONS OF THE ROYAL HISTORICAL SOCIETY
+
+the Company's stand as 'very unbecoming a Company who subsist by His Majesty's favour, having only an old charter which no
+doubt they have made several breaches in',' while to Lake went
+an irate letter informing him that his conditions for giving aid to
+
+Middleton 'are harder than is the practice of any civilized nation
+towards the subjects of another in amity with it, and is therefore
+the less excusable with regard to fellow subjects, and employed
+by the Government on a work of public benefit.'2
+The failure of the expedition to find a passage brought little
+comfort to the Company. By calling for an official inquiry into
+Middleton's handling of the expedition Dobbs kept the [[North]]west Passage in the forefront of public attention, but from now on
+it was part of a wider scheme to abolish the Company's mono-
+
+poly. In Middleton's words, it became 'a cloak to cover other
+
+designs'.3 Even before Middleton sailed, Dobbs had secured from
+the [[Attorney]]-General an informal opinion that the Company's
+charter was of doubtful legal validity, and in a letter to an [[Irish]]
+friend had admitted that he intended 'to see if we can't open the
+[[trade]]' of Hudson [[Bay]].4 To this end he plunged into a lengthy
+pamphlet war, in the course of which he produced a substantial
+and important book. His Account of Hudson's [[Bay]], published in
+[[1744]], was not only the first book devoted to the Company and
+its territories, it was a powerful piece of special pleading. Dobbs'
+earlier friendship with Middleton had given him access to confidential Company documents which he now used to good effect.
+The complexities of the Company's standard of [[trade]] with the
+[[Indian]]s were summarized by Dobbs in terms which ignored all
+overheads and gave the Company [[2000]]0% profit; the charter was
+printed, and the extent of its grant sharply contrasted with the
+Company's limited trading operations in the [[Bay]]; the thrusting
+movements of [[French]] [[trade]]rs south and west of the Company's
+sphere were described in menacing terms. Dobbs' insistence that
+the Company, content to make high profits on a small [[trade]], was
+1 S.P. Dom. (Naval) 42/81, p. 388.
+2 Adm. 2/473, P. 473.
+
+3 Christopher Middleton, A Rejoinder to Mr. Dobbs's Reply (London,
+[[1745]]), P. 119.
+4 Castle [[War]]d Papers, Bk. V, p. 131. I am grateful to Mr Desmond Clarke,
+Librarian of the Royal [[Dublin]] Society, who lent me copies of the letters of
+Arthur Dobbs at a time when they were preserved among the Castle [[War]]d
+Papers in the possession of Viscount Bangor.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+THE HUDSON BAY COMPANY AND ITS CRITICS 155
+
+allowing the [[French]] to hem it in along the coastal fring
+an effective argument as the struggle between [[Britain]] an
+for overseas dominance increased in intensity. One of
+damaging criticisms made at this time of the Levant C
+which escaped Parliamentary modification of its charter
+by a mere three votes in the Lords, was that
+
+monopolizers will always make great profits both up
+they buy and what they sell; that is the true cause of t
+of our [[Turkey]] [[trade]] ... If there had been no monopoly
+[[Turkey]] [[trade]] the [[French]] would never have thought of
+less succeeded in becoming our rivals.'
+
+In similar vein Dobbs argued that if the [[trade]] of Hudson
+laid open, exports there would increase tenfold, and sett
+
+would follow [[trade]] as far as the Mississippi and bey
+
+which Means, the Inland Trade of that vast [[North]]ern Co
+much greater than [[Europe]], would in time be wholly en
+[[Britain]], independent of any other [[Europe]]an power.'2
+The first move in the campaign against the Company
+oblique one. After Dobbs had sounded various ministers
+ing Henry Pelham, First Lord of the Treasury, a group o
+
+merchants presented a petition to Parliament early
+
+requesting a [[government]] reward for the discovery of a N
+
+Passage. This discovery, they claimed, would open
+
+Countries, in order to increase the Exports of our Manuf
+and improve the Commerce and Navigation of [[Great]] Br
+
+The Commons was not likely to resist such impecca
+
+cantilist sentiments, and by [[May]] [[1745]] an Act of Parlia
+on the statute book offering an award of ?20,000 to the
+of a navigable passage. A subscription list was already o
+?7,2o0 was raised to equip an expedition which sailed in
+
+Hudson [[Bay]]. To outward appearance the whole affair
+nocuous enough, but the Hudson's [[Bay]] Company sa
+
+sinister implications. The 'Articles of Agreement' which
+for the division of the reward also envisaged the forma
+new trading [[company]] to exploit the discovery, and pro
+
+1 See A. C. Wood, A History of the Levant Company (London
+p. 154-
+
+2 Arthur Dobbs, An Account ofthe Countries adjoining to Hudson's [[Bay]] ...
+
+(London, [[1744]]), p. 65.
+
+3 Journals of the House of Commons, xxiv. 720.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+156 TRANSACTIONS OF THE ROYAL HISTORICAL SOCIETY
+
+among the peers, bishops and [[Irish]]men with enough faith
+
+Dobbs to invest ?ioo apiece in the venture was a group of abou
+thirty London merchants., Many of these were already engage
+in oceanic [[trade]]; seven of them joined with Dobbs to form the
+[[North]] West Committee which organized the expedition; and as
+the nucleus of a trading corporation they posed a real threat t
+the Company.
+Within a few months of the return of the expedition in th
+autumn of [[1747]] the Company's suspicions were confirmed. No
+passage had been discovered, but in [[February]] [[1748]] the Nort
+West Committee, supported by merchants from London, Bristo
+
+Liverpool and Glasgow, petitioned the [[Crown]] for a tradin
+
+charter.2 As Samuel Smith, Dobbs' London agent and secretary
+of the [[North]] West Committee, explained in letters to the origin
+subscribers, they hoped for a perpetual grant of all territories
+Hudson [[Bay]] not actually occupied by the Company, and for an
+exclusive right to [[trade]] in them. The Company, he asserted, ha
+forfeited its charter both on legal grounds, and because of its
+failure to exploit the grant of I670. Published comment at the
+time tended to support Dobbs, and was invariably hostile toward
+the Hudson's [[Bay]] Company. Even the fiasco of the recent exped
+tion was turned against the Company. The earliest first-hand
+report of its misadventures to appear in the press hit out at th
+Company, whose profits, the writer claimed, 'are what no body
+but the persons concerned can conceive'.4 In his semi-offic
+
+account of the expedition published in [[1748]] Henry Ellis too
+
+every opportunity to blacken the Company, while the expedition's inability to discover Dobbs' promised passage was glossed
+over. The last section of Ellis's Voyage to Hudson's-[[Bay]] was cha
+acteristically entitled, '. . . the great Probability of a Passage .
+notwithstanding the same was not actually discovered in the La
+Expedition.' Other writers, economists and merchants could on
+
+1 The names of the subscribers are listed in Henry Ellis, A Voyage t
+Hudson's-[[Bay]] by the Dobbs Gallery and [[California]], In the Years z.746 a
+z.74.7, For Discovering a [[North]]west Passage (London, [[1748]]), pp. xxiii-xx
+2 See Acts of the Privy Council of England (Colonial Series) iii. 776Throughout this paper dates before [[1752]] are given in Old Style, except th
+the year is taken to begin on I [[January]], not 25 [[March]].
+3 The letter of 8 [[February]] [[1748]] is printed in Clarke, Arthur Dobbs
+pp. 212-13.
+
+4 The [[British]] MagaZine (London, [[1747]]), ii. 502.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+THE HUDSON BAY COMPANY AND ITS CRITICS 157
+
+take their facts where they found them, and it was Dobbs a
+
+supporters who monopolized the printed word. The eff
+
+anti-Company publicity is seen in the revised edition by J
+Campbell of Harris's stately Collection of Voyages and Tra
+Campbell was not inclined to censure the chartered compa
+wholesale, and indeed defended the East India Company be
+of the importance of its [[trade]]-'the great Wheel that mov
+the rest'. But the Hudson's [[Bay]] Company he condemned f
+
+secrecy, for its failure to find the [[North]]west Passage, for enco
+
+ing the belief that Hudson [[Bay]] was 'the most forlorn and d
+Part of the Universe', and most of all for its failure to expa
+
+fur [[trade]]. He concluded with words which echo Dobbs:
+
+employ but a few ships, and a small Number of Seamen; t
+Factories are few and thin, all which may answer their Pu
+very well; but 'tis plain they do not answer the national Pu
+of enlarging our Navigation, and increasing our Seamen.'"
+
+The Privy Council appointed the [[Attorney]]-General
+
+Solicitor-General to report on the petition, and both side
+sented evidence and affidavits.2 Dobbs and his associates del
+
+a 16-point statement in which they attacked the Company
+well-rehearsed lines, and pledged themselves to an expans
+policy if granted a charter. The Company, they conceded,
+be allowed to keep their existing posts, 'with a reasonable d
+round each'. The Company's answer before the Law Office
+most forthright in its retort to the [[North]] West Commit
+request for a charter:
+
+Complain of the Company's having a charter, yet apply f
+to take away the Company's lands and [[property]] ... comp
+of the Company's privileges, and require the same . . . c
+plain the Company refuse strangers to take away their t
+yet demand an exclusive [[trade]] themselves.
+
+The final point made by the Company in its defence was a
+general one:
+
+What exclamations would be made by the [[America]]n
+prietors, what clamours by the boroughs and cities,
+
+1 John Harris, Navigantium atque Itinerantium Bibliotheca: or, a c
+Collection of Voyages and Travels, revised and enlarged by John Ca
+
+(London, [[1744]]-8), i. 925; ii. 288, 440o.
+2 The pleas of Dobbs and the Company are set out in [[HBC]], E.I8
+
+112-19.
+
+TRANS. 5TH S.-VOL 20-L
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+158 TRANSACTIONS OF THE ROYAL HISTORICAL SOCIETY
+
+outcries by [[college]]s and ecclesiastical corporations if thei
+
+properties were invaded, taken away or laid open and common
+
+The appeal to vested [[property]] rights was a strong one in Hano
+verian England,' and may have in[[flu]]enced the Law Officers in
+their report of [[August]] [[1748]]. This suggested that the validity
+
+the charter could best be tested in a court of law, found that many
+
+of the petitioners' charges were without substance, and oppose
+a situation in which two [[companies]] would hold charters to trad
+in the same region.2
+
+This rebuff was the more unexpected to Dobbs since he
+
+imagined that he had gained the support of powerful ministers
+and in a private letter had written, 'Most people think the Com
+
+pany will be glad to drop their own Charter and come in a
+sharers in the new Charter upon our terms.'3 After consulting the
+
+duke of Argyle, Walpole's old adviser in [[Scotland]], Dobbs decide
+to lay the whole matter before Parliament, and though he himse
+withdrew from the fray his merchant colleagues pressed hom
+the attack. In [[March]] [[1749]] a Committee of the House of Commo
+was appointed to investigate conditions and [[trade]] in Hudson [[Bay]]
+and outside Parliament agitation against the Company develope
+in a manner which bore all the marks of a well-organized cam
+paign. Before the end of [[April]] twenty-five petitions reached th
+
+Commons from the manufacturing towns and ports (and a further
+three after the Committee had reported) praying that the [[trade]]
+Hudson [[Bay]] should be opened.4 The demand for a monopoly w
+dropped, so the campaign of [[1749]] was to be fought over differen
+ground from that of the previous year. Although the wording
+the petitions was not identical, their general similarity points t
+a common origin, and the lead in the campaign appears to hav
+been taken by the Liverpool merchants, traditionally more inclined than London towards an open [[trade]]. On 22 [[March]] thirty
+
+nine of them signed a request to one of the Liverpool M.P
+
+1 It was one made by the East India Company later in the century, at th
+
+time of Fox's India Bill of [[1783]] for example. See Sutherland, East India
+Company, pp. 401, 412.
+2 Report of D. Ryder and W. Murray to the Privy Council, io Augu
+
+[[1748]]. Printed in Papers presented to the Committee Appointed to Inquire int
+
+the State and Conditions of the Countries Adjoining to Hudson's [[Bay]], and
+the Trade carried on there (London [[1749]]), p. 78.
+3 Castle [[War]]d Papers, Bk. VI, p. 142.
+4 See Journals of the House of Commons, xxv, 810-5 2 passim.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+THE HUDSON BAY COMPANY AND ITS CRITICS 159
+
+pressing for his firm support of the campaign,' and a few day
+later another letter was sent to the Society of Merchant Venturers
+
+of Bristol asking for its co-operation.2 The arrival of two doz
+petitions at the Commons within a three-week period in [[April]]
+
+indicates that the letter to Bristol was one of many, and th
+
+probability that the campaign was organized from Liverpool is
+strengthened by the prominent role played by the Liverpo
+merchant John Hardman, 'The great Hardman', to quote from
+his obituary, 'noted for his contriving, and being industrious, a
+procuring and presenting memorials and petitions.'3 Certainly h
+was active in circulating the petitions on the [[Africa]]n [[trade]] at
+
+this time, and in the agitation of [[1748]]-50o against the Roy
+
+[[Africa]]n Company the lead was taken by the well-tried [[alliance]] o
+Liverpool and Bristol. The day after the Hudson [[Bay]] committe
+
+was appointed by Parliament petitions from Liverpool an
+
+Bristol on the [[Africa]]n [[trade]] were presented to the Commons, ea
+bearing a clause critical of joint-stock [[companies]], 'whose interes
+hath been, and ever will be, found incompatible with that of
+free and open [[trade]].'4 Mostly the same towns participated in th
+two campaigns: fifteen of the eighteen petitions which reache
+
+the Commons in [[1750]] on the [[Africa]]n [[trade]] were from plac
+
+which had petitioned the year before in favour of an open trad
+
+to Hudson [[Bay]]. Not all had connections with [[trade]], actual
+
+potential, to the [[Bay]]. Ripon, for example, presented petitions o
+
+both the [[Africa]]n and the Hudson [[Bay]] [[trade]] to the Common
+though its chief manufacture, spurs, was not the most obviou
+export to either region. At the individual level there were also
+links between the [[Africa]]n and Hudson [[Bay]] campaigns. William
+
+Bowden and Henry Douglas from London, Richard Gildart, John
+Hardman, Nathaniel Basnet and Thomas Truman from Liverpool
+William Wansey and Samuel Smith from Bristol, were involved
+in both; and all but two of them had been subscribers to the 174
+expedition to Hudson [[Bay]]. At least thirty-one of the thirty-nin
+Liverpool merchants who signed the letter of [[March]] [[1749]] to the
+
+1 See Brit. Mus., Lansdowne MS. 846, fo. 277.
+2See W. E. Minchinton (ed.), Politics and the Port of Bristol in the
+
+Eighteenth Century (Bristol Record Society, [[1963]]), p. 69.
+3 Quoted in Elizabeth Donnan (ed.), Documents illustrative of the Histor
+
+of the Slave Trade to [[America]] ([[Washington]], [[1931]]) ii. 499.
+4 Journals of the House of Commons, xxv, 777.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+160 TRANSACTIONS OF THE ROYAL HISTORICAL SOCIETY
+
+M.P. on the Hudson [[Bay]] [[trade]] were active in the slave [[trade]].'
+There can be no doubt that these years saw a series of co-ordinated
+
+attacks on the chartered [[companies]] led by the Liverpool and
+Bristol merchants, with substantial support from London and the
+other trading towns.
+As the petitions arrived, the Parliamentary Committee was
+busy questioning witnesses, twenty-two in all. Of these fifteen
+were former servants of the Company, six were merchants, and
+
+the other was Dobbs. All except one of the merchants were
+associated in the move to open the [[Bay]] [[trade]], and their evidence
+was predictably optimistic about the prospects of expansion and
+profits. From their remarks before the Committee some were
+thinking in terms of the more familiar [[Africa]]n [[trade]], with individual ventures and no permanent posts; but for the most part
+their arguments came straight from Dobbs. Of the ex-servants of
+
+the Company summoned before the Committee many were
+partisan. The first called, Joseph Robson, had been dismissed by
+the Company two years earlier; others had deserted the Company's service to sail with the [[North]]west Passage expeditions of
+
+[[1741]] and [[1746]]; yet others had left the Company many years
+earlier and had little useful to tell the Committee. The questions
+asked varied from witness to witness, but the main pattern of the
+Committee's interrogation is clear.2 The M.P.s were interested in
+physical details of the [[Bay]], with particular emphasis on the presence of minerals and the suitability of the area for settlement; in
+
+the Company's trading methods, and its apparent reluctance to
+expand inland; in the possibility of a [[North]]west Passage; and in
+the Company's [[treatment]] of the [[Indian]]s and of its own servants.
+
+The issues were all ones which had been raised by Dobbs, and
+the general tenor of the questioning combined with the mixture
+
+of ignorance and prejudice shown by several of the witnesses
+produced a distinctly unfavourable impression of the Company.
+This was heightened by the failure of the Company to produce
+any witnesses before the investigating Committee. Papers re1 See list of Company of Merchants trading to [[Africa]], and list of shipowners engaged in the [[Africa]]n [[trade]], in Donnan, Documents illustrative of
+the Slave Trade, ii. 492-3, 496-8.
+2 See Report from the Committee Appointed to Inquire into the State and
+Conditions of the Countries Adjoining to Hudson's [[Bay]], and of the Trade carried
+
+on there (London, [[1749]]).
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+THE HUDSON BAY COMPANY AND ITS CRITICS I6I
+cently discovered which belonged to the Company's secretary at
+this time, Charles Hay, show that this was a deliberate decision.'
+The Company reserved the right to be heard before the House at
+a later stage, but for the time being bypassed the Committee, and
+instead sent to each M.P. a pamphlet written by the Company's
+
+solicitor, The Case of the Hudson's [[Bay]] Company. This first
+reasoned reply by the Company to its critics was a terse, effective
+
+statement which made the most of the Company's none too
+impressive record of exploration, its reliance on permanent posts
+along the shores of the [[Bay]] in preference to the [[French]] method of
+
+sending [[trade]]rs among the [[Indian]]s, and its refusal to contemplate
+colonization in so harsh a [[climate]]. The argument over the Company's affairs was being conducted at two different levels. Dobbs
+and his associates were proposing vast, expansive schemes, filling
+in the blank spaces on their small-scale maps of [[North]] [[America]]
+with an easy confidence, and predicting a tenfold increase in the
+fur [[trade]] 'in a very short Time'.2 The Company was thinking in
+practical terms, of the possible rather than the ideal, and with
+emphasis on the difficulties rather than the opportunities of the
+[[Bay]] [[trade]]. By limiting its defence at this stage to a written statement, the Company avoided any possible breach of commercial
+security by its own servants before inquisitive M.P.s, but it could
+
+not resist the Committee's demand to inspect certain of its
+records. These concerned the Company's standard of [[trade]] with
+the [[Indian]]s, its settlements, the value of its exports and imports,
+the names of stockholders, and the instructions sent to the [[Bay]]
+factors; and were printed as an appendix to the report of the
+Committee. For the first time in its [[history]] the structure of the
+Company and its [[trade]] were laid bare. The figures showed that
+the gigantic profits attributed to the Company by Dobbs were a
+myth. Over the previous ten years profits had averaged around
+30% on an annual outlay of about ?27,000, and only once in the
+previous thirty years had a dividend of more than Io% been paid.
+If the Company presented an attractive target to outside merchants it was because of the potential rather than actual [[trade]] of
+Hudson [[Bay]] and its hinterland.
+The report of the Committee was received by the Commons
+1 See Hudson's [[Bay]] Company Papers, University of [[Toronto]] Library, p. I.
+2 [Arthur Dobbs], A Short State of the Countries and Trade of [[North]]
+[[America]]. Claimed by the Hudson's [[Bay]] Company (London, [[1749]]), p. 6.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+I62 TRANSACTIONS OF THE ROYAL HISTORICAL SOCIETY
+
+on 24 [[April]] [[1749]]. Hay's notes show that the Compan
+
+advocate in the House was Sir John Barnard, M.P. for th
+London, and a respected authority on financial affairs w
+years earlier had been thought a possible replacement fo
+Pelham as Chancellor of the Exchequer.' Once a leading o
+
+of the East India Company,2 Barnard now insisted t
+
+Enquiry instead of doing any good was in his opinion a p
+
+ing that did a great deal of harm', and that the petitions fro
+
+trading towns 'had been rather solicited by the promoter
+Enquiry than arising from the corporations whose names
+
+them.' His speech is a reminder that the Company's
+
+dividends, its investment of surplus capital in a well-ba
+selection of shares, and its care not to glut the fur-ma
+given it a reputation of solid respectability in the City.3
+there any rebel group of shareholders to weaken the Co
+
+from within. Five times during the decade extraordinary me
+
+of the General Court had been summoned to consider the
+tions of Dobbs' activities, and each time shareholders ha
+content to leave matters in the hands of the [[Governor]] a
+
+mittee.4 As a Committee member replied to Dobbs' alleg
+
+about the 'perpetual Directors, or rather Dictators' an
+
+misdeeds, 'The Proprietors are fully satisfied with the D
+conduct, and Mr Dobbs cannot produce any single Adve
+that makes any complaint.'5
+At the beginning of [[May]] the Commons sat as a Comm
+the Whole House to consider the report, and it called fu
+witnesses. These included the most experienced of the Co
+factors and ship-captains in England at the time, and rep
+tives of the Liverpool and Bristol merchants. No printed
+exist of the proceedings, but a set of manuscript jotting
+Company's archives show that the attention of the Hou
+moved away from the points of detail which had occupie
+
+1 Hudson's [[Bay]] Company Papers, University of [[Toronto]] Libr
+Manuscripts of the Earl of Egmont, Diary of the First Earl of
+(Viscount Percival), Vol. III, i739-i747 (London, Historical Man
+Commission, I923), p. 314.
+2 Ibid., i. 65-71.
+3 See Rich, History of Hudson's [[Bay]] Company, i. 649-534 See [[HBC]] A.z/I, fo. 35d, A.2/2, fos. 5, 8, io.
+5 Annotation by John or Robert Merry in Dobbs, Short State,
+1 [[HBC]] E.i8/i, fos. 190-204.
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+THE HUDSON BAY COMPANY AND ITS CRITICS 163
+of the time of the investigating Committee in [[April]], and now
+centred on the funda[[mental]] issues of national policy raised by the
+controversy. Was the Company proving an effective rival to the
+[[French]] in [[North]] [[America]], and should it make more attempt to
+open up the interior? Here the Company was vulnerable, but its
+
+opponents had weakened their case by loud exaggeration. In
+reply to repeated questions the Company's servants doggedly
+insisted that cost, difficulties of terrain, and transportation prob-
+
+lems, ruled out any large-scale movement inland. The future was
+to show that expansion into the interior was not quite the fearsome prospect imagined by the old hands at the [[Bay]]side posts,
+but in [[1749]] it was they and not the Company's critics who spoke
+with the voice of experience, and their evidence was probably
+
+decisive. A motion that an address should be presented to the
+[[King]] 'to take a proper method to try the right claimed by the
+[[Governor]] and Company of Adventurers of England trading into
+
+Hudson [[Bay]] to exercise an exclusive [[trade]]' was defeated by a
+majority of more than two to one.' A newspaper report no doubt
+reflected the feelings of most M.P.s when it commented that 'as
+it appeared to be impossible to preserve this [[trade]] without forts
+and settlements on the coast of Hudson's [[Bay]], and as such forts
+and settlements must be supported either by exclusive [[companies]],
+
+or at the publick expence, the affair was dropt...'
+The verdict was not immediately accepted, rumours of interloping expeditions continued to alert the London Committee, and
+[[1752]] saw further attempts to harass the Company. The outlines
+of this new campaign are hazy, and certainly it did not carry the
+weight of the [[1749]] attack. Dobbs once more seems to have been
+the guiding hand, and his papers contain several schemes of 175 I
+and [[1752]] which if adopted would have damaged or destroyed the
+Company.3 The [[Irish]] [[government]] might buy out the Hudson's
+[[Bay]] Company, ran one proposal, and settle the hinterland with
+industrious [[Irish]]men. Or, the [[Bay]] area might be turned into a
+huge penal settlement, administered by a simple rule-of-thumb:
+the worse the criminal the farther north he should be sent, with
+the 'most enormous and confirmed offenders' handed over to the
+1 Ibid., fo. 203d.
+
+2The London Magarine (London, [[1749]]), xviii. 41 I.
+3 Castle Dobbs Papers (Public Record Office of [[North]]ern [[Ireland]], Belfast),
+
+D.O.D. i62/53, 54, 6o, 61.
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+164 TRANSACTIONS OF THE ROYAL HISTORICAL SOCIETY
+Eskimos as [[slaves]].? Apart from these fantasies there seems to have
+been some kind of attempt to link two separate interests in the
+new campaign: the hatters, forever grumbling about the price of
+beaver-skins, and a group of Dobbs' merchant associates anxious
+
+to gain a foothold in Labrador. The inevitable Hardman was
+Dobbs' contact with the hatters, but though a Parliamentary
+Committee heard evidence from them strongly critical of the
+Company, their petition of [[January]] [[1752]] to the Commons met
+
+with no positive response.2 The petition of the London merchants to the [[Crown]] for an exclusive grant of land and [[trade]] in
+Labrador also foundered. Dobbs' papers contain ample evidence
+to confirm the Company's fear that behind this move was an
+attempt to encroach on its established [[trade]] farther west, and the
+Board of Trade gave the petition short shrift. It clearly thought
+that the fewer monopolistic [[companies]] there were the better, and
+commented, 'As to an exclusive grant the experience of the many
+inconveniencies attending such grants more particularly in the
+case of the Hudson's [[Bay]] Company makes it a matter at least of
+great doubt and difficulty.'3
+
+The reasons for the reprieves of [[1749]] and [[1752]] may not have
+been flattering to the Hudson's [[Bay]] Company, but it fared better
+
+than other trading [[companies]] under attack at this time. The
+Royal [[Africa]]n Company was dissolved in 175o, and three years
+
+later the charter of the Levant Company was modified. As a
+narrow joint-stock corporation the Hudson's [[Bay]] Company was
+
+to outward appearance more vulnerable than these two [[companies]] with their looser organization and more open membership,
+but it had an inherent strength which the others lacked. Under
+the Levant Company [[British]] [[trade]] to [[Turkey]] had dwindled since
+
+about [[1730]]. The Royal [[Africa]]n Company had long been a
+
+financial burden on the [[government]], and in the late [[1740]]'s was in
+
+a state of collapse. The Hudson's [[Bay]] Company, on the other
+hand, drove a steady if limited [[trade]]. It asked the [[government]] for
+no subsidies, no special favours. Ministers may have been concerned as evidence mounted pointing to the Company's lack of
+1 D.O.D. 162/60, p. 5.
+
+2 See Reports from Committees of the House of Commons ([[1803]]), ii. 373-7.
+
+3 Journal of the Commissioners for Trade and Plantations, zy50-zy53
+(London, [[1932]]), p. 300. See also C.O. 5/6, fos. 71-91; S.P. Dom. 44/323,
+fos. 41-9.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+THE HUDSON BAY COMPANY AND ITS CRITICS I65
+energy in exploiting its vast grant, but they had no guarantee that
+
+either of the alternatives proposed by the Company's critics-the
+establishment of a rival [[company]], or the opening of the [[trade]] to
+
+individual merchants-would have produced a firmer bulwark
+against the [[French]].
+As the reverberations of the attacks of Dobbs and his associates
+died away, the Company faced a future in which it could no longer
+
+rely on obscurity for protection. The new facts of life were soon
+brought home to it. In the second edition of his Brief Essay on
+
+... Trade, Josiah Tucker angrily criticized the Company's
+'escape' at the hands of the Parliamentary Committee, and
+
+accused it together with the East India Company and the Levant
+Company of monopolizing the [[trade]] of three-quarters of the
+globe 'to enrich a few rapacious Directors'.' In works privately
+
+printed and circulated Tucker was even more scathing, and
+urged the [[government]] to buy out the Company.2 Malachy Postlethwayt's Universal Dictionary of Trade and Commerce, the first
+
+section of which was published in I75 i, condemned the Company
+
+in language reminiscent of Dobbs' most abrasive attacks, and
+
+ignored the counter-arguments produced by the Company before
+the Commons.3 In [[1752]] appeared the first book which reflected
+first-hand knowledge of the Company's employ, Joseph Robson's Account of Six Years Residence in Hudson's-[[Bay]]. With its
+stories of oppressive behaviour by the Company factors in the
+[[Bay]], details of inefficiency in the construction of the massive stone
+
+fortress at the Company's most northerly post at Churchill, and
+criticisms of commercial practices, the book had an authentic
+ring, 'honest and just' as one reviewer termed it.4 In one cutting
+remark it summarized the entire case of the critics: 'The Company
+have for eighty years slept at the edge of a frozen sea'.5 Recent
+1 Josiah Tucker, A BriefEssay on the Advantages and Disadvantages which
+respectively attend [[France]] and [[Great]] [[Britain]] with regard to Trade (London,
+[[1750]]), p. 41.
+2 See R. L. Schuyler (ed.), Josiah Tucker: A Selection from his Economic
+and Political Writings ([[New]] York, [[1931]]), pp. 166-79.
+3 Malachy Postlethwayt, Universal Dictionary of Trade and Commerce
+
+Translated from the [[French]] ... of... Monsieur Savary ... with large additions (London, [[1751]]-5), i. 957-61.
+4 The Monthly Review (London, I752), vii. 75.
+5 Joseph Robson, An Account of Six Years Residence in Hudson's-[[Bay]],
+from z y33 to zy_36, and Z744 to [[1747]] (London, [[1752]]), p. 6.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+I66 TRANSACTIONS OF THE ROYAL HISTORICAL SOCIETY
+investigation has shown that Dobbs wrote much of the book, and
+that the whole work was set on foot by him to 'further expose the
+
+management of the Company'.' Thus, when Postlethwayt cited
+Robson in support of Dobbs' earlier arguments he was unwittingly using Dobbs to confirm Dobbs!
+
+The Company's reaction to these repeated criticisms is not
+easy to assess. Certainly it now began to make more determined
+efforts to move inland. The [[1750]]'s saw the first serious reconnaissance probes into the interior for several decades, and they
+were to prove important steps in an expansion of [[trade]] which by
+the end of the century had taken the Company to within sight of
+the Rockies. But this forward policy was forced on it by the
+reality of the situation in [[North]] [[America]], where the westward
+thrust of the [[Canadian]] fur-[[trade]]rs, both before and after the con-
+
+quest of [[New]] [[France]], threatened to stifle the Company's [[trade]] at
+
+its point of origin. Even so, expansion was a gradual process.
+Despite urgings from some of its officers in the [[Bay]] the Company
+
+did not establish permanent posts deep inland until the [[1770]]'s.
+Its new sensitivity can be seen more easily in specific projects of
+
+exploration it set on foot in order to meet the allegations of
+inertia from its critics. The interest in Labrador shown by the
+Parliamentary Committee in [[1749]], and by the London merchants
+in i752, hastened the Company's efforts to explore and exploit
+that forbidding land.2 The continued rumours in England of the
+existence of a [[North]]west Passage helped to prompt surveys of the
+west coast of Hudson [[Bay]] by Company men in the [[1760]]'s.3 The
+criticisms of the Company made by Alexander Cluny in his book
+The [[America]]n Traveller, published in [[1769]], had much to do with
+the timing, if not the concept, of Samuel Hearne's remarkable
+journey from Hudson [[Bay]] to the [[Arctic]] Ocean in I77I-2.4
+This activity was not at first accompanied by any awareness
+1 See Glyndwr Williams, 'Arthur Dobbs and Joseph Robson: [[New]] Light
+on the Relationship between Two Early Critics of the Hudson's [[Bay]] Company', [[Canadian]] Historical Review, xl ([[1959]]), 132-6.
+
+2 See K. G. Davies and A. M. Johnson (eds.), [[North]]ern [[Quebec]] and
+
+Labrador Journals and Correspondence z 8 19-35 (London, The Hudson's [[Bay]]
+Record Society, [[1963]]), pp. xxii-iii.
+3 See Williams, [[North]]west Passage, ch. VI.
+
+4 See Richard Glover (ed.), A Journey from Prince of Wales's Fort in
+Hudson's [[Bay]] to the [[North]]ern Ocean z y69, z7 yo, z yy7, t 772 by Samuel
+Hearne ([[Toronto]], i958), p. lxx. Cluny's schemes were even more pro-
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+THE HUDSON BAY COMPANY AND ITS CRITICS 167
+that publicity had its advantages as well as its perils. The Company made no attempt to answer its detractors, and its official
+attitude remained that summed up in a Committee member's
+
+laconic reply to Dobbs' accusation that the Company never
+printed any of its journals or charts: 'It would have been imprudent for the Company to have published them.'1 The documents
+wrung from it during the Parliamentary investigation of [[1749]],
+and its short printed Case of the Hudon's [[Bay]] Company of the
+same year, remained its only public contribution to knowledge in
+England of the [[Bay]] region and its [[trade]]. The painstaking efforts
+of its servants to answer in their journals and letters the challenge
+
+of Dobbs and the other critics reached the Company's offices in
+Fenchurch Street, and went no farther. Until the last decade of the
+
+eighteenth century publications on Hudson [[Bay]] were the undisputed preserve of the Company's armchair critics and disgruntled
+ex-servants.
+
+The Company's reluctance to reveal details of its
+
+doubtless stemmed from its continuing concern that ri
+
+benefit, but as time passed it abandoned the attemp
+
+secrecy. While remaining indifferent to the clamour of
+teers and hack-writers, it began to admit its responsibi
+world of [[[[science]]]]. The changing attitude in the second h
+century was personified by Samuel Wegg, whose Gove
+marked the only serious break during the eighteenth c
+
+the long dominance of the London Committee by
+
+family.2 A stockholder since [[1748]], Wegg was elected to
+mittee in [[1760]], became Deputy-[[Governor]] in [[1774]], and
+
+digious than those of Dobbs. He advocated large-scale settlem
+Hudson [[Bay]], with no fewer than twelve separate colonies, and t
+
+ment of a whale-fishery to employ eight hundred vessels and sixte
+
+men! Despite the evidence produced in [[1749]] he could write of t
+that 'they have long reaped, and do still reap a Profit, which a
+
+Times as large could not produce in any other Channel of C
+
+[A. Cluny], The [[America]]n Traveller: or, Observations on the pr
+culture and commerce of the [[British]] Colonies in [[America]] ... B
+experienced Trader (London, [[1769]]), p. 19.
+1 Dobbs, Short State, annotation on p. 5.
+
+2 Even so, Sir James Winter Lake was Deputy-[[Governor]] th
+Wegg's [[Governor]]ship. Between 171o and [[1807]] there were only
+([[1743]]-6 and 176o-5) when a member of the Lake family was
+[[Governor]] or Deputy [[Governor]].
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+I68 TRANSACTIONS OF THE ROYAL HISTORICAL SOCIETY
+
+from [[1780]] until his retirement in [[1799]]. At the same time Weg
+was a Fellow of the Royal Society, a member of its Council fro
+
+[[1767]], and Vice-[[President]] and Treasurer from [[1772]]. He was
+easy terms with many of the geographers, naturalists and explorers of his day, and gave the Admiralty and various privat
+
+individuals access to Company journals and maps. Under h
+
+more relaxed rule the public image of the Company perceptib
+changed, and this at a time when the end of [[French]] rule in [[Canada]]
+
+had removed some of the sting from earlier criticisms. Althoug
+many books continued to repeat, almost mechanically, the criti
+cisms of the Dobbs era, it was of more significance that Adam
+
+Smith wrote in favour of the Company. Even though mon
+
+polies in general he considered on a level with 'other mean and
+malignant expedients of the mercantile system', he appreciate
+the problems of a small organization trading into a region whe
+natural difficulties excluded individual [[trade]]rs. Under these cir-
+
+cumstances, he wrote, the Hudson's [[Bay]] Company approach
+'very nearly to the nature of a private copartnery, and may b
+
+capable of nearly the same degree of vigilance and attention.'1
+The first signs of the new attitude came in the permission
+granted by the Company in [[1767]] to the Royal Society to send
+scientists to the trading post at Churchill in order to observe t
+transit of the planet Venus in [[1769]]. The Society's records show
+that Wegg acted as an intermediary,2 and this first contact wa
+
+followed by others. In the i770's a steady flow of natural histo
+
+specimens and notes, meteorological observations and othe
+
+scientific data went from the [[Bay]] posts to the Royal Society. I
+return the Society presented scientific instruments to the Com
+pany, and on more than one occasion expressed its gratitude 'fo
+their considerable and repeated benefactions... their readiness
+
+upon this end and all other occasions to promote [[[[science]]]]
+general, and particularly the knowledge of natural [[history]]
+Articles on the Hudson [[Bay]] specimens were printed in th
+Society's Philosophical Transactions, and when in [[1784]] th
+naturalist Thomas Pennant published his [[Arctic]] Zoology
+
+1xAdam Smith, An Inquiry into the Nature and Causes of the Wealth o
+Nations, reprinted from the 6th edn. with an introduction by W. R. Scot
+
+(London, [[1921]]), ii. 265.
+2 See Council Minutes of the Royal Society, Bk. V ([[1763]]-68), pp. I87 f
+3 Ibid., Bk. VI ([[1769]]-82), pp. 121, 206.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+THE HUDSON BAY COMPANY AND ITS CRITICS 169
+acknowledged its heavy dependence on the specimens and information provided by Hudson's [[Bay]] Company men.
+In the field of exploration, potentially a much touchier subject,
+Wegg and the Committee again showed themselves more accommodating than the Company in an earlier period. At the time of
+Cook's third voyage to search for the [[Pacific]] entrance of the
+[[North]]west Passage, Wegg sent the Earl of Sandwich, First Lord
+of the Admiralty, the vital evidence of Hearne's journey and the
+
+Company's seaborne explorations of the I76o's.x The official
+
+account of Cook's last expedition stressed the importance of these
+Company explorations, a novelty not overlooked by reviewers.
+As The Monthly Review noted:
+
+Formerly great complaints were made against this Company,
+on account of their neglecting to prosecute voyages of dis-
+
+covery.., .but it must be acknowledged that the present
+[[Governor]] and Committee have made ample amends for the
+narrow prejudices of their predecessors: as they have not only
+done every thing in their power towards obtaining a perfect
+knowledge of those parts themselves, but have, on the present
+occasion, most liberally and readily contributed every thing
+that could be required of them towards making that knowledge
+public and useful.2
+
+The same periodical pounced on Cook's old adversary, J. R.
+Forster, three years later, and accused him of relying on Dobbs
+and Ellis for material on the Hudson's [[Bay]] Company used in his
+History of the Voyages and Discoveries made in the [[North]], and so
+repeating 'all the absurd stories, whimsical reveries, and extravagant opinions, with which these Authors have endeavoured to
+mislead their readers.'3
+As [[British]] interest in northwest [[America]] intensified after the
+return of Cook's men, the records of the Hudson's [[Bay]] Company
+
+became increasingly in demand. That ebullient if erratic geographer, Alexander Dalrymple, was given a free run of the Com-
+
+pany's documents on exploration by Wegg. He examined the
+1 See James Cook and James [[King]], A Voyage to the [[Pacific]] Ocean...
+(London, [[1784]]), i.
+2 The Monthly Review (London, [[1784]]), lxx. 462. See also The Critical
+Review (London, [[1784]]), Iviii. 88.
+3 The Monthly Review (London, [[1787]]), lxxvii. 292.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+170 TRANSACTIONS OF THE ROYAL HISTORICAL SOCIETY
+
+maps and journals sent home from the [[Bay]], and persuaded himself
+that there was still a possibility of a [[North]]west Passage, which
+when discovered might link the trading operations of the Hud-
+
+son's [[Bay]] Company and East India Company. His request to
+
+Wegg to send an expedition to the [[Bay]] was agreed, on condition
+that the [[government]] would nominate its commander, so 'that the
+public may be assured of everything being done to effect the
+desired purpose'? This caution was the more necessary since some
+painful reminders of the Dobbs crisis had surfaced once more.
+[[1790]] saw the publication of a book of venomous criticism of the
+Company by one of its former servants;2 there were allegations
+that the Company was concealing the existence of a [[North]]west
+Passage;3 most worrying of all, reports were reaching the Company that its chief [[Canadian]] rival, the [[North]] West Company, was
+hoping to convince the [[government]] that its own explorations
+entitled it to an exclusive [[trade]] in the north-west.4 The Company's
+
+reaction to these dangers was no longer an instinctive clampdown on information: instead the London Committee took care
+
+that the press knew about the forthcoming discovery voyage, and
+it arranged for an account to be published after the expedition's
+return.5 In a more general way, it continued its policy of opening
+its records to reputable investigators. The cartographer Aaron
+
+Arrowsmith was allowed access, and successive editions of his
+splendid Map Exhibiting all the [[New]] Discoveries in the Interior
+Parts of [[North]] [[America]] were dedicated to the Hudson's [[Bay]]
+Company 'In testimony of their liberal Communications'. In the
+
+training and use of explorers capable of making accurate surveys
+the Company was well ahead of its more dashing and flamboyant
+
+competitors, and it was anxious to publicize this fact. As Dalrymple wrote: '. .. if ever a charge could have been made with
+justice against that Company for mysterious concealment, nothing of this nature can be imputed to the Present Managers'.6 The
+1 C.O. 42/72, p. 515.
+2 Edward Umfreville, The Present State ofHudson's [[Bay]] (London, [[1790]]).
+On Umfreville see Dr Richard Glover's comments in Glyndwr Williams
+(ed.), Andrew Graham's Observations on Hudson's [[Bay]] z 76y-z79 z (London, Hudson's [[Bay]] Record Society, [[1969]]), pp. xxx-xxxiii.
+3 [[HBC]] C.7/I3, fo. I.
+4 C.O. 42/72, P. 555.
+5 [[HBC]] C.7/13, fo. Id.
+6 Alexander Dalrymple, A Plan for Promoting the Fur-Trade, and Securing
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms
+
+THE HUDSON BAY COMPANY AND ITS CRITICS 171
+
+Company put no difficulties in Hearne's way when he soug
+consult his original journals in connection with the account
+explorations which he was preparing for publication, and
+this co-operation paid dividends. Hearne stoutly defended h
+employers against the 'notorious absurdities' of their critic
+stressed the encouragement he had been given to carry ou
+explorations.1 The changing [[climate]] of knowledgeable opi
+about the Company was indicated in the first sentence of a
+of Hearne's book which noted that 'our readers are no str
+to the merits of Mr Hearne in the line of discovery, or t
+
+exertions of his employers, the Hudson's bay compan
+
+promoting discoveries, or to the misrepresentations of the
+travellers and navigators.'2
+
+The achievement of Samuel Wegg was that he helped
+
+Company of his day to distinguish between information
+because of its commercial importance was properly confide
+and that which was not. Under his guidance the Company b
+goodwill instead of needless antagonism; it showed itself to
+the ranks of those seeking to increase both [[trade]] and know
+In [[North]] [[America]] its future was more than ever uncertain
+became locked in combat with its [[Canadian]] rivals. The charter
+was no longer attacked-it was simply ignored by the [[trade]]rs who
+inherited the old [[French]] routes west from Montreal and pushed
+on towards the [[Pacific]]. The Company's fate would depend in the
+last resort on its effectiveness as a trading organization, not on the
+
+polite assistance it had rendered the geographers, scientists and
+ministers of the day; but in a struggle in which financial backing
+
+in [[Britain]] was as important as events in [[North]] [[America]] its
+improved standing was to help it survive the long years of rivalry
+and war it now faced.
+
+[[Queen]] Mary College, London
+it to this Country, by Uniting the Operations of the East-India and Hudson's-
+
+[[Bay]] Companys (London, [[1789]]), preface.
+1 Glover, Journey by Samuel Hearne, pp. Iviii, lxiv-lxxi.
+2 The Gentleman's Magazine (London, [[1796]]), lxvi. 497-
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:18:26 UTC
+All use subject to https://about.jstor.org/terms

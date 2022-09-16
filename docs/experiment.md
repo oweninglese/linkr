@@ -1,0 +1,35 @@
+---
+author: ohmanfoo
+created: '2022-09-15'
+source: '#todo'
+tags: ''
+title: experiment
+---[[experiment.md]]
+[[World bank slams bitcoin, declines to help el salvador’s cryptocurrency plan.md]]
+[[The Pestilence of American Colonialisms and the Emergence of an Exceptionalist Identity.md]]
+[[The imbecile attack on egerton ryerson.md]]
+[[The American Civil War in the Making of Canadian Confederation.md]]
+[[AgencyProblems in EarlyChartered Companies.md]]
+[[Indian Consumers and the Hudson's BayCompany.md]]
+[[The science suggests a wuhan lab leak.md]]
+[[Learning and the Creation of Stock Market Institutions.md]]
+[[Opinionthe science suggests a wuhan lab leak.md]]
+[[Canada white supremacyand the twinning of empires.md]]
+[[Rethinking Self Determination.md]]
+[[Thinking with James Bay.md]]
+[[Reconciliation with Indigenous Peoples in Universities and Colleges.md]]
+[[A growing number of governments hope to clone america’s darpa.md]]
+[[2022.md]]
+[[An Anishinaabe Studies Sylabus.md]]
+[[The sun is stranger than astrophysicists imagined.md]]
+[[Streets of Papuny.md]]
+[[The amazing math inside the rubik’s cube.md]]
+[[Making Space for Property.md]]
+[[The absurdity of peer review what the pandemic revealed.md]]
+[[ten reasons why sars cov 2 is an “imaginary” and “theoretical virus”  “they never isolated the virus””.md]]
+[[America should become a nation of renters.md]]
+[[Learning to live in steven weinbergs pointless universe.md]]
+[[Research on highly pathogenic h5n1 influenza virus the way.md]]
+[[Laser pulse travels 300 times faster than light (2002).md]]
+[[Origin of covid following the clues.md]]
+[[Hungary 1956 a revolution against stalinism.md]]

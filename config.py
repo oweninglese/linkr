@@ -1,15 +1,18 @@
 #! /usr/bin/python
-"""AI is creating summary for 
-    """""" begin
-
-    Returns:
-        _type_: _description_
-"""
-
+"""general config."""
+from datetime import date
 import os
-Config: dict = {}
-Config.ARTDIR: str = '/vault/'
-Config.TAGS: str = ''
-Config.TFILE: str = 'linkr/TAGS.csv'
-Config.BASEDIR: str = os.path.abspath(os.path.dirname(__file__))
-Config.ARTS: str = Config.BASEDIR + Config.ARTDIR
+
+
+Config = {
+    'ARTS': os.path.join(os.path.dirname(__file__), 'vault/'),
+    'AUTHOR': 'ohmanfoo',
+    'ARTDIR': '/vault/',
+    'CREATED': str(date.today()),
+    'SOURCE': '#todo',
+    'TAGSPATH': os.path.join(os.path.dirname(__file__), "TAGS.csv"),
+    'BASEDIR': os.path.abspath(os.path.dirname(__file__)),
+    'TAGS': '',
+    'TFILE': os.path.join(os.path.dirname(__file__), "TAGS.csv"),
+}
+config = Config

@@ -1,0 +1,911 @@
+---
+author: ohmanfoo
+created: '2022-09-15'
+source: '#todo'
+tags: '#Canada #1997 #government #Mohawk #Great #November #property #1992 #New #Quebec
+  #America #May #colonialism #2002 #Aboriginal #998 #science #American #King #Manitoba
+  #2005 #2007 #Treaty #2008 #treaty #representative #Native #1990 #death #protests
+  #1995 #Vancouver #Crown #1994 #California #March #Indian #indigenous #Toronto #mental
+  #health #North #mining #history #2006 #2004 #British #News #Europe #Winnipeg #1996
+  #1993 #2012 #treaties #Science #2013 #2010 #protest #1985 #2011 #sovereignty #February
+  #Canadian #French #Ontario #flu #testing #Queen #2009 #1982 #science #research #Research
+  #ISS #Kingston #2001 #1701 #1763 #1867 #1928 #1939 #1945 #1950 #1956 #Mayor #Lawyer
+  #Attorney #Indigenous #violence #Saskatchewan #foster #missing '
+title: The Crown Dutyto Consult and Ontario Municipal
+---
+
+Institute of Urban Studies, University of [[Winnipeg]]
+The [[Crown]] Duty to Consult and [[Ontario]] Municipal-First Nations Relations: Lessons learned
+from the Red Hill Valley Parkway Project
+Author(s): Clara MacCallum Fraser and Leela Viswanathan
+Source: [[Canadian]] Journal of Urban [[Research]] , Vol. 22, No. 1, Supplement: CANADIAN
+PLANNING AND POLICY / Aménagement et politique au [[Canada]] ([[2013]]), pp. 1-19
+Published by: Institute of Urban Studies, University of [[Winnipeg]]
+Stable URL: https://www.jstor.org/stable/10.2307/26[[1939]]35
+REFERENCES
+Linked references are available on JSTOR for this article:
+https://www.jstor.org/stable/10.2307/26[[1939]]35?seq=1&cid=pdfreference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+JSTOR is a not-for-profit service that helps scholars, [[research]]ers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Institute of Urban Studies, University of [[Winnipeg]] is collaborating with JSTOR to digitize,
+preserve and extend access to [[Canadian]] Journal of Urban [[Research]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+C R OW N DU T Y TO C ON SU LT A N D ON TA R IO M U N IC I PA L- F I R ST NAT ION S R E L AT ION S
+
+The [[Crown]] Duty to Consult and
+[[Ontario]] Municipal-First Nations Relations:
+Lessons learned from the
+Red Hill Valley Parkway Project
+
+Clara MacCallum Fraser
+Independent [[Research]]er
+Leela Viswanathan
+School of Urban and Regional Planning
+[[Queen]]’s University
+
+[[Canadian]] Journal of Urban [[Research]], Volume 22, Issue 1, Supplement pages 1-19.
+Copyright © [[2013]] by the Institute of Urban Studies.
+All rights of reproduction in any form reserved.
+[[ISS]]N: 1188-3774
+
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+1
+
+C A NA DIA N PL A N N I NG A N D P OL IC Y - A M É NAG E M E N T ET P OL I T IQU E AU C A NA DA
+
+Résumé
+Cet article examine comment l’Obligation de consulter incombant à la Couronne est
+mise en œuvre lors des processus d’urbanisme en [[Ontario]]. Les auteurs présentent
+une étude du projet de la promenade Red Hill Valley à Hamilton ([[Ontario]]). Dix-sept
+entrevues semi-structurées servent à examiner le rôle de l’urbanisme municipal vis-àvis l’obligation de consulter. Les entrevues démontrent que la création de liens entre la
+municipalité et les Premières nations profitent aux deux partis, même si la législation
+offre très peu d’encadrement pour ce type de pratique. Pour faire progresser la situation, les urbanistes doivent faire face aux défis et aux opportunités qui découlent de
+l’instauration de l’obligation de consulter dans les processus d’urbanisme. Les auteurs
+concluent que la relation municipalité-Premières nations requiert un changement
+tant législatif que culturel dans la manière dont on pratique l’urbanisme ainsi que
+dans ce qu’il serait souhaitable d’inclure dans les programmes d’études en urbanisme.
+Mots clés: consultation, les Premières nations, l’urbanisme municipal, [[Ontario]].
+Abstract:
+This paper examines ways in which the [[Crown]] Duty to Consult is implemented
+in [[Ontario]] planning processes. The authors present the Red Hill Valley Parkway
+project in Hamilton, [[Ontario]] and draw from seventeen semi-structured interviews
+to examine the role of municipal planning in relation to the duty to consult. The
+interviews reveal that engaging in municipal-First Nations relations is a mutually
+beneficial practice, although legislation offers minimal guidance for this practice. In
+order to move forward planners must confront the challenges and opportunities for
+municipalities to implement consultation with First Nations in planning processes.
+The authors conclude that municipal-First Nations engagement will require both
+legislative change and a cultural shift in how planning is done and what is included in
+professional planning curricula.
+Keywords: consultation, First Nations, municipal planning, [[Ontario]].
+
+2
+
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+C R OW N DU T Y TO C ON SU LT A N D ON TA R IO M U N IC I PA L- F I R ST NAT ION S R E L AT ION S
+
+INTRODUCTION
+
+In [[2007]], the Ipperwash Inquiry resulted in a report that was a watershed moment
+for defining provincial and First Nation relations1 in [[Ontario]]; it recommended that
+the province develop new ministries (including the Ministry of [[Aboriginal]] Affairs)
+and encourage municipalities to develop plans specific to the needs and interests
+of First Nations. Justice Linden wrote in Recommendation 26 of the Ipperwash
+Inquiry Report that “[t]he provincial [[government]] should encourage municipalities
+to develop and use archaeological master plans across the province” (Ipperwash
+Inquiry [[2007]], 2:147). Despite this call for provincial policy and governance shifts,
+tensions remain between municipalities and First Nations (Peters [[2011]]) since land
+use developments continue to be approved that would harm First Nations sacred
+sites located on traditional territories encompassed within municipal boundaries.
+After all, “[[Aboriginal]] rights and entitlements…do not form part of the taken-forgranted governance framework of municipal [[government]]s” (Abele et al. [[2011]],
+114). Only the [[Crown]] (the federal and provincial [[government]]s) owes a legal ‘Duty
+to Consult’ First Nations when their interests ([[Aboriginal]] and [[Treaty]] rights) are
+at stake. Municipalities do not owe a legal duty to consult First Nations since they
+are “creatures of the Province,” however they do hold statutory obligations since
+the [[Crown]] can delegate its procedural duties to third parties (as noted in the law
+and interpreted for the most part to be municipalities). While some cities are
+making inroads in developing urban policy involving First Nations in the process
+of development and implementation (Peters [[2002]]; Walker, Moore, and Linklater
+[[2011]]), there appears to be little legislative incentive for municipal [[government]]s
+to put in the financial and personnel resources that are needed to build ongoing
+working relations with First Nations, and to create a space for positive, proactive
+engagement (Walker [[2008]]).
+Through an examination of the Red Hill Valley Parkway Project, this paper
+investigates the extent to which the planning process in [[Ontario]] as well as legislated
+policies and consultation protocols ensure that the [[Crown]] and municipalities (by
+virtue of being a third party of the [[Crown]]) uphold their legal duty to consult with
+First Nations. This discussion is important for planners, first, for those working in
+provincial and federal ministries since consultation with First Nations is a legal obligation of the [[Crown]]. Second, in addressing this issue proactively, conflict that may
+otherwise occur between municipalities and First Nations could be mitigated. Land
+use is central to how and where First Nations and settler peoples live. Therefore, the
+consequent processes must be examined continually to ensure that they best serve
+the needs and rights of the people who are [[indigenous]] to, and live on, traditional
+territories. Although there are other [[Aboriginal]] peoples to be considered when exa[[mining]] land use planning and consultation, this paper focuses on First Nations, who
+are referred to in the [[Indian]] Act (R . S . C . [[1985]]) as “[[Indian]]s”; therefore, we will use the
+more commonly accepted term First Nations.2
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+3
+
+C A NA DIA N PL A N N I NG A N D P OL IC Y - A M É NAG E M E N T ET P OL I T IQU E AU C A NA DA
+
+This paper begins with an exploration of the [[history]] of First Nations-[[Crown]] relations and early land use planning, followed by the development of the duty to consult
+and current land use practices in [[Ontario]]. This section is followed by a discussion
+of the Red Hill Valley Parkway Project, drawing from both primary and secondary
+[[research]] sources, and which uses [[New]]man’s ([[2010]]) framework of analysis, a checklist,
+to explore how duty to consult practices are made manifest in this specific planning
+case. The final section of the paper pinpoints challenges to First Nations-municipal
+relations and presents possibilities for moving forward and making proactive changes
+to the ways in which [[Ontario]] municipalities engage First Nations in planning processes. While our analysis is specific to an [[Ontario]] case, we consider it to be a contribution to a larger discourse about the possibilities for partnerships between First
+Nations and municipalities across [[Canada]] in planning and policy making.
+CONTEXT
+
+I. First Nations-[[Crown]] Relations
+When the [[British]] [[Crown]] sought to maintain power over the [[French]] colonialists,
+they allied with [[Indigenous]] peoples; the Royal Proclamation of [[1763]] articulated the
+protection of “[[Indian]]” lands to restrict [[Europe]]an settlement and land use (Flanagan
+et al. [[2010]]). With the Royal Proclamation, the [[British]] [[Crown]] established itself as
+the ruling [[government]], asserting its [[sovereignty]] by assuming land use jurisdiction.
+At this early stage in the [[Crown]]’s governance of the land, Flanagan, et al. point out
+that “[t]here was no attempt at negotiation or even consultation with the natives
+of [[North]] [[America]] regarding [[property]] rights which the Proclamation attributed to
+them” ([[2010]], 58). Despite questionable motives and unequal relations, those agreements between the [[Crown]] and First Nations peoples were significant as they entailed
+significant [[Aboriginal]] rights (as noted in the law) regarding land tenure, land use,
+and rights to hunting and fishing, among others (Borrows [[2005]]; Stanger-Ross [[2008]];
+Williams [[1994]]).
+Since the establishment of the Royal Proclamation, [[treaties]] and agreements have
+been struck between First Nations and the [[Crown]], dealing mainly with possession
+of land and the use of resources (Borrows [[2005]],10; Miller [[2009]]) . This assertion of
+[[Crown]] power over such an integral part of First Nations culture replaced the early
+egalitarian [[Crown]] relations with [[Indigenous]] peoples (Williams [[1994]]) with antagonistic relations that would characterise the following era. The Royal Proclamation
+formulated, contained, and implemented policies purporting methods that shaped
+public space and future land use and settlement in [[Canada]]. One method was the creation of [[Indian]] reserves, the intention being to set aside land on which First Nations
+would reside, and which would be restricted from settlers. These borders, however,
+did not necessarily encompass all of the First Nations’ traditional territory, and so
+their [[Aboriginal]] rights extended beyond the borders of reserves. Numerous Supreme
+4
+
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+C R OW N DU T Y TO C ON SU LT A N D ON TA R IO M U N IC I PA L- F I R ST NAT ION S R E L AT ION S
+
+Court of [[Canada]] cases have demonstrated that the [[Crown]] took further control of that
+land, [[Europe]]ans continued to settle on this “protected” land, and promises made to
+First Nations peoples with respect to land use were undermined and broken (Borrows [[2005]]; Coyle [[2005]]; Harring [[1992]]).
+As a result of the [[Crown]]’s continued laissez-faire attitude toward land use and
+settlement, settlers took over vast tracts of land in [[Ontario]], including First Nations
+lands beyond the [[Indian]] reserves, that had never been intended for [[Europe]]an and
+other non-First Nation settlement. This settler-occupation of land was legitimised
+as titles were acquired from the [[Crown]], towns grew, and municipalities formed. The
+Royal Proclamation, with all its complex power dynamics, along with the [[treaties]],
+represent some of the earliest forms of land use planning, defining where [[Europe]]an
+settlement was allowed and where land was restricted, how resources were to be used,
+and how First Nations interests were to be protected from alienation and exploitation
+(Dorries [[2012]]). However, any positive First Nations-[[Crown]] relations that had existed
+were continuously undermined by external interests, setting the stage for potential
+future conflict.
+The mid-twentieth century represented a particularly low point in [[Indigenous]]/
+[[Aboriginal]]-[[Crown]] relations, as “[[Aboriginal]] claims were not even recognized by
+the federal [[government]] as having any legal status” (R. v. Sparrow, [[[1990]]] 1 S . C . R
+1075). Conflicts between the [[Crown]] and First Nations peoples have come to characterise twentieth-century First Nations-[[Crown]] relations, and have manifested in
+sometimes-violent standoffs between First Nations [[protest]]ers and police forces,
+litigation, and the very recent [[[[protest]]s]] under the “Idle No More” banner, for instance. Tension between the municipal residents, police forces, and First Nations
+was demonstrated in [[1990]] at Oka, when the [[Quebec]] municipality planned, without
+consulting First Nations, to develop a golf course and condominium residence
+on traditional [[Mohawk]] land, which included sacred grounds (Obamsawin [[1993]]).
+Similarly, though without any [[death]]s, a proposed residential development in [[2006]]
+at Caledonia triggered [[[[protest]]s]] from Six Nations due to an outstanding land claim
+(DeVries [[2011]]). In both cases, the underlying issue was that [[Aboriginal]] rights and
+land claims were being systematically ignored by the planning process; however, the
+media focused largely on the extremely sensitive public issue of ownership of space,
+and whose ownership was legitimate (Obamsawin [[1993]]; DeVries [[2011]]). This kind
+of conflict is not unique, and various cases have been brought to the Supreme Court
+of [[Canada]], testifying to improper land use by municipal, provincial, and federal
+[[government]]s. These land use conflicts, as well as habitual destruction of First Nations heritage due to municipal growth and construction (Williamson [[2010]]), show
+how [[Aboriginal]] and [[treaty]] rights, even in municipal contexts, have been continually
+undermined and neglected. It was at this point, in the twenty-first century, that the
+[[Crown]]’s duty to consult and accommodate [[Aboriginal]] peoples came to the fore in
+the courts.
+
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+5
+
+C A NA DIA N PL A N N I NG A N D P OL IC Y - A M É NAG E M E N T ET P OL I T IQU E AU C A NA DA
+
+II. Duty to Consult and Accommodate
+In [[1982]], the Constitution Act was implemented, within which were entrenched First
+Nations and [[treaty]] rights in Section 35. With this, the law established that these rights
+could not be violated unless there was sufficient evidence that the [[Crown]] was justified
+(Coyle [[2005]]). But what are these rights that are, ostensibly, being protected? Section
+35 articulates that [[treaty]] rights are those that “exist by way of land claims agreements
+or may be so acquired”, and although this legislation indicates that only “existing”
+rights (or those that “may be so acquired”) are acknowledged, the Supreme Court of
+[[Canada]] has made it clear such rights “will still be considered to exist unless they have
+been clearly and plainly extinguished by a federal law” (Coyle [[2005]], 23). [[Treaty]] rights
+upheld by the Courts include activities like fishing for livelihood, as well as practicing traditions and customs among First Nations. According to Coyle, the variety of
+promises made through [[treaties]] in [[Ontario]] means that there is broad scope for [[treaty]]
+claims by First Nations in the province ([[2005]], 24). The rights of First Nations enable
+them to pursue traditional activities containing “an element of practice, custom or
+tradition which is integral to the distinctive culture of the [[Aboriginal]] community
+claiming the right” (R. v. Van der Peet, [[[1996]]] 9 W. W. R . 1 (S . C . C ), para. 46). Given
+the number of First Nations that could assert their [[Aboriginal]] rights, the Courts
+began to urge negotiation and consultation rather than litigation, in order to address
+claims and related issues (Coyle [[2005]]; Rowinski [[2009]]).
+In [[2004]], the Supreme Court of [[Canada]] established that the [[Crown]] owed a duty
+to consult and, where appropriate, to accommodate [[Aboriginal]] rights when there is
+evidence that the [[Crown]] has knowledge that a development will impact these rights.
+For example, in Haida Nation v. [[British]] Columbia ([[2004]]) the Supreme Court decided
+that the [[Crown]]— in this case, the provincial [[government]]—was obliged to consult
+the Haida Nation prior to issuing a new Tree Farm License. It argued further that the
+[[Crown]] indeed had sufficient knowledge of the “potential [[Aboriginal]] rights and title”,
+which might have been impacted by the province’s “strategic planning for utilization
+of the resource” (Haida Nation v. [[British]] Columbia. [[2004]], para 7).
+Dwight G. [[New]]man ([[2010]], 16) articulates five elements that are foundational to
+understanding the duty to consult; these are:
+1. the duty to consult arises prior to proof of an [[Aboriginal]] rights or
+title claim or in the context of uncertain effects on a [[treaty]] right;
+2. the duty to consult is triggered relatively easily, based on a
+minimal level of knowledge on the part of the [[Crown]] concerning a possible claim with which [[government]] action
+potentially interferes;
+3. the strength and scope of the duty to consult in particular circumstances lies along a spectrum of possibilities, with a richer
+consultation requirement arising from a stronger prima facie
+6
+
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+C R OW N DU T Y TO C ON SU LT A N D ON TA R IO M U N IC I PA L- F I R ST NAT ION S R E L AT ION S
+
+[[Aboriginal]] claim and/or a more serious impact on the underlying [[Aboriginal]] right or [[treaty]] right;
+4. within this spectrum, the duty ranges from a minimal notice requirement to a duty to carry out some degree of accommodation
+of the [[Aboriginal]] interests, but it does not include an [[Aboriginal]]
+veto power over any particular decision; and
+5. a failure to meet a duty to consult can lead to a range of remedies,
+from an injunction against a particular [[government]] action altogether (or, in some instance, damages) but more commonly an
+order to carry out the consultation prior to proceeding.
+The kind of consultation required is not simply a matter of addressing First
+Nations “interests”, but rather, the [[Crown]] must consult with First Nations regarding
+their legal rights. It is necessary to assert that such crucial consultations cannot be
+lumped into public consultation; First Nations have distinct, constitutional rights,
+which must be acknowledged on a different plane than the so-called “public interest”
+([[New]]man [[2010]]).
+III. Land Use Planning in [[Ontario]] and the Duty to Consult
+There are a number of ways to understand the connection between [[Ontario]] land use
+planning practices and the [[Crown]]’s duty to consult. First, the space organised by municipal land use planners in [[Ontario]] is quite often of great interest to First Nations for whom
+the municipal boundaries overlap with their traditional territories. Second, municipal
+land use activities often trigger certain processes that involve the provincial or federal
+[[government]]s, thereby engaging the [[Crown]]. Third, municipal planners are beginning
+to realise that they need to be made more aware of the role they play practicing and
+implementing the duty to consult and recognizing the [[history]] of First Nations overall.
+For example, with colonisation, First Nations peoples in [[Canada]] were relegated largely
+to reserve areas, while settler communities resided in increasingly urban areas—a planning process referred to as municipal [[colonialism]] by Stanger-Ross ([[2008]]). However, First
+Nations are increasingly living in cities (Peters [[2011]]), and with the implementation of
+the Municipal Act, [[2001]], municipalities are recognised as “responsible and accountable
+levels of [[government]]” and have the ability to “determine the appropriate mechanisms
+for delivering municipal services to their communities” ([[Ontario]] [[2012]]); these urban
+communities would include First Nations peoples (Walker [[2008]]).
+The allocation and organisation of land use and settlement patterns—the production of space, the first point of connection between land use planning and the
+duty to consult—is primarily implemented by municipal planners, overseen by the
+Province, and guided with a variety of tools that are easily available to planners and
+the public through the Ministry of Municipal Affairs and Housing website. Simply put,
+governed by the [[Ontario]] Planning Act, R . S . O. [[1990]], municipalities are responsible for
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+7
+
+C A NA DIA N PL A N N I NG A N D P OL IC Y - A M É NAG E M E N T ET P OL I T IQU E AU C A NA DA
+
+making planning decisions locally that will “determine the future of communities”
+([[Ontario]] [[2010]], 3). Regardless of whether these decisions are made within a single-tier
+municipality such as [[Toronto]], an upper-tier one such as Temiskaming, or a lower-tier
+municipality such as Bracebridge, such decisions affect individual communities as
+well as the relations among communities.3 As a result of provincial policies directing
+growth, municipal planners focus on concepts such as densification, curbing urban
+sprawl, and housing availability and affordability. In the formulation and implementation of land use plans and the approval of development applications, planners have
+“considerable power to in[[flu]]ence urban land development” (Dorries [[2012]], 13). As
+noted by Barry and Porter ([[2012]]) planners have the capacity to create documents that
+impact actions and behaviours , shaping the growth of the municipalities and regions.
+Furthermore, planning boards in northern [[Ontario]] are given the power, by the Planning Act, to “adopt official plans and pass zoning by-laws for unorganized territory
+within their planning areas,” ([[Ontario]] [[2010]], 3). Thus, municipalities can impact a wide
+area of land within the province, it is here where the connection between municipal
+land use planning and the duty to consult and accommodate can be drawn.
+The second demonstration of the connection between municipal planning and
+the duty to consult is the fact that various planning activities trigger [[Crown]] involvement, which may, depending on the situation, include a duty to consult. In spite of the
+fact that municipal land use planning organises and impacts significant areas of land
+in [[Ontario]], often affecting First Nations interest, the province provides municipalities
+with little guidance on how to conduct land use planning in compliance with this
+particular facet of the law. How and when this consultation should take place often
+remains unclear, at least until a municipal development triggers the [[Crown]]’s involvement. In such cases, these triggers are most commonly found in the Environ[[mental]]
+Assessment Act ([[1990]]), the [[Ontario]] Planning Act ([[2005]]), and the Heritage Act ([[1990]]).
+The Cemeteries Act ([[1990]]) and the Water Resources Act ([[1990]]) make mention of the
+importance of engagement, however the clearest guidance to be found at the moment, remains with the first three acts mentioned.
+The third connection between municipal land use planning and the duty to consult is the changes in responsibility held by [[Ontario]] municipalities. To begin with, the
+[[Ontario]] Planning Act, R . S . O [[1990]] states that municipal councils, “shall have regard
+to, among other matters, matters of provincial interest”, including areas ranging from
+ecological systems and agricultural resources, to the development of safe communities, for example. Of particular interest are “the co-ordination of planning activities of
+public bodies” (Part I 2.m), “the resolution of planning conflicts involving public and
+private interests” (Part I 2.n), and “the appropriate location of growth and development” (Part I 2.p) ([[Ontario]] Planning Act, R . S . O [[1990]]). Doumani and Foran point out
+that, in articulating provincial power over municipal actions through the “interests
+of the province” section, the province is exercising “direct control” ([[2011]], 33); this
+document demonstrated the top-down approach to planning in [[Ontario]]. However,
+with the implementation of the Municipal Act, [[2001]], which recognised cities as “re8
+
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+C R OW N DU T Y TO C ON SU LT A N D ON TA R IO M U N IC I PA L- F I R ST NAT ION S R E L AT ION S
+
+sponsible and accountable levels of [[government]]” and enabled them to “determine
+the appropriate mechanisms for delivering municipal services to their communities”
+([[Ontario]] [[2012]], section 1), the relationship between province and municipality has
+shifted. Now that municipal [[government]]s have heightened power over the provision
+of services and the decisions regarding urban land development, and given that the
+[[Crown]] has a great deal of knowledge of First Nation interests, despite the fact that
+they remain constitutionally “creatures of the province” (the [[British]] [[North]] [[America]]
+( B NA ) Act, [[1867]], S .9(2)), it seems plausible that [[Crown]] duty could extend to municipalities, beyond the existing statutory obligations. A recent court case has brought
+this contentious issue to light: in Neskonlith [[Indian]] Band v. The City of Salmon Arm
+et al., [[2012]], B C C A 379, the court maintains that a duty to consult does not extend
+to municipalities. However, there are voices within the legal field arguing that the
+situation is far from clear, and that there is in fact room to argue the case that the duty
+could extend to municipalities (Rowinski [[2009]], 15; Promislow [[2013]], 73).Without any
+changes made to current land use planning practices, and if land use planning is
+understood as being shaped by the policies and objectives of the state, it will continue
+to be seen as “implicated not only in ongoing processes of dispossession, but also in
+the normalization of non-[[Indigenous]] land occupation” (Dorries [[2012]], 15).
+T H E R E D H I L L VA L L E Y P A R K WA Y P R O J E C T A N D T H E D U T Y
+T O C O N S U LT
+
+In order to examine the Red Hill Valley Parkway Project and to assess its meaning
+in terms of First Nation-municipal relations and the duty to consult, primary and
+secondary [[research]] was conducted. Literature and policy documents were reviewed
+to assess broadly the issues related to planning and First Nations peoples in [[Ontario]],
+in provinces where newer [[treaties]] have been established, and internationally. There
+was a strong counter-colonial thread running through the literature that was reviewed
+across the fields of planning, geography, political [[[[science]]]], linguistics, education, law,
+and policy legislation. Primary [[research]] consisted of 17 interviews conducted over the
+telephone and in person. Participants were selected using purposive sampling (Berg
+[[2009]], 50) and were contacted using publicly available information. Twelve planners,
+academics and accredited and non-accredited planning practitioners were interviewed
+with the remaining interviews involving two archeologists and three lawyers. Eleven
+of the respondents were settler, non-First Nations, whereas six self-identified as First
+Nation. Participants were asked permission for the interview to be audio recorded. One
+participant chose not to be recorded, and for concerns regarding [[research]] accuracy, no
+quotations were drawn from that interview. In order to protect the confidentiality of
+participants, when directly quoted, we categorized our interview participants with the
+label ‘P’ for participant, and a corresponding number from 1 to 17; however these numbers do not reflect the sequence of interviews. The [[research]]ers ensured that all quotes
+have been verified and validated by the respective participants prior to publication.
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+9
+
+C A NA DIA N PL A N N I NG A N D P OL IC Y - A M É NAG E M E N T ET P OL I T IQU E AU C A NA DA
+
+The City of Hamilton is a single-tier municipality, located on the western tip of
+Lake [[Ontario]], at the heart of the [[Great]]er Golden Horseshoe. The region has been
+occupied for the past ten millennia, and the establishment of [[Europe]]an settlements
+(which would become cities such as Hamilton, [[Toronto]], and other cities) along the
+shores of Lake [[Ontario]], was a continuation of ancient settlement patterns (Williamson 1[[998]], 25; 52). The Six Nations of the Grand River First Nation (“Six Nations”) and
+the Mississaugas of [[New]] Credit First Nation (“the Mississaugas”) make up the area’s
+major First Nations communities, with populations living on reserves south-west
+of Hamilton and within cities and towns in the region overall. Both First Nations
+have asserted land claims in the region. Hamilton, like many other southern [[Ontario]]
+municipalities, sits entirely within the area of a number of asserted traditional and
+[[treaty]] territories: the Nanfan [[Treaty]] of [[1701]] (Six Nations), the Mississaugas of [[New]]
+Credit First Nation Traditional Territory, and the Six Nations of the Grand River
+Haldimand Tract.
+On [[November]] 3, [[2007]], the City of Hamilton opened the Red Hill Valley Parkway
+with a ceremony, attended by the [[May]]or of Hamilton, provincial [[representative]]s, City
+Council, City staff, the local community, as well as members of the area’s First Nations. The Haudenosaunee traditional council of Six Nations undertook a wampum
+exchange with Confederacy chiefs to mark the agreements made with the City (City
+of Hamilton [[2007]]). From the project’s initiation in [[1956]] to its opening in [[2007]], it
+faced challenges posed by changing provincial [[government]]s, environ[[mental]] opposition, and opposition from the Six Nations community and Haudenosaunee (Murray
+[[2004]]). After various environ[[mental]] studies were conducted, the Red Hill Valley
+monitoring project was implemented, a set of agreements was created between the
+Haudenosaunee and the City to govern the Valley, and a Joint Stewardship Committee was established made up of City staff and Six Nations members. Once completed,
+the project received several awards, and the agreements serve as a model for other
+municipal-First Nations agreements.
+The Red Hill Valley Parkway project serves as a useful example of municipal-First
+Nations relations and the duty to consult. Using [[New]]man’s4 five-point checklist of
+elements to understanding the duty, we examine the Red Hill Valley Parkway project
+further. First, [[New]]man ([[2010]], 16) points out that the duty arises “prior to proof of an
+[[Aboriginal]] rights or title claim”. In this case, there was already a clearly stated assertion
+of traditional and [[treaty]] territories, as mentioned above, thus it was evident that there
+was significant First Nation interest in the Red Hill Valley (Murray [[2004]]). Second, as
+[[New]]man goes on to point out, the duty is triggered with a minimal level of [[Crown]]
+knowledge that there could be a conflict due to a particular development. Unlike the
+Haida case, the Red Valley Parkway Project was driven by the municipal [[government]].
+Nevertheless, similar interests were manifest regardless of [[Crown]] involvement, and
+given that municipal planning must be in line with Provincial interests, the [[Crown]]’s
+responsibility was, in turn, procedurally delegated. In this case, there was more than
+minimal knowledge of potential for conflict (Mulkewich and Oddie [[2009]]).
+10
+
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+C R OW N DU T Y TO C ON SU LT A N D ON TA R IO M U N IC I PA L- F I R ST NAT ION S R E L AT ION S
+
+Third and fourth, not only is there a spectrum of the “strength or scope of the duty”,
+in terms of the strength of the [[Aboriginal]] claim or seriousness of the potential impact,
+there is also a range of what is demanded of the [[government]], from minimal notifications
+to accommodation of [[Aboriginal]] interests ([[New]]man [[2010]], 16). As noted by P8:
+Duty to consult by provinces or business via [the] provinces or Feds
+should include municipalities simply because it’s all about development and partnerships. I’ve always found that when municipalities
+understood this, they were quite anxious to become partners and
+neighbours to that type of progress. Years ago there was a shift in
+identifying bands as First Nations, coming partly out of the political stance that we are all equals in this; there are three founding
+nations to the country of [[Canada]] (Interview, [[March]] 22, [[2011]]).
+In the case of the Red Hill Valley, although the City of Hamilton was not
+forced by the [[Crown]] to engage with those First Nations with interests in the area,
+it became clear that the project would not move forward without some level of
+engagement and accommodation. The city [[government]] understood that there were
+First Nations with constitutional status and unique interests, unlike the general
+public, and thus they were integrated into the planning process differently than
+mere stakeholders (Smith [[2008]], 9). Consultation continued to take place after
+the project concluded, as the drafts of the Archaeology Management Plan were
+circulated among First Nation planning staff and elected and traditional councils,
+for feedback in a timely manner. Finally, as [[New]]man’s fifth point articulates, if a
+[[government]] fails to meet its duty to consult, a number of remedies can be called
+upon. In this case, however, the City had engaged some of the interested First Nations before the situation transformed into a major conflict, thereby avoiding costly
+remedial work.
+Ultimately, the municipal [[government]] fulfilled a duty to consult; however, it is
+significant that this did not take place until [[[[protest]]s]] had occurred, and it was clear
+that since the city [[government]] had so much invested, it realised it had no choice. If
+this had not been a project fifty-years in the making then perhaps the city [[government]] would not have been so willing to work with the First Nations so progressively.
+As a result of this engagement, the planning process has been altered slightly, in
+that, on the one hand, the Mississaugas and the Six Nations staff have been involved
+in the creation of Hamilton’s Archaeology Management Plan; on the other hand,
+since the completion of the project, the Joint Stewardship Committee seems to have
+fallen by the wayside.
+There is a growing realisation that even if municipalities do not owe a legal
+duty to consult, the courts will have little difficulty finding them accountable if
+a case were taken to the Supreme Court (Rowinski [[2009]]). Ultimately, while municipalities hold statutory obligations to consult, they do not owe a legal duty to
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+11
+
+C A NA DIA N PL A N N I NG A N D P OL IC Y - A M É NAG E M E N T ET P OL I T IQU E AU C A NA DA
+
+consult. It seems likely that this may change within the next few years, however,
+and as a result of this current lack of clarity, proactive engagement is by far the
+best plan of action (Abouchar [[2011]]). Understanding how municipalities fit into
+the jurisdictional and governance framework of provincial planning is crucial to
+understanding their role in the duty to consult. As noted by P13, however, what
+is [[missing]] is clear guidance from the province by way of land use planning tools
+and policy:
+It’s not that [municipalities] don’t want to consult or think less of
+First Nations, but they are dealing with a certain set of rules that
+doesn’t incorporate the Duty to Consult. The Ministry of Municipal Affairs and Housing provides case studies, saying to go out and
+consult, but the examples that they give are those where there is
+a common interest, not where there is an obligation. Municipalities want to work together with First Nations to develop economic
+opportunities. So, sure, they’ll draft protocols together, because
+their interests are aligned, [but] the provincial [[government]] needs
+to make up its mind and provide clear guidance to the parties (P13,
+interview, [[February]] 10, [[2011]]).
+M O V I N G F O RWA R D : C HA L L E N G E S A N D L E S S O N S L E A R N E D
+
+Many interview participants have expressed a general feeling that improvements
+can be made to municipal-First Nations relations, even without leadership from the
+[[Crown]]. Municipal planners are learning from their experiences, archaeologists are
+working with First Nations and municipalities to improve their relations with connected First Nations, and developing proactive planning documents like Archaeology
+Management Plans. Through the challenges and lessons learned in cases such as the
+Red Hill Valley Parkway development, and learning from forward-thinking communities, it may be possible to improve the way that planning in [[Ontario]] incorporates
+First Nations and their interests into these processes.
+First, it is clear that project-by-project engagement, though perhaps initially
+less costly than long-term planning, is limiting in that it does not establish a stable
+working relationship upon which to ground progressive collaboration, and prevent
+potential conflict between municipalities and First Nations. This kind of temporary
+measure maintains the engagement process as a reactionary, defensive, or mitigative
+one. P14 noted that although planning work happens on a project-by-project basis,
+it “should be an overall process...currently it continues to be ad-hoc and this sort of
+engagement can be intimidating for staff who are worried about making mistakes and
+misunderstanding cultural differences” especially without having a sense of the big
+picture, and provincial direction (Interview, [[February]] 20, [[2011]]). As noted by P13, “it
+comes down to money—if there is infrastructure funding, there’s a line for [[Aboriginal]]
+12
+
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+C R OW N DU T Y TO C ON SU LT A N D ON TA R IO M U N IC I PA L- F I R ST NAT ION S R E L AT ION S
+
+consultation… however, if there is no [[Crown]] trigger, and the municipality goes with
+the consultation anyway, they are stepping beyond their requirements” (Interview,
+[[February]] 10, [[2011]]).
+One planner involved in engagement among the City of Hamilton and the
+Six Nations and Mississaugas found that the unfamiliar nature of the municipalFirst Nations relationship meant that the city left it to the Six Nations, the most
+prominent First Nations voice [[protest]]ing the Red Hill Valley Parkway project, to
+contact other interested First Nations. What this planner eventually realised was
+that the Six Nations had not invited the Mississaugas into the process, despite their
+interest in the land. Engagement between the City and the Mississaugas was initiated later on in the process, thus demonstrating to that planner that City staff must
+become more cognizant of all the First Nations with rights and interests within
+their boundaries, in order to avoid excluding relevant groups from the process.
+Highlighting his own First Nation identity, the interview participant P8 noted
+how, “[b]y virtue of the B NA act and the Constitution Act... and the [[treaties]], and
+the relationship that has existed since first contact, negotiations have to take place
+with a recognition that we [First Nations] are equal to the federal [[government]]”
+(Interview, [[March]] 22, [[2011]]). P17 noted that as a result of frequent staff changes at
+municipalities, there is no institutional memory of what has been done, or what
+has started and that, “relationships between municipal [[government]]s and nearby
+First Nations need to be established so that when issues do arise, there is a [[health]]y
+foundation on which to ground any negotiations and problem solving,” (Interview,
+[[February]] 11, [[2011]]).
+It follows, then, that one of the most common points from interview participants was the need for sustainable relationships, but that these relationships require
+a level of engagement for which there is little capacity, either for municipal staff or
+First Nations staff. Quite often, this proactive engagement is a result of individuals
+who see this as an important issue, and will take on extra work. All interview participants commented on this capacity issue as being a roadblock to better relations.
+Indeed, although some municipalities are keen to engage with First Nations, P14
+noted that there is little time to engage, and that the duty to consult serves mostly
+as a temporary solution to potential conflict, “as relationships take time; you have
+to follow up and be engaged in everyday events… and municipal planners already
+carry heavy loads” (Interview, [[February]] 20, [[2011]]). Scheduling was also pointed to as
+a roadblock: while municipal planners work according to budgetary schedules, First
+Nations staff work with different schedules, and have different election calendars.
+Often municipal planners are eager to achieve goals much quicker than understaffed First Nations planning offices are able. “Scheduling a meeting at city hall”
+after all “is different than at a First Nations reserve” (P7, interview, [[February]] 21,
+[[2011]]) and it can be difficult for city councils and band councils to develop working relationships because of their different perspectives of timelines (P3, interview,
+[[February]] 21, [[2011]]).
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+13
+
+C A NA DIA N PL A N N I NG A N D P OL IC Y - A M É NAG E M E N T ET P OL I T IQU E AU C A NA DA
+
+First Nations planning staff are also inundated with notifications from numerous municipalities, creating an overwhelming amount of paperwork to be dealt with,
+even before talking can begin. P7 notes that there are “too many notifications and
+not necessarily ones that [they] are interested in as First Nations peoples,” (Interview,
+[[February]] 21, [[2011]]). This sentiment was mirrored by P13 who noted that “there is
+excessive notification that isn’t always relevant, which means that First Nations are
+inundated with notification...there is a desire for a central registry” (Interview, [[February]] 10, [[2011]]). Consequently, in order to find ways of stemming the flow of paperwork
+associated with notifications, some First Nations want to take action and they feel
+they can address this problem by contributing to the revision of the Planning Act and
+Provincial Policy Statements. “The way that [planning] is structured , First Nations
+are not notified until very late in the process... When the shovel is in the ground, all
+rules have been followed and the only thing they do is to “address the concerns and
+mitigate [problems]” (P7, interview, [[February]] 21, [[2011]]). When viewed together, these
+challenges make it difficult for municipal and First Nations exchanges to take place
+on equal footing, if at all. Some interviewees noted that there are conflicts between
+First Nations and municipal planners, and within First Nations, between traditional
+councils and elected councils. “The difference between how First Nations run things
+and how municipalities run things... further complicates consultation; chiefs take
+more time to come to decisions, and because of that longer time frame they may
+lose funding” that might come with certain development decisions (P3, interview,
+[[February]] 21, [[2011]]).
+There are a number of ways to counteract these challenges, which work towards demystifying processes and cultures among the different parties. To begin
+with, municipal planners can reach out to First Nations staff by inviting them to
+committee meetings, to which the public are welcome, in order to better understand the issues facing a particular municipality. Both P5 and P14 indicated that
+they found that the clearest guidelines for consultation came from communities
+themselves—that “First Nations are very willing to tell you how to engage properly,
+and [are] ... very excited whenever municipal [[government]] is willing to approach
+them” (Interviews, [[February]] 17 and [[February]] 20, [[2011]]). Conversely, First Nations
+could invite municipal staff to similar events. Such reciprocal relations will rely on
+staff being interested, and seeing the benefit of this, in order to succeed – thus there
+must be more incentive from above for municipalities to build up such relations in
+this way. P1 notes that it is not that municipalities do not want to consult or that
+they think less of First Nations, but that they are dealing with a certain set of rules
+that does not incorporate a duty to consult:
+[H]ere’s the dilemma with municipal-[[Aboriginal]] consultation. The municipalities are told to do it [to consult] early; told
+to do it at a strategic level. But at that point they don’t have
+enough information. All they can say is maybe one day in the
+14
+
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+C R OW N DU T Y TO C ON SU LT A N D ON TA R IO M U N IC I PA L- F I R ST NAT ION S R E L AT ION S
+
+future someone may do something [with a particular piece of
+land]… And even if there is a project in the future, there may
+not be trigger for the Duty to Consult unless a [Provincial]
+approval or an environ[[mental]] assessment is required. First
+Nations don’t want to wait till then; they want to have a more
+hands-on role early in the process. (Interview, [[February]] 29, [[2011]])
+In the same light, there must be heightened knowledge, among municipal
+and First Nations parties, but particularly on the part of City staff, of the First
+Nations with interests in their particular municipal lands. P8 notes that “the way
+to make meaningful relationships is to know about the community [and that] it’s
+sometimes as simple as knowing the cultural traditions of the differing communities... Planners need to know the [[history]] of the land, how did it get to be the way
+it is today...” (Interview, [[February]] 22, [[2011]]). Municipal staff must have increased
+awareness of the [[history]] of such First Nations in the area, their rights, as well as
+an understanding of cultural nuances. This knowledge will demonstrate goodwill
+and an earnestness to build an ongoing relationship. Ultimately, “[[history]] is number
+one... planners must know the [[history]] of colonization, specifically the [[Indian]] Act,
+reserve system, residential schools system and multigenerational effects that are
+present and ongoing. That is why First Nations want to talk about [first contact].
+Failing to acknowledge that is an easy way to upset them,” (P12, interview, [[March]] 6,
+[[2011]]). When municipalities and First Nations start to [[foster]] such positive relationships, then progressive planning can begin to take place. Saskatoon is one example
+of a municipality that has worked on building positive relations, and engages in
+partnership-building work “to demystify [how] First Nations [work] with city hall,
+creating a friendly environment, and trying to promote First Nations’ involvement,
+and the idea that First Nations can take resources and invest them in the city.” (P16,
+interview, [[February]] 2, [[2011]]; City of Saskatoon [[2012]]).
+CONCLUSION
+
+In this paper, we have addressed the issue of how the planning process in [[Ontario]]
+engages municipal planners with First Nations, and how to improve that engagement where it exists, and help [[foster]] it where it does not yet exist. A number of
+issues have emerged from this exploration, demonstrating a great need for further [[research]] and writing in this area. To begin with, there is a significant gap in
+planning literature when it comes to the role that land use planning has played
+in dispossessing and regulating [[Aboriginal]] peoples and their rights (Borrows
+[[1997]]; Dorries [[2012]]; Jojola [[2008]]). Furthermore, there is a need for more literature
+focusing on the potential for not just statutory obligations, but a legal duty being
+extended to municipalities. Planners must stay abreast of developments such as
+the Neskonlith case in order to respond to the shifting context of planning. Such
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+15
+
+C A NA DIA N PL A N N I NG A N D P OL IC Y - A M É NAG E M E N T ET P OL I T IQU E AU C A NA DA
+
+[[research]], when brought into the planning curriculum in [[Ontario]], and the country
+at large, would represent a step towards nurturing a generation of planners with a
+more heightened awareness of the [[history]] and context of planning, and how First
+Nations play a significant role in contemporary land use planning and decolonising
+practices (Porter [[2010]]).
+Since [[Ontario]] municipalities have increased decision-making capacity with
+respect to land that is part of a First Nations land claim, then there is a connection
+to be made with municipal land use planning, [[Aboriginal]] rights and the duty to
+consult must be made in practice. Simply put, municipalities are responsible for
+planning decisions locally that will “determine the future of communities” ([[Ontario]] [[2010]], 3). The planners interviewed noted that, in spite of an absence of clear
+guidance, it is evident that establishing and maintaining good relations between
+municipalities and First Nations is a pivotal starting point. Just as municipalities
+engage with parallel jurisdictions with similar interests, municipalities must engage
+with First Nations in that manner. Recognising that municipal-First Nations engagement is more than simply a “duty” but in fact common sense will require both
+legislative change and a cultural shift in how planning is done and what is included
+in professional planning curricula.
+ACKNOWLEDGEMENTS
+
+We thank the journal’s editors and the three anonymous reviewers who offered
+insight into drafts of this paper. Special thanks to Pam Palmater and Ron Keeble at
+Ryerson University for their valuable insights into this [[research]], and to Fraser McLeod
+for his policy [[research]] assistance. This [[research]] was supported by the Social [[Science]]s
+and Humanities [[Research]] Council of [[Canada]], as well as the [[Ontario]] Graduate
+Scholarship Program.
+NOTES
+
+The Government of [[Ontario]] established The Ipperwash Inquiry under the Public Inquiries Act. The Inquiry was mandated to investigate and report on events surrounding
+Dudley George, who was shot in [[1995]] during a [[protest]] by First Nations [[representative]]s
+at Ipperwash Provincial Park. George later died. It was also mandated to recommend
+ways to avoid future [[violence]] in similar circumstances. For more information, see
+http://www.attorneygeneral.jus.gov.on.ca/inquiries/ipperwash/index.html
+
+1
+
+Terminology is a complex and, at times, fraught issue. This article refers to [[Aboriginal]] peoples since it is discussing a legal issue, that of the duty to consult, and official
+documents surrounding this use ‘[[Aboriginal]]’ as a legal term covering all [[indigenous]]
+peoples in [[Canada]]. When referring to legislation we use the legal term. When referring to the First Peoples, we use the term ‘First Nations’.
+2
+
+16
+
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+C R OW N DU T Y TO C ON SU LT A N D ON TA R IO M U N IC I PA L- F I R ST NAT ION S R E L AT ION S
+
+Municipalities are referred to as upper-, lower-, and single-tier municipalities according to their size, and the services provided. For more information, see http://
+www.amo.on.ca/WCM/amo/AMO_Content/About/Municipal_101/[[Ontario]]_Municipal_Pages.aspx
+3
+
+[[New]]man’s forthcoming ([[2013]]) edition of this text will address the issues facing
+municipalities with respect to the duty to consult.
+4
+
+REFERENCES
+
+Abele, F., R. Lapointe, D. J. Leech, and M. McCrossan. [[2011]]. [[Aboriginal]] People and
+Public Policy in Four [[Ontario]] Cities. In Urban [[Aboriginal]] Policy Making in
+[[Canadian]] Municipalities, ed. E. Peters [[2011]], 87-126. Montreal and [[King]]ston:
+McGill-[[Queen]]’s University Press.
+Abouchar, J. [[2011]]. Duty to Consult and [[Aboriginal]] Engagement. [[Toronto]]: Willms and
+Shier Environ[[mental]] [[Lawyer]]s LLP.
+Barry, J., and L. Porter. [[2012]]. [[Indigenous]] Recognition in State-based Planning Systems: Understanding Textual Mediation in the Contact Zone. Planning Theory,
+11(2): 170-187.
+Berg, B. [[2009]]. Qualitative [[Research]] Methods for the Social [[Science]]s. Boston: Allyn and
+Bacon.
+Borrows, J. [[1997]]. Living between Water and Rocks: First Nations, Environ[[mental]]
+Planning and Democracy. The University of [[Toronto]], Law Journal, 47(4): 417-468.
+———. [[2005]]. [[Crown]] and [[Aboriginal]] Occupations of Land: A History and Comparison.
+[[Toronto]]: Ipperwash Inquiry.
+City of Hamilton. [[2007]]. Celebrating the completion of the Red Hill Valley Parkway.
+City of Hamilton Public Works, http://www.hamilton.ca/NEwsandPublications/
+[[New]]sReleases/[[2007]][[New]]s/[[November]]/11-05-07ka.htm (Accessed 4 [[February]] [[2013]]).
+City of Saskatoon. [[2012]]. [[Treaty]] Land Entitlement, http://www.saskatoon.ca/DEPARTMENTS/Community%20Services/PlanningDevelopment/Documents/Future%20
+Growth/[[2012]]%20CofS_TLE%20Brochure_web.pdf (Accessed 7 Feb [[2013]]).
+Coyle, M. [[2005]]. Addressing [[Aboriginal]] Land and [[Treaty]] Rights in [[Ontario]]: An Analysis
+of Past Policies and Options for the Future. [[Toronto]]: Ipperwash Inquiry.
+DeVries, L. [[2011]]. Conflict in Caledonia : [[Aboriginal]] Land Rights and the Rule of Law.
+[[Vancouver]]: UBC Press.
+Dorries, H. J. [[2012]]. Rejecting the ‘False Choice’: Foregrounding [[Indigenous]] Sovereignty in Planning Theory and Practice. Unpublished PhD Disssertation.
+[[Toronto]]: University of [[Toronto]].
+Doumani, R., and P. Foran. [[2010]]. [[Ontario]] Planning Legislation and Commentary.
+Markham: LexisNexis.
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+17
+
+C A NA DIA N PL A N N I NG A N D P OL IC Y - A M É NAG E M E N T ET P OL I T IQU E AU C A NA DA
+
+Flanagan, T., C. Alcantra, and A. Le Dressay. [[2010]]. Beyond the [[Indian]] Act: Restoring
+[[Aboriginal]] Property Rights. Montreal: McGill-[[Queen]]’s University Press.
+Haida Nation v. [[British]] Columbia. (Minister of Forests) [[[2004]]] 3 S . C . R . 511.
+Harring, S. L. [[1992]]. “The Liberal Treatment of [[Indian]]s”: [[Native]] People in the Nineteenth Century [[Ontario]] Law. [[Saskatchewan]] Law Review, 56 (2): 297.
+Ipperwash Inquiry (Ont.). [[2007]]. Report of the Ipperwash Inquiry. Vol. 1-4. [[Toronto]]:
+Published by Ministry of the [[Attorney]] General, [[Queen]]’s Printer for [[Ontario]].
+(Commissioner: Sidney B. Linden).
+Jojola, T. [[2008]]. [[Indigenous]] Planning—An Emerging Context. [[Canadian]] Journal of
+Urban [[Research]], 17(1) Supplement: 37-47.
+Miller, J.R. [[2009]]. Compact, contract, covenant: [[Aboriginal]] [[treaty]]-making in [[Canada]].
+[[Toronto]]: University of [[Toronto]] Press.
+Mulkewich, J., and R. Oddie. [[2009]]. Con[[testing]] Development Democracy, and Justice
+in the Red Hill Valley. In Environ[[mental]] Conflict and Democracy in [[Canada]], ed.
+L. Adkin [[2009]], 243-261. [[Vancouver]]: UBC Press.
+Murray, C. [[2006]]. [[Aboriginal]] Consultation and [[Aboriginal]] [[Treaty]] Rights: Presentation
+to the Municipal Law Departments Association of [[Ontario]]. [[Ontario]]: Secretariat
+for [[Aboriginal]] Affairs.
+Neskonlith [[Indian]] Band v. The City of Salmon Arm et al., [[2012]], B C C A 379
+[[New]]man, D. [[2010]]. The Duty to Consult: [[New]] Relationships with [[Aboriginal]] Peoples.
+Saskatoon: Purich Publishing, Ltd.
+Obamsawin, A. [[1993]]. Kanehsatake: 270 Years of Resistance. Montreal: National Film Board.
+[[Ontario]]. Ministry of Municipal Affairs and Housing. [[2009]]. Municipal-[[Aboriginal]]
+Relationships: Case Studies. [[Toronto]]: [[Queen]]’s Printer of [[Ontario]].
+———. [[2010]]. Citizens’ Guides: Land Use Planning. [[Toronto]]: [[Queen]]’s Printer of [[Ontario]].
+———. [[2012]]. Local Government- Municipal Act. [[Toronto]]: [[Queen]]’s Printer of [[Ontario]].
+[[Ontario]] Planning Act. [[1990]]. http://www.e-laws.gov.on.ca/html/statutes/english/
+elaws_statutes_90p13_e.htm (Accessed 9 [[February]] [[2013]]).
+Peters, E. J. [[2002]]. “Our City [[Indian]]s”: Negotiating the Meaning of First Nations Urbanization in [[Canada]], [[1945]]-75. Historical Geography, 30: 75-92.
+———. [[2011]]. [[Aboriginal]] Public Policy in Urban Areas: An Introduction. In Urban
+[[Aboriginal]] Policy Making in [[Canadian]] Municipalities, ed. E. Peters [[2011]], 3-32.
+Montreal and [[King]]ston: McGill-[[Queen]]’s University Press.
+Porter, L. [[2010]]. Unlearning the Colonial Cultures of Planning. London: Ashgate.
+Promislow, J. [[2013]]. Irreconcilable? The Duty to Consult and Administrative Decision
+Makers. Constitutional Forum constitutionel, 22(1): 63-79
+
+18
+
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+C R OW N DU T Y TO C ON SU LT A N D ON TA R IO M U N IC I PA L- F I R ST NAT ION S R E L AT ION S
+
+R. v. Sparrow, [[[1990]]] 1 S . C . R 1075
+R. v. Van der Peet, [[[1996]]] 9 W. W. R . 1 (S . C . C )
+Rowinski, J. [[2009]]. Developing Approval: Consulting with First Nations about Land
+Use. Brooklin, ON: Law Office of John Rowinski.
+Smith, N. [[2008]]. First Nations’ Interest and the Municipality: City of Hamilton Experience. [[Toronto]]: [[Ontario]] Bar Association.
+Stanger-Ross, J. [[2008]]. Municipal Colonialism in [[Vancouver]]: Planning and the Conflict
+over [[Indian]] Reserves, [[1928]]-[[1950]]s. [[Canadian]] Historical Review, 89 (4): 541-580.
+Walker, R. C. [[2008]]. Improving the Interface between Urban Municipalities and
+[[Aboriginal]] Communities. [[Canadian]] Journal of Urban [[Research]], 17(1) Supplement: 20-36
+Walker, R.C, J. Moore, and M. Linklater. [[2011]]. More than Stakeholders, Voices and
+Tables: Towards Co-Production of Urban [[Aboriginal]] Policy in [[Manitoba]]. In
+Urban [[Aboriginal]] Policy Making in [[Canadian]] Municipalities, ed. E. Peters [[2011]],
+160-201. Montreal and [[King]]ston: McGill-[[Queen]]’s University Press.
+Williams, R. A. [[1994]]. Linking Arms Together: Multicultural Constitutionalism in a
+[[North]] [[America]]n [[Indigenous]] Vision of Law and Peace. [[California]] Law Review, 82
+(4): 981-1049.
+Williamson, Ron F., ed. [[2008]]. [[Toronto]]: A short illustrated [[history]] of its first 12,000
+years. [[Toronto]]: Lorimer.
+———. [[2010]]. Planning for [[Ontario]]’s Archeological Past: Accomplishments and Continuing Challenges. Revista de Arqueología [[America]]na, 28: 7-45.
+
+CIP-ICU
+
+CJUR 22:1 Supplement [[2013]]
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:03:53 UTC
+All use subject to https://about.jstor.org/terms
+
+19

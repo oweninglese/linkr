@@ -1,11 +1,10 @@
-
-```
+---
 title:
 created:
 tags:
 source:
 author:
-```
+---
 
 
 A Treaty Right to Education

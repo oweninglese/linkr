@@ -1,0 +1,37 @@
+---
+author: ohmanfoo
+created: '2022-09-15'
+source: '#todo'
+tags: ''
+title: Atlantic
+---[[Atlantic.md]]
+[[The Pestilence of American Colonialisms and the Emergence of an Exceptionalist Identity.md]]
+[[PropertyRights Competition and Depletion in the Eighteenth CenturyCanadian Fur Trade.md]]
+[[Empire byTreaty.md]]
+[[The American Civil War in the Making of Canadian Confederation.md]]
+[[The James Bayand Nisg̲a'a Agreements in Canada.md]]
+[[Indian Consumers and the Hudson's BayCompany.md]]
+[[SELF EMANCIPATED PEOPLE IN CANADA AND THE ANTEBELLUM POLITICS OF DIASPORA AND EMPIRE.md]]
+[[Learning and the Creation of Stock Market Institutions.md]]
+[[Three technologies people think precontact Native Americans didnt have that theyactuallydid.md]]
+[[The Leviathan of the North.md]]
+[[Another canada is possible.md]]
+[[Thinking with James Bay.md]]
+[[THE INTERNATIONAL INDIGENOUS PEOPLES’ MOVEMENT.md]]
+[[INDIGENOUS PEOPLES OF CANADA AND THE UNITED STATES OF AMERICA.md]]
+[[2022.md]]
+[[Rethinking Canada's Colonial Legacy.md]]
+[[The big con.md]]
+[[The US Peoples Delegation Takes on the Trump Administration.md]]
+[[Rethinking canada’s colonial legacy.md]]
+[[Aboriginal Right.md]]
+[[Migration and the Unmaking of America.md]]
+[[Canadian identity and the war of 1812.md]]
+[[The Big Con EN.md]]
+[[Canadian identityand the War of 1812.md]]
+[[Self emancipated people in canada and the antebellum politics of diaspora and empire.md]]
+[[The British Colonial Model in Ireland and Canada.md]]
+[[Canada as framework nation.md]]
+[[First Nations organizing leads to TransCanada Ending Its East EnergyEast Pipeline and Eastern Mainline proposals.md]]
+[[Mysterious brain syndrome stumps canadian doctors.md]]
+[[The global chessboard.md]]

@@ -1,0 +1,971 @@
+---
+author: ohmanfoo
+created: '2022-09-15'
+source: '#todo'
+tags: '#Canada #1971 #Huron #arctic #1970 #HBC #June #New #South #America #May #American
+  #July #Manitoba #Arctic #Treaty #Cree #August #Bay #Ottawa #1976 #March #Indian
+  #Toronto #North #1975 #1974 #history #kill #Europe #Winnipeg #French #Ontario #flu
+  #trade #aboriginal #1978 #research #Bishop #1600 #1649 #1650 #1680 #1694 #1700 #1713
+  #1714 #1716 #1717 #1720 #1734 #1750 #1754 #1755 #1763 #1766 #1767 #1774 #1821 #1830
+  #1907 #1961 #1962 #1964 #1969 #company #Northern #Southern #Saskatchewan '
+title: Historyand Archaeologyof the Northern Fur Trade
+---
+
+History and Archaeology of the Northern Fur Trade
+Author(s): Arthur J. Ray
+Source: American Antiquity , Jan., 1978, Vol. 43, No. 1 (Jan., 1978), pp. 26-34
+Published by: Cambridge University Press
+Stable URL: https://www.jstor.org/stable/279628
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Cambridge University Press is collaborating with JSTOR to digitize, preserve and extend access
+to American Antiquity
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:21:07 UTC
+All use subject to https://about.jstor.org/terms
+
+HISTORY AND ARCHAEOLOGY OF THE NORTHERN FUR TRADE
+
+ARTHUR J. RAY
+
+The econosnic he/be 1ior acid specialization ot 'Indiant gro1ps in 'olIved in the fiJr tr-ade of western Callada h
+1763 ar-e ex-aninled, an1d a spatial mtiodel ol tlie Jiur tr-ade is developed. The implications q 'Itdia,i economic
+
+behavior anid the spatial structure ol tlhe fuir trade for current archaeological research in the sub-Arctic anid
+nor-therni Plainis atreas are thle conisider-ed. It is posited that the niatiure of' the ear/l fur1 tratdde would leaid
+archaeologists to underestimnate the importance of thle protohistoric per-iod as ai time of rapid culture change,
+ainid inideed, make it difficult to identift this per-iod archaeologicall/.
+
+In their efforts to reconstruct regional culture histories, archaeologists, ethnohistorians,
+and historical geographers commonly employ a tripartite chronological scheme that
+
+includes prehistoric, protohistoric, and historic periods as the basic frames of referenc
+
+The protohistoric is regarded as the transitional period between the initial receipt of
+European goods by the aboriginal inhabitants of a region which signals the end of the
+prehistoric, and the arrival of Europeans in the area which marks the beginning of the
+historic period. The general assumption appears to be that the protohistoric was a time of
+comparatively slight change in material culture and that the extensive replacement of
+traditional wares with those of European manufacture did not begin until trading posts
+were established locally.
+
+Operating on this assumption, archaeologists have used the relative yields of European
+artifacts to determine whether a site is early or late protohistoric when C-14 dating cannot
+be used, and, when European wares are not datable precisely. If the latter can be dated
+and there are relatively few such items present at a site, the low yield is generally regarded
+as evidence that little change had taken place prior to the established date. This paper will
+examine these assumptions from the perspective of fur trade history. In particular,
+consideration will be given to the implications that the spatial structure of the fur trade,
+and the economic behavior of the Indians, could have for the yields of European artifacts
+in early post contact sites in the central and western Subarctic and northern Plains.
+THE SPATIAL STRUCTURE OF THE FUR TRADE
+
+After a relatively short period of adjustment following initial European contact, Indian
+groups began to assume rather specialized roles in the fur trade, serving primarily as
+
+provisioners, traders, or trappers (Heidenreich 1971:219-51; Heindenreich and Ray 1976;
+
+Innis 1964:20ff; Ray 1974:51-61). Consequently, the fur trading system developed a
+distinctive spatial structure and each trading post or point of contact was ringed with local,
+middleman, and indirect trade areas (Fig. 1). In the local trade areas the roles of hunter,
+trapper, and trader were not sharply differentiated and most Indian men served in all three
+capacities. However, because this zone was the closest to the post, it was quickly
+over-trapped and many Indians focused their activities on hunting game and fowl for the
+
+local provision market the Europeans provided. Since the post was nearby, Indians living
+
+in this zone could visit it more than once a year and they became very dependent upon
+Europeans for material items.
+
+At a greater distance from the centers of trade, the distribution of European goods and
+the supply of furs for the post was largely in the hands of Indian trade specialists, or
+middlemen. Indeed, Andrew Graham, one of the leading traders for the Hudson's Bay
+Company in the late 18th century, reported that less than ten percent of the Indians
+coming to York Factory and Fort Churchill acquired their furs through trapping activities.
+26
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:21:07 UTC
+All use subject to https://about.jstor.org/terms
+
+Ray]
+
+NORTHERN
+
+..
+
+FUR
+
+TRADE
+
+27
+
+:.:.:.:----------.:.:.1.
+
+-~~~~~~... . . .1
+
+uz ?---....Direct--------
+
+@ .-.-.-.--.-....-.*.- .-*.. . . . . .....@ ::::::
+
+....... .... .:.....
+(a Trdn Early Cont CotatPon
+
+......
+
+..
+
+...
+
+.
+
+a, ~ ~. . . . .
+2 .: .(a. X. ) Eal CntracTr bITad
+...
+........ : : .::::............................
+
+- | { g }............. Indircal Trade Zone
+.
+
+.
+
+.
+
+.
+
+-
+
+-
+
+-
+
+-
+
+-,..
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+f.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+...-----
+
+z .:. ~. .: . ..... . .. : 0 ]I Midlma Traden Zoto ontateo
+
+.
+
+,.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.....
+
+--
+
+A...''.'..
+...'....
+.. . ............................
+
+....... .. .........
+_. . . . . . . . . . . . ..:
+
+............ ~ ....................
+...........
+
+(b)~
+
+~
+
+~
+
+~
+
+~
+
+~~~~~~rdn
+
+Fig..... 1. Sptalmde .f.u.taeprt-hsorcpeid
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:21:07 UTC
+All use subject to https://about.jstor.org/terms
+
+Later
+
+28 AMERICAN ANTIQUITY [Vol. 43, No. 1,1978
+
+Rather, they obtained them mostly by tra
+1969:261). Generally, the area occupied by the middlemen was the region from which
+Indian trading parties could safely make one trip a year to the European posts.
+Beyond the middleman area lay the indirect trade region. For Indians living in this
+region, distance precluded any extensive trade because of the time required in transit and
+the shortness of the transportation season. Also, middlemen discouraged any direct
+contact by applying force to prevent it when necessary (Ray 1974:59-60). Thus, relatively
+few Indians ever visited the trading post from this zone.
+Although a pattern of trade similar to that outlined above no doubt existed during the
+early phases of European-Indian contact in many areas of North America, it has particular
+significance for the central and western subarctic because the key European group, the
+English, chose not to move inland for over a century after initially establishing themselves
+on the shores of Hudson and James Bays. Rather, as the critics of the Hudson's Bay
+Company charged, the company was content to "sleep by the frozen sea" and let the
+Indian middlemen bring the furs to the bay.
+Figure 2 shows the pattern of trade that had emerged in the central and western
+subarctic by 1700. The local trade area of the English on James Bay and the French at
+York Factory (which they renamed Fort Bourbon during their occupation of the post
+between 1694 and 1714), was centered on the Hudson Bay lowlands, which were largely
+occupied by the Cree groups who came to be known as the "Home Guard" or Swampy
+Cree. Journal and account book records of the Hudson's Bay Company indicate that these
+groups accounted for less than twenty percent of the total canoe traffic of the posts on the
+bay (Ray 1974:61-62; Journals of Fort Churchill [established 1717] PAC HBC B
+42/a/1-40). In the interior, the French continued to expand their St. Lawrence-based fur
+trade and had established small posts as far to the north and west as Lake Nipigon and
+Rainy Lake by the late 1680's (Ray, 1974:11). Nonetheless, most of the trade of the
+northern Ontario area that was funneled eastward was controlled by Cree and Ojibwa
+groups who occupied the northern and eastern shores of Lake Superior when the French
+trade expanded into the region following the fall of Huronia in 1649 (Heidenreich
+1971: Map 24: Bishop 1974:308-11, 332). Thus, northern Ontario was effectively part of the
+
+indirect trade area of the St. Lawrence-based French trade, and, also, was included in the
+
+middleman zone of the Hudson Bay-oriented trading network (Fig. 2).
+The 1713 Treaty of Utrecht brought French-English rivalries in Hudson Bay to an end
+leaving the Hudson's Bay Company in control of all of the posts on the bay. From 1713
+until 1774 the company adhered to its earlier policy of limiting its establishment of trading
+
+posts to the shores of Hudson Bay, and consequently, the bay-oriented trading system had
+
+changed very little by the middle of the eighteenth century (Fig. 3). However, being
+excluded from the bay, the French redoubled their efforts in the interior and attempted to
+cut the English company off from its hinterland. In the 1720s French posts were
+re-established along the north shores of Lake Superior; by 1734 establishments had been
+constructed in the vicinity of Lake Winnipeg and by the early 1750s French trading houses
+had been built on the Saskatchewan River (Fig. 3).
+Significantly, all of the major inland posts of the French skirted the shield country,
+which was not a primary fur area, and instead, they were located in the intertribal trade
+section of the middleman zone of the Hudson's Bay Company trading network. This
+territory was clearly the key to the system. The majority of the canoes that arrived at York
+
+Factory and Fort Churchill came from this region (zone IL-b of Fig. 3) (Ray 1974:62; PAC
+
+HBC B 42/a/1-40). Yet, by locating their posts in this vital sector, the French did not
+bypass the Assiniboine and Cree middlemen. Rather, they allowed the latter groups to
+collect their furs from their traditional trading partners (e.g., Mandan, Blood, Blackfoot,
+
+Gros Ventre, and Athabascan speaking groups) and intercepted them as they carried the
+
+furs to the English. Because of severe logistical constraints, the French were able only to
+skim off the best furs the middlemen carried, and in return, could supply them with a
+
+limited range of European goods, mostly items of relatively low bulk and high value (Ray
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:21:07 UTC
+All use subject to https://about.jstor.org/terms
+
+Ray]
+
+NORTHERN
+
+'
+
+O~g
+
+FUR
+
+85'
+
+TRADE
+
+29
+
+80/
+
+'Lca, Trade Area Ac>prox.rnate L-t
+'- Mdd1e ran Trade Area of 1nd,rect Tadd Area
+
+/
+
+A-
+
+Alba,,V
+
+HK,
+
+a-*d
+
+iX~~~~~~~~~~~~~~~~~~~~~~Y, Fit, H4 /- weo 8darted
+
+t 0 t { ~~~~~~~~~~Il-b '5
+
+Fig.
+
+2.
+
+Stewart Limited, Toronto, 1976.)
+
+English
+
+fur
+
+trade
+
+0 1 '4' " 0>A
+.
+
+,
+
+G
+
+1
+
+';1
+
+11)t
+
+Fig.
+2.
+MclladadStewart Limited, Toronto, 1976.)
+
+x
+
+t
+
+t
+
+Xg
+
+X
+
+>g
+
+EnlsFur
+
+trade,i
+
+Fig 3. Fu trad in wetr Caaa Ca 70.(.ErHterec n A. J.F HtRlay,d Te ear/nc Fur trades,t
+M \~ -YrFcCIv lneIIand a nd Stewat Limrited Toronoe17.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:21:07 UTC
+All use subject to https://about.jstor.org/terms
+
+30
+
+AMERICAN
+
+ANTIQUITY
+
+[Vol.
+
+43,
+
+No.
+
+1,
+
+1978
+
+1974:72-93). Therefore, the Hudson's Bay Company continued to dominate the fur and
+
+hide trade and supplied the Indians of the central and western subartic with the greatest
+
+part of their stocks of arms and munitions, metal goods, cloth and other key items.
+THE INDIAN MIDDLEMEN
+
+It is clear from the above that Indian middlemen played a central role in the fur trade of
+southern Manitoba, Saskatchewan, and Alberta from the late 17th to the late 18th
+centuries. These middlemen traders differed from their European counterparts in terms of
+their economic behavior. For example, unlike European merchants who purchased stocks
+of goods specifically for purposes of trade, the Indian middleman who arrived at the
+Hudson's Bay Company posts bought goods largely to satisfy his own demand. According
+to Andrew Graham, a typical Indian shopping list would be like the one shown in Table 1.
+Graham further relates that the consumer demand of the Indians was relatively fixed on a
+short term basis and efforts to increase consumption of European goods to stimulate a
+
+greater flow of furs in return largely failed (Williams 1969:263-64). Any furs in excess of
+the 70 that were required to meet basic needs were usually spent on items that could be
+
+consumed at the post, such as alcohol, rather than on additional utilitarian goods that
+could be taken into the interior.
+Since the middlemen refused to take any more goods than they could use themselves,
+even though the company traders encouraged them to do so (Williams 1969:263), it follows
+that most of the goods that the middlemen groups would have passed on to other inland
+trapping bands would have been used. The majority of the articles that changed hands in
+this "second-hand trade' would have been at least a year old given the fact that the
+middlemen obtained them at the trading posts in June, July, and August, but usually did
+not barter them away to other Indian groups until the following spring, normally between
+March and early May (Ray 1974:89-91). Nonetheless, when trafficking in this used
+merchandise, the Assiniboine and Cree middlemen exacted large price increases. This is
+clear from Table 2, which shows the prices that Andrew Graham said the Cree charged the
+Blackfoot in 1766 in comparison with those he claimed that the Hudson's Bay Company
+demanded from the Cree.
+The official prices that Graham cited as his basis for comparison do not give an entirely
+
+accurate picture since the traders at the post charged more than the official rates. An
+Table 1. Articles Usually Purchased by an Indian (from Williams 1969:277).
+Articles
+
+Number
+
+Gun
+
+Value
+
+1
+
+(in
+
+beaver)
+
+14
+
+Hatchets
+
+2
+
+Ice
+
+1
+
+Chisel
+
+2
+
+1
+Brazil Tobacco (Ibs) 712 10
+Knives
+4
+2
+Net
+
+for
+Fishing
+1
+4
+File
+1
+1
+Looking
+Glass
+1
+1
+
+Powder
+Shot
+
+(lbs)
+
+6
+
+20
+
+6
+
+5
+
+Powder
+
+Cloth
+
+Horn
+1
+1
+(yds)
+4
+12
+
+Comb
+
+1
+
+1
+
+Bayonet
+1
+1
+Awls
+and
+Firesteels
+6
+1
+Kettle
+1
+6
+Burning
+Glass
+1
+1
+Scissors
+
+Total
+
+1
+
+601/2
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:21:07 UTC
+All use subject to https://about.jstor.org/terms
+
+1
+
+70
+
+Ray]
+
+NORTHERN
+
+FUR
+
+TRADE
+
+31
+
+Table 2. A Comparison of Middlemen and Hudson's Bay Company Prices in 1976
+(from Williams 1969:257).
+
+Item HBCO price (in beaver) Cree price (in beaver) Markup (%)
+Gun
+14
+Hatchet
+
+50
+1
+6
+
+357
+600
+Kettle
+8
+20
+250
+Knife
+1/3
+4
+1200
+
+analysis of the account books for York Factory, the post to which Graham was referring,
+reveals that the unofficial, or de facto, rates were averaging about fifty percent higher
+than the official prices. Thus, even making allowances for the differences between the two
+pricing schedules in use by the Hudson's Bay Company, it is clear that the Indian
+middlemen were charging considerably more for European goods than they themselves
+were paying for them.
+
+In spite of these large markups that were being charged for what the Hudson's Bay
+Company traders termed "half wore" goods, the Assiniboine and Cree were able to
+dispose of their entire stock of trade goods each spring. For example, Anthony Henday
+witnessed the annual trade between the Assiniboine, Cree, and Blackfoot in the Red Deer
+River area of Southern Alberta during the spring of 1755. After this trade was concluded
+and the Assiniboine and Cree set out for York Factory in their canoes, Henday remarked:
+"We are above 60 Canoes and there are scarce a Gun, Kettle, Hatchet or Knife amongst
+
+us, having traded them with the Archithinue [Blackfoot]" (Burpee 1907:351). Hendays
+
+comment is of considerable significance because it suggests that even though the
+Assiniboine and Cree were exacting huge markups, they were still trading largely for
+replacement, not to amass big surplus stocks of European goods. By the time the trading
+parties set out for the European posts, they were virtually destitute of trade goods.
+This posed problems for these middlemen during the period the French held control of
+York Factory and during the early years of the Hudson's Bay Company re-occupation of
+the post (1714-1716). Supplies were unreliable at this time due to the late arrival of ships
+and the fact that the Europeans had not yet developed the practice of keeping a two years'
+supply of goods at the post to cover such emergencies. Thus, when the Hudson's Bay
+Company ship failed to arrive in the summer of 1716, some Assiniboine groups who had
+arrived from the head of the Churchill River complained that they would be killed by their
+own guns, which they had traded away on the expectation of obtaining new ones at the
+bay. They added that this had happened on several occasions during the French
+occupation and the Assiniboine claimed that they suffered heavy losses as a result.
+Thereafter, the company began the practice of keeping a two-year supply of all essential
+items on hand. The traders realized that unless they did so, they would lose the trade of
+these middlemen (York Factory Journals 1716-17, Public Archives of Canada, Hudson's
+Bay Company Collection [Microfilm] B 239/a/2-3. Thus, the trading network of the Indian
+middlemen appears to have been operating in a steady state condition during the 18th
+century. The flow of trade goods and furs was regulated by the relatively fixed consumer
+demand of the Assiniboine and Cree middlemen. Had these middlemen been willing and
+able to cater to the demands of their Indian trading partners living in the indirect trade
+region, there is little doubt that the total volume of exchange would have been much
+greater.
+ARCHAEOLOGICAL IMPLICATIONS
+
+It is clear that the manner in which the fur trade operated in central and western Canada
+until 1763 could have important implications for archaeological studies of post contact
+sites. For instance, it is generally assumed that as Indian groups adopted European trade
+goods, traditional technologies were abandoned. Thus, one would expect an inverse
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:21:07 UTC
+All use subject to https://about.jstor.org/terms
+
+32
+
+AMERICAN
+
+ANTIQUITY
+
+[Vol.
+
+43,
+
+No.
+
+1,
+
+1978
+
+correlation between the relative yields of aboriginal and European artifacts at post contact
+sites. As the latter increase the former should decrease. Operating on this assumption, it is
+common practice to regard sites with low European artifact yields as being early contact
+sites, and, or, ones in which relatively little culture change had occurred as a result of
+European influences.
+
+The problem, however, is that since the middlemen were passing on nearly all of their
+durable European goods as second hand items after a year or two of use, few of them
+would have been worn out and discarded locally. Rather, the majority of such trade goods
+would have been broken and thrown away in the indirect trade areas. On this basis it could
+be hypothesized that a regional population would first receive its European goods during
+the indirect trade phase, that many of these goods would be incomparatively poor
+condition resulting in a high breakage rate, and consequently, the archaeological yield of
+European wares from this phase would be relatively high. Subsequent yields would be
+lower during the middleman phase as the local population became involved in the trade
+directly. Once trading houses were established locally, the aboriginal inhabitants could no
+longer serve as middlemen. They became attached to a trading post obtaining and using
+European goods locally. Since articles were no longer being passed on, they would have
+been discarded locally. Thus, the archaeological yield of European artifacts would
+increase substantially from sites or horizons coincident with the beginning of the direct or
+local trade phase. The foregoing hypothesis has been diagrammed in Figure 4-a.
+Alternatively, and more likely, is the situation outlined in Figure 4-b. In this case, it is
+hypothesized that the indirect trade phase would not be evident archaeologically because
+
+the high breakage rate characteristic of this phase would be cancelled out by the spatial
+diffusion of the second hand European goods over a large indirect trade zone making local
+concentrations less likely. In either case, it is clear that the middlemen trade phase, which
+would account for most of what is traditionally regarded as the protohistoric, would be
+under-represented archaeologically leading culture historians to collapse their
+chronologies and underestimate the extent to which regional Indian cultures had been
+transformed prior to the beginning of the historic or local trade phase. Thus, the arrival of
+Europeans locally may in fact have little real significance for the rates of culture change.
+Instead, their arrival on the scene, by changing the structural arrangement of the fur trade,
+merely influenced the spatial disposition of trade wares the Indians had been accustomed
+to using for some time.
+Within this context, it is instructive to examine one of the key site reports for the
+western Manitoba area, that of the Grand Rapid reservoir. In his analysis of the historic
+phase of this area, Mayer-Oakes proposed dividing the historic period into the early
+historic, the early 17th through 18th century; the middle historic, constituting mostly the
+
+19th century; and the late historic, or 20th century. He postulated that the early historic
+
+phase he identified was a time when Indians obtained goods indirectly, chiefly guns and
+kettles, and indicated that the artifacts datable to this period accounted for only ten
+percent of those of the historic period (Mayer-Oakes 1970:289). Mayer-Oakes concluded
+that the middle historic phase was the time when the significant acculturation processes
+
+between Indians and Europeans began, especially after 1830, because 70-85 percent of all
+trade goods found at the site are datable to this period. On the basis of this evidence it was
+concluded that the most intensive Hudson's Bay Company-Indian trade took place at this
+time (Mayer-Oakes 1970:289-90). Evidence for the final historic phase was not very secure
+according to Mayer-Oakes and only 5-10 percent of the total historic goods recovered
+came from this phase (Mayer-Oakes 1970:290).
+
+A glance at Figures 2 and 3 shows that the lower Saskatchewan River (which includes
+
+the Grand Rapids Reservoir) would have been included in the middleman trade zone of the
+
+Hudson's Bay Company throughout the late 17th and most of the 18th century until
+
+Cumberland House was established at Cumberland Lake near the ManitobaSaskatchewan border in 1774. Prior to the latter date, between 56 and 66 percent of the
+inland canoe traffic of York Factory would have probably passed through the Grand
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:21:07 UTC
+All use subject to https://about.jstor.org/terms
+
+Ray]
+
+NORTHERN
+
+u
+
+100
+
+FUR
+
+TRADE
+
+33
+
+Lagged inverse correlation of
+
+up
+
+to
+
+years
+
+In
+
+the
+
+subarctic
+
+n7f/=m//
+
+LL Traditional items
+- -- European items
+0
+C
+
+<* PREH ISTORI C - * | PROTOH ISTORI C E|HISO
+PERIODS
+
+a. Site X (Case 1 -assuming high breakage rate during indirect
+phase is not nullified by great areal diffusion of artifacts.)
+0
+
+ul
+
+|
+
+Lagged
+
+Inverse
+
+correlation
+
+of
+
+up
+
+< ~~~~Traditional itemns\V////<
+O
+
+{
+
+-
+
+-
+
+-
+
+European
+
+.PREHISTORIC
+
+---*
+
+items\X
+
+PROTOHISTORIC
+
+-*
+
+--
+
+HISTORIC
+
+-
+
+b. Site X (Case 2-assuming high Initial breakage rate during
+
+indirect phase Is nullified by great areal diffusion of artifacts)
+Fig. 4. Model predicting artifact yields from historic and protohistoric sites.
+
+Rapids region (Ray [[1974]]:62). The total quantities of [[Europe]]an goods that these canoes
+would have carried through the region during the fifty year period between [[1720]] and [[1774]]
+is shown in Table 3. Given the volume of goods passing through the Grand Rapids region
+and the fact that local [[Indian]]s would have been involved in this traffic, it is safe to assume
+that the fur [[trade]] would have had a great impact on traditional cultures long before [[1830]]
+even though the archaeological data suggests otherwise. In fact, by the [[1830]]s, when the
+archaeological record seems to indicate intensive [[trade]] and acculturation began, the
+Grand Rapids region had become a backwater area in the fur [[trade]] due to prolonged over
+exploitation of its fur and game resources. By that time extensive depopulation had taken
+place, the Hudson's [[Bay]] Company was beginning to initiate conservation programs to
+restore the economy of the area, and the [[Indian]]s who remained were already heavily
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:21:07 UTC
+All use subject to https://about.jstor.org/terms
+
+34
+
+AMERICAN
+
+ANTIQUITY
+
+[Vol.
+
+43,
+
+No.
+
+1,
+
+[[1978]]]
+
+Table 3. Total Quantities of Goods Carried Inland from York Factory to the
+[[Saskatchewan]] River Region [[1720]]-74
+
+(from Ray [[1974]]:87).
+Reaching the [[Saskatchewan]]
+Trade goods Traded at York Factory 56% of York [[trade]] 66% of York [[trade]]
+Guns
+
+9,927
+
+5,559
+
+Powder 145,388 81,417
+Kettles
+14,780
+8,276
+Hatchets
+
+Knives
+
+39,365
+
+110,624
+
+6,551
+
+95,956
+9,754
+
+22,044
+
+25,980
+
+61,949
+
+73,011
+
+Broadcloth 473,440 yds 265,126 yds 312,470 yds
+
+Blankets
+6,954
+3,894
+4,589
+Beads 6,934 lbs 3,883 lbs 4,576 lbs
+
+dependent upon the Hudson's [[Bay]] Company for most of their basic necessities (Ray
+[[1974]]:193-204, 218; Ray [[1975]]:49-68).
+CONCLUSION
+
+This paper has attempted to consider the implications which the spatial structure of the
+early fur [[trade]] and the economic behavior of the [[Indian]]s operating in that system has for
+ethnohistorical-archaeological [[research]] in the central and western sub[[arctic]]. In particular,
+it is argued that [[Indian]] [[trade]] specialists, or middlemen as they are commonly called,
+dominated the [[trade]] for the first hundred years because the Hudson's [[Bay]] Company chose
+not to move inland in force to meet its opposition until [[1774]]. The [[Indian]] middlemen carried
+on a large volume of [[trade]] before that time, but because most of the intertribal [[trade]] in the
+interior involved exchanges of used [[trade]] goods for furs, a large proportion of all of the
+
+[[Europe]]an goods that entered the intertribal [[trade]] sector of the middleman zone eventually
+passed through the area into the indirect [[trade]] region. Therefore, the middleman phase
+
+will probably be under-represented at most sites. This appears to have been the case at the
+Grand Rapids site which was selected as an example.
+Acknowledgments. The author would like to thank the Hudson's [[Bay]] Company for granting him permission to
+consult and quote from the [[company]]'s microfilm collection on deposit in the Public Archives of [[Canada]], [[Ottawa]],
+[[Ontario]].
+
+[[Bishop]], Charles A.
+
+[[1974]] The northertn Ojibwva anid the hir tr-ade. Holt, Rinehart and Winston of [[Canada]], [[Toronto]].
+Burpee, L. J. (editor)
+
+[[1907]] Journal of a journey performed by Anthony Hendry to explore the country inland, and to endeavour to
+increase the Hudson's [[Bay]] Company's [[trade]], A. D., [[1754]]-[[1755]]. Transactions, Royal Society of [[Canada]],
+Series 3, Vol. 1, Section 2, pp. 307-61.
+
+Fort Churchill Journals, Public Archives of [[Canada]], Hudson's [[Bay]] Company Microfilm Collection, B 42/a/1-40.
+Heidenreich, Conrad E.
+
+[[1971]] Hrsotnia: a [[history]] (inid geography of the Hur0on [[Indian]]s, [[1600]]-[[1650]]. McClelland and Stewart, [[Toronto]].
+Heidenreich, Conrad E. and Arthur J. Ray
+
+[[1976]] The eat-N fiur [[trade]]s: a study in cuiltuiral interaction. McClelland and Stewart, [[Toronto]].
+Innis, Harold A.
+
+[[1964]] The fiir [[trade]] in [[Canada]]. 3rd printing, paperback edition, Yale University Press, [[New]] Haven.
+[[May]]er-Oakes, William J.
+
+[[1970]] Archaeological investigations in the Grand Rapids, Maniitoba Reservoir, [[1961]]-[[1962]]. University of
+[[Manitoba]] Press, [[Winnipeg]].
+Ray, Arthur J.
+
+[[1974]] [[Indian]]s in the fir [[trade]]. University of [[Toronto]] Press, [[Toronto]].
+[[1975]] Some conservation schemes of the Hudson's [[Bay]] Company, [[1821]]-50: an examination of the problems of
+resource management in the fur [[trade]]. Jouirnal of Historical Geography 1(1):49-68.
+Williams, G., (editor)
+
+[[1969]] Andrews Graham's observations on Huidson's Bav, [[1767]]-91. Hudson's [[Bay]] Record Society, London.
+York Factory Journals, [[1716]]-17. Public Archives of [[Canada]], Hudson's [[Bay]] Company Microfilm Collection, B
+239/al2-3.
+
+This content downloaded from
+192.30.202.8 on Fri, 16 Jul 2021 02:21:07 UTC
+All use subject to https://about.jstor.org/terms

@@ -1,0 +1,7 @@
+[[Anthony fauci lies to congress about funding ‘gain of function research’ at the wuhan institute of virology as he is grilled by rand paul.md]]
+[[The science suggests a wuhan lab leak.md]]
+[[Opinionthe science suggests a wuhan lab leak.md]]
+[[Three researchers from chinas wuhan institute of virology (wiv) sought hospital care in november 2019, a month before china reported the first cases of covid 19, the wall street journal reported on sunday, citing a u.s. intelligence report..md]]
+[[Soviets once denied a deadly anthrax lab leak. u.s. scientists backed the story..md]]
+[[Opinionare covid vaccines riskier than advertised.md]]
+[[Origin of covid following the clues.md]]

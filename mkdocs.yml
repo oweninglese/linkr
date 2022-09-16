@@ -1,0 +1,7 @@
+site_name: linkr
+site_description: A mkdocs backed reader for your files
+site_author: ohmanfoo
+site_url: https://ohmanfoo.github.io/linkr
+repo_url: https://ohmanfoo.github.io/linkr.git
+docs_dir: docs
+theme: readthedocs
