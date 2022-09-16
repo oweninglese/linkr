@@ -89,8 +89,9 @@ testfiles = [file for file in os.listdir(ARTS) if file.endswith(".md")]
 
 def do_for_all_file_and_tags() -> None:
     """
-    For each file in ARTS directory print the file name
-    and check for tags and write to tag files.
+    For each file in ARTS directory print the file name.
+
+    Check for tags and write to tag files.
     @returns None
     """
     for file in testfiles:
@@ -99,19 +100,17 @@ def do_for_all_file_and_tags() -> None:
         for tag in cleartags:
             with open(ARTS + testfile, 'r', encoding="utf-8") as reader:
                 contents = reader.read()
-                print(len(contents))
                 # 4) add tags to frontmatter
-                #   T.add_tag(testfile, tag)
+                T.add_tag(testfile, tag)
                 # 5) add tags to tag files
-                #   T.link_tags(testfile, tag)
+                T.link_tags(testfile, tag)
                 # 6) if tag in content make subs
-                #   check_tags_and_write(tag, contents)
+                check_tags_and_write(tag, contents)
 
     def check_tags_and_write(tag, afile):
-        """ check for tag and write to tag file
-        """
+        """Check for tag and write to tag file."""
         if tag in afile:
             print(f'tag : {tag} in file : {testfile}')
 
-        with open(ARTS + tag + ".md", 'a', encoding="utf-8") as text:
-            text.write(f"[[{testfile}]]\n")
+            with open(ARTS + tag + ".md", 'a', encoding="utf-8") as text:
+                text.write(f"[[{testfile}]]\n")
