@@ -1,9 +1,9 @@
 #!/usr/bin/python
-""" tools.py - tools for tags and links
+"""tools.py - tools for tags and links.
 
-    Returns:
-        _type_: None
- """
+Returns:
+_type_: None
+"""
 import os
 import re
 from datetime import date
@@ -12,7 +12,7 @@ from typing import Any, Match, Pattern
 import frontmatter as fm
 import markdown
 
-from .config import Config as C
+from config import Config as C
 
 ARTS = C['ARTS']
 TFILE = C['TFILE']

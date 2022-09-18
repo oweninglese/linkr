@@ -1,23 +1,24 @@
 #!/usr/bin/python
 
-"""_summary_ of the module
-    1) set up the config file GLOBALS
-    2) print the config file GLOBALS
-    3) Read the tags file and create a list of tags
-    4) From List of tags create file per tag
-    5) Read the articles folder and create a list of articles
-    6) If article has tag, add article to tag file
-    7) If article has tag, add tag to article file
-    8) If article has tag, add tag to files tag list
+"""Test creation of files and tags.
+
+1) set up the config file GLOBALS
+2) print the config file GLOBALS
+3) Read the tags file and create a list of tags
+4) From List of tags create file per tag
+5) Read the articles folder and create a list of articles
+6) If article has tag, add article to tag file
+7) If article has tag, add tag to article file
+8) If article has tag, add tag to files tag list
 """
 import os
-import re
-from datetime import date
-import config as C
-import frontmatter as fm
-import tools as T
 
-CONFIG = C.Config
+import frontmatter as fm
+
+from config import Config as C
+import tools
+
+CONFIG = C
 
 ARTS = CONFIG['ARTS']
 AUTHOR = CONFIG['AUTHOR']
@@ -37,20 +38,8 @@ print(f"ARTDIR : {ARTDIR}")
 print(f"BASEDIR : {BASEDIR}")
 print(f"TAGSPATH : {TAGSPATH}")
 
-with open(TAGSPATH, 'r') as tagsfile:
+with open(TAGSPATH, 'r', encoding="utf-8") as tagsfile:
     TAGS = tagsfile.read().splitlines()
-
-
-def resub(tag: str, line: str) -> str:
-    """
-    Replace the tag with the line from the file.
-
-    @param tag - the tag to replace with the line from the file.
-    @param line - the line from the file.
-    @returns the line with the tag replaced with the line from the file.
-    """
-    return re.sub(tag, f"[[{tag}]]", line)
-
 
 ALLTAGS = [word for line in TAGS for word in line.split(',')]
 cleartags = [tag.strip(" ") for tag in ALLTAGS]
@@ -60,9 +49,9 @@ while "" in cleartags:
 ALLTAGS = []
 
 
-def fm_allfolder() -> None:
+def init_all_files_with_fm() -> None:
     """
-    Load all md files in TESTDIR and append the author,
+    Load all md files in TESTDIR and append the author.
 
     source, tags, created, and title.
     @returns None
@@ -94,8 +83,8 @@ def do_for_all_file_and_tags() -> None:
     Check for tags and write to tag files.
     @returns None
     """
-    T.create_tagfiles(cleartags)
-    fm_allfolder()
+    tools.create_tagfiles(cleartags)
+    init_all_files_with_fm()
     for file in testfiles:
         check_tags_and_write(file, cleartags)
     for testfile in testfiles:
@@ -103,9 +92,9 @@ def do_for_all_file_and_tags() -> None:
             with open(ARTS + testfile, 'r', encoding="utf-8") as reader:
                 contents = reader.read()
                 # 4) add tags to frontmatter
-                T.add_tag(testfile, tag)
+                tools.link_tags.add_tag(testfile, tag)
                 # 5) add tags to tag files
-                T.link_tags(testfile, tag)
+                tools.link_tags(testfile, tag)
                 # 6) if tag in content make subs
                 check_tags_and_write(tag, contents)
 
