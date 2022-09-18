@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#!/usr/bin/python
 """general config."""
 from datetime import date
 import os

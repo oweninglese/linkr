@@ -60,26 +60,6 @@ def checkforend(testfile: str) -> Match[str]:
     return end
 
 
-def md_to_html(mdfile: str) -> str:
-    """
-    Take a markdown file and convert it to html.
-
-    @param md - the markdown file to convert to html
-    @returns the html file
-    """
-    with open(os.path.abspath('docs') +
-              '/' + mdfile + '.md',
-              'r', encoding="utf-8") as filer:
-        text = filer.read()
-        html = markdown.markdown(text)
-    with open(os.path.abspath('static') +
-              '/' + mdfile +
-              '/index.html',
-              'w', encoding="utf-8") as fuler:
-        fuler.write(html)
-    return str(html)
-
-
 def link_tags(file: str, tag: str) -> None:
     """
     Given a file and a tag, link the tag to the file.

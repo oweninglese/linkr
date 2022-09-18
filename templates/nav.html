@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+    {% block navi %}
+        {% for letter in nav %}
+        <p>{ letter }</p>
+        {% for item in letter %}
+            <p>{{ item|e }}</p>
+        {% endfor %}
+    {% endblock %}
