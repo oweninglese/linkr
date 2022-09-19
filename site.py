@@ -18,7 +18,6 @@ ARTSDIR = C['ARTDIR']
 BASEDIR = C['BASEDIR']
 ALPH = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 BUCKETS = [[i] for i in ALPH]
-
 testfiles = [file for file in os.listdir(BASEDIR
                                          + ARTSDIR) if file.endswith(".md")]
 

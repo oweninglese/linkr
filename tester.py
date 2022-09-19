@@ -83,6 +83,14 @@ def do_for_all_file_and_tags() -> None:
     Check for tags and write to tag files.
     @returns None
     """
+
+    def check_tags_and_write(tag, afile):
+        """Check for tag and write to tag file."""
+        if tag in afile:
+            print(f'tag : {tag} in file : {testfile}')
+            with open(ARTS + tag + ".md", 'a', encoding="utf-8") as text:
+                text.write(f"[[{testfile}]]\n")
+
     tools.create_tagfiles(cleartags)
     init_all_files_with_fm()
     for file in testfiles:
@@ -97,11 +105,3 @@ def do_for_all_file_and_tags() -> None:
                 tools.link_tags(testfile, tag)
                 # 6) if tag in content make subs
                 check_tags_and_write(tag, contents)
-
-    def check_tags_and_write(tag, afile):
-        """Check for tag and write to tag file."""
-        if tag in afile:
-            print(f'tag : {tag} in file : {testfile}')
-
-            with open(ARTS + tag + ".md", 'a', encoding="utf-8") as text:
-                text.write(f"[[{testfile}]]\n")
