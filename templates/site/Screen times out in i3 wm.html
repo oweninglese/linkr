@@ -1,0 +1,30 @@
+{% extends 'index.html' %}
+	{% block file %}
+<hr />
+<p>author: ohmanfoo
+created: '2022-09-15'
+source: '#todo'
+tags: ''
+title: Screen times out in i3 wm</p>
+<hr />
+<h1>i3 wm - Screen times out in i3 WM - Ask Ubuntu</h1>
+<blockquote>
+<h2>Excerpt</h2>
+<p>I love i3 for obvious reasons (light, maxing screen size, ability to customize). However, my screen times out after five minutes of inactivity. I would like to turn this off, how?</p>
+</blockquote>
+<p>I've got i3 on u...</p>
+<hr />
+<p>X.org has some basic screen saver functionality as well as energy saving features. Most likely either or both are responsible for the described behavior.</p>
+<p>The settings for both can be viewed and changed with the <code>xset</code> tool (from the <code>x11-xserver-utils</code> package). <code>xset q</code> displays the current settings in the sections <em>Screen Saver</em> and <em>DPMS (Energy Star)</em>.</p>
+<p>You can disable the screen saver feature with:</p>
+<p><code>xset s off</code></p>
+<p>The power saving feature can be turned off with</p>
+<p><code>xset -dpms</code></p>
+<p>With these settings the screen should no longer turn off or blank automatically until you reboot your machine.</p>
+<hr />
+<p>If your main concern is that 5 minutes are to short, you can also just raise the limits for that. To enable the screen saver only after 15 minutes (900 seconds) idle time, set the timeout accordingly with</p>
+<p><code>xset s 900</code></p>
+<p>To turn off the monitor after 20 minutes of idling run</p>
+<p><code>xset dpms 0 0 1200</code></p>
+<p>The two <code>0</code> values disable <em>standby</em> and <em>suspend</em> respectively, while <code>1200</code> sets the timeout for <em>off</em> to 20 minutes. (I usually do not use <em>standby</em> or <em>suspend</em> because there seems to be no difference between the three modes on modern TFT-displays.) Setting these values also enables <em>DPMS</em>, so you do not need to explicitly run <code>xset +dpms</code>.</p>
+	{% endblock %}

@@ -1,0 +1,436 @@
+{% extends 'index.html' %}
+	{% block file %}
+<hr />
+<p>author: ohmanfoo
+created: '2022-09-15'
+source: '#todo'
+tags: '#Canada #property #Italy #2002 #France #science #Technology #Ottawa #database
+  #Europe #2000 #2009 #computer #science #2001 #CIA #companies #Wikipedia '
+title: sparql cheat sheet</p>
+<hr />
+<p>SPARQL By Example:
+The Cheat Sheet
+Ac[[companies]] slides at:</p>
+<p>http://www.cambridgesemantics.com/semantic-university/sparql-by-example
+Comments &amp; questions to:</p>
+<p>Lee Feigenbaum <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#108;&#101;&#101;&#64;&#99;&#97;&#109;&#98;&#114;&#105;&#100;&#103;&#101;&#115;&#101;&#109;&#97;&#110;&#116;&#105;&#99;&#115;&#46;&#99;&#111;&#109;">&#108;&#101;&#101;&#64;&#99;&#97;&#109;&#98;&#114;&#105;&#100;&#103;&#101;&#115;&#101;&#109;&#97;&#110;&#116;&#105;&#99;&#115;&#46;&#99;&#111;&#109;</a>
+VP Marketing &amp; [[Technology]], Cambridge Semantics
+Co-chair, W3C SPARQL Working Group</p>
+<p>Conventions
+Red text means:
+“This is a core part of the SPARQL syntax or
+language.”
+Blue text means:
+“This is an example of query-specific text or
+values that might go into a SPARQL query.”</p>
+<p>Nuts &amp; Bolts
+URIs</p>
+<p>Write full URIs:
+<a href="http://this.is.a/full/URI/written#out">http://this.is.a/full/URI/written#out</a></p>
+<p>Abbreviate URIs with prefixes:
+PREFIX foo: <a href="http://this.is.a/URI/prefix#">http://this.is.a/URI/prefix#</a>
+… foo:bar …
+ http://this.is.a/URI/prefix#bar</p>
+<p>Literals</p>
+<p>Plain literals:</p>
+<p>“a plain literal”</p>
+<p>Plain literal with language tag:
+“bonjour”@fr
+Typed literal:
+“13”^^xsd:integer</p>
+<p>Shortcuts:
+a</p>
+<p></p>
+<p>Shortcuts:</p>
+<p>rdf:type</p>
+<p>true  “true”^^xsd:boolean
+3
+
+“3”^^xsd:integer
+4.2  “4.2”^^xsd:decimal</p>
+<p>Variables</p>
+<p>Comments
+Variables:</p>
+<p>?var1, ?anotherVar, ?and_one_more</p>
+<p>Comments:</p>
+<h1>Comments start with a „#‟ and</h1>
+<h1>continue to the end of the line</h1>
+<p>Triple Patterns
+Match an exact RDF triple:
+ex:myWidget ex:partNumber “XY24Z1” .
+Match one variable:
+?person foaf:name “Lee Feigenbaum” .
+Match multiple variables:
+conf:SemTech[[2009]] ?[[property]] ?value .</p>
+<p>Common Prefixes
+prefix...</p>
+<p>…stands for</p>
+<p>rdf:</p>
+<p>http://xmlns.com/foaf/0.1/</p>
+<p>rdfs:</p>
+<p>http://www.w3.org/[[2000]]/01/rdf-schema#</p>
+<p>owl:</p>
+<p>http://www.w3.org/[[2002]]/07/owl#</p>
+<p>xsd:</p>
+<p>http://www.w3.org/[[2001]]/XMLSchema#</p>
+<p>dc:</p>
+<p>http://purl.org/dc/elements/1.1/</p>
+<p>foaf:</p>
+<p>http://xmlns.com/foaf/0.1/</p>
+<p>More common prefixes at http://prefix.cc</p>
+<p>Anatomy of a Query
+Declare prefix
+shortcuts
+(optional)</p>
+<p>Define the
+dataset (optional)</p>
+<p>Query modifiers
+(optional)</p>
+<p>PREFIX foo: &lt;…&gt;
+PREFIX bar: &lt;…&gt;
+…
+SELECT …
+FROM &lt;…&gt;
+FROM NAMED &lt;…&gt;
+WHERE {
+…
+}
+GROUP BY …
+HAVING …
+ORDER BY …
+LIMIT …
+OFFSET …
+VALUES …</p>
+<p>Query result
+clause</p>
+<p>Query pattern</p>
+<p>4 Types of SPARQL Queries
+SELECT queries</p>
+<p>CONSTRUCT queries</p>
+<p>Project out specific variables and expressions:
+SELECT ?c ?cap (1000 * ?people AS ?pop)
+Project out all variables:
+SELECT *</p>
+<p>Project out distinct combinations only:
+SELECT DISTINCT ?country
+Results in a table of values (in XML or JSON):
+?c</p>
+<p>?cap</p>
+<p>?pop</p>
+<p>ex:[[France]]</p>
+<p>ex:Paris</p>
+<p>63,500,000</p>
+<p>ex:[[Canada]]</p>
+<p>ex:[[Ottawa]]</p>
+<p>32,900,000</p>
+<p>ex:[[Italy]]</p>
+<p>ex:Rome</p>
+<p>58,900,000</p>
+<p>ASK queries</p>
+<p>Construct RDF triples/graphs:
+CONSTRUCT {
+?country a ex:HolidayDestination ;
+ex:arrive_at ?capital ;
+ex:population ?population .
+}
+Results in RDF triples (in any RDF serialization):
+ex:[[France]] a ex:HolidayDestination ;
+ex:arrive_at ex:Paris ;
+ex:population 635000000 .
+ex:[[Canada]] a ex:HolidayDestination ;
+ex:arrive_at ex:[[Ottawa]] ;
+ex:population 329000000 .</p>
+<p>DESCRIBE queries</p>
+<p>Ask whether or not there are any matches:</p>
+<p>Describe the resources matched by the given variables:
+DESCRIBE ?country</p>
+<p>Result is either “true” or “false” (in XML or JSON):
+true, false</p>
+<p>Result is RDF triples (in any RDF serialization) :
+ex:[[France]] a geo:Country ;
+ex:continent geo:[[Europe]] ;
+ex:flag <a href="http://…/flag-france.png">http://…/flag-france.png</a> ;
+…</p>
+<p>ASK</p>
+<p>Combining SPARQL Graph Patterns
+Consider A and B as graph patterns.
+A Basic Graph Pattern – one or more triple patterns
+A . B
+ Conjunction. Join together the results of solving A and B by matching the
+values of any variables in common.
+Optional Graph Patterns</p>
+<p>A OPTIONAL { B }
+ Left join. Join together the results of solving A and B by matching the
+values of any variables in common, if possible. Keep all solutions from A whether or
+not there’s a matching solution in B</p>
+<p>Combining SPARQL Graph Patterns
+Consider A and B as graph patterns.
+Either-or Graph Patterns
+{ A } UNION { B }
+ Disjunction. Include both the results of solving A and the results of
+solving B.
+“Subtracted” Graph Patterns (SPARQL 1.1)
+A MINUS { B }
+ Negation. Solve A. Solve B. Include only those results from solving A that
+are not compatible with any of the results from B.</p>
+<p>SPARQL Subqueries (SPARQL 1.1)
+Consider A and B as graph patterns.
+A .
+{
+SELECT …
+WHERE {</p>
+<p>B
+}
+}
+C .
+ Join the results of the subquery with the results of solving A and C.</p>
+<p>SPARQL Filters
+• SPARQL FILTERs eliminate solutions that do not cause an
+expression to evaluate to true.
+• Place FILTERs in a query inline within a basic graph pattern
+A . B . FILTER ( …expr… )</p>
+<p>Category</p>
+<p>Functions / Operators</p>
+<p>Logical &amp;
+Comparisons</p>
+<p>!, &amp;&amp;, ||, =, !=, &lt;, &lt;=, &gt;,</p>
+<blockquote>
+<p>=, IN, NOT IN</p>
+</blockquote>
+<p>?hasPermit || ?age &lt; 25</p>
+<p>Conditionals</p>
+<p>EXISTS, NOT EXISTS, IF,
+COALESCE</p>
+<p>NOT EXISTS { ?p foaf:mbox ?email }</p>
+<p>Math</p>
+<p>+, -, *, /, abs, round,
+ceil, floor, RAND</p>
+<p>?decimal * 10 &gt; ?minPercent</p>
+<p>Strings</p>
+<p>STRLEN, SUBSTR, UCASE,
+LCASE, STRSTARTS, CONCAT,
+STRENDS, CONTAINS,
+STRBEFORE, STRAFTER</p>
+<p>STRLEN(?description) &lt; 255</p>
+<p>now, year, month, day,
+hours, minutes, seconds,
+timezone, tz</p>
+<p>month(now()) &lt; 4</p>
+<p>SPARQL tests</p>
+<p>isURI, isBlank,
+isLiteral, isNumeric,
+bound</p>
+<p>isURI(?person) || !bound(?person)</p>
+<p>Constructors
+(SPARQL 1.1)</p>
+<p>URI, BNODE, STRDT,
+STRLANG, UUID, STRUUID</p>
+<p>STRLANG(?text, “en”) = “hello”@en</p>
+<p>Accessors</p>
+<p>str, lang, datatype</p>
+<p>lang(?title) = “en”</p>
+<p>Hashing (1.1)</p>
+<p>MD5, SHA1, SHA256, SHA512</p>
+<p>BIND(SHA256(?email) AS ?hash)</p>
+<p>Miscellaneous</p>
+<p>sameTerm, langMatches,
+regex, REPLACE</p>
+<p>regex(?ssn, “\d{3}-\d{2}-\d{4}”)</p>
+<p>(SPARQL 1.1)</p>
+<p>(SPARQL 1.1)</p>
+<p>Date/time
+(SPARQL 1.1)</p>
+<p>Examples</p>
+<p>Aggregates (SPARQL 1.1)
+?key</p>
+<ol>
+<li>Partition results into
+groups based on the
+expression(s) in the
+GROUP BY clause</li>
+<li>Evaluate projections
+and aggregate functions
+in SELECT clause to get
+one result per group</li>
+<li>Filter aggregated
+results via the HAVING
+clause</li>
+</ol>
+<p>?val</p>
+<p>?other1</p>
+<p>1</p>
+<p>4</p>
+<p>…</p>
+<p>1</p>
+<p>4</p>
+<p>…</p>
+<p>2</p>
+<p>5</p>
+<p>…</p>
+<p>2</p>
+<p>4</p>
+<p>…</p>
+<p>2</p>
+<p>10</p>
+<p>…</p>
+<p>2</p>
+<p>2</p>
+<p>…</p>
+<p>2</p>
+<p>1</p>
+<p>…</p>
+<p>3</p>
+<p>3</p>
+<p>…</p>
+<p>?key</p>
+<p>?sum_of_val</p>
+<p>1</p>
+<p>8</p>
+<p>2</p>
+<p>22</p>
+<p>3</p>
+<p>3</p>
+<p>?key</p>
+<p>?sum_of_val</p>
+<p>1</p>
+<p>8</p>
+<p>3</p>
+<p>3</p>
+<p>SPARQL 1.1 includes: COUNT, SUM, AVG, MIN, MAX, SAMPLE, GROUP_CONCAT</p>
+<p>Property Paths (SPARQL 1.1)
+• Property paths allow triple patterns to match arbitrarylength paths through a graph
+• Predicates are combined with regular-expression-like
+operators:
+Construct</p>
+<p>Meaning</p>
+<p>path1/path2</p>
+<p>Forwards path (path1 followed by path2)</p>
+<p>^path1</p>
+<p>Backwards path (object to subject)</p>
+<p>path1|path2</p>
+<p>Either path1 or path2</p>
+<p>path1*</p>
+<p>path1, repeated zero or more times</p>
+<p>path1+</p>
+<p>path1, repeated one or more times</p>
+<p>path1?</p>
+<p>path1, optionally</p>
+<p>!uri</p>
+<p>Any predicate except uri</p>
+<p>!^uri</p>
+<p>Any backwards (object to subject) predicate except uri</p>
+<p>RDF Datasets
+A SPARQL queries a default graph (normally) and zero or
+more named graphs (when inside a GRAPH clause).
+Default graph
+(the merge of zero or more graphs)
+ex:g1</p>
+<p>ex:g4</p>
+<p>Named graphs
+ex:g3
+ex:g1
+OR
+OR</p>
+<p>ex:g2</p>
+<p>PREFIX ex: &lt;…&gt;
+SELECT …
+FROM ex:g1
+FROM ex:g4
+FROM NAMED ex:g1
+FROM NAMED ex:g2
+FROM NAMED ex:g3
+WHERE {
+… A …
+GRAPH ex:g3 {
+… B …
+}
+GRAPH ?graph {
+… C …
+}
+}</p>
+<p>SPARQL Over HTTP (the SPARQL Protocol)
+http://host.domain.com/sparql/endpoint?<parameters>
+where <parameters> can include:
+query=<encoded query string>
+e.g. SELECT+*%0DWHERE+{…
+default-graph-uri=<encoded graph URI>
+e.g. http%3A%2F%2Fexmaple.com%2Ffoo…
+n.b. zero of more occurrences of default-graph-uri
+named-graph-uri=<encoded graph URI>
+e.g. http%3A%2F%2Fexmaple.com%2Fbar…
+n.b. zero of more occurrences of named-graph-uri</p>
+<p>HTTP GET or POST. Graphs given in the protocol override graphs given in the
+query.</p>
+<p>Federated Query (SPARQL 1.1)</p>
+<p>Local Graph Store</p>
+<p>ex:g1</p>
+<p>SPARQL Endpoint</p>
+<p>ex:s1
+Web
+SPARQL Endpoint</p>
+<p>ex:s2</p>
+<p>PREFIX ex: &lt;…&gt;
+SELECT …
+FROM ex:g1
+WHERE {
+… A …
+SERVICE ex:s1 {
+… B …
+}
+SERVICE ex:s2 {
+… C …
+}
+}</p>
+<p>SPARQL 1.1 Update
+SPARQL Update Language Statements
+INSERT DATA { triples }
+DELETE DATA {triples}
+[ DELETE { template } ] [ INSERT { template } ] WHERE { pattern }
+LOAD <uri> [ INTO GRAPH <uri> ]
+CLEAR GRAPH <uri>
+CREATE GRAPH <uri>
+DROP GRAPH <uri></p>
+<p>[ … ] denotes optional parts of SPARQL 1.1 Update syntax</p>
+<p>Some Public SPARQL Endpoints
+Name</p>
+<p>URL</p>
+<p>What’s there?</p>
+<p>SPARQLer</p>
+<p>http://sparql.org/sparql.html</p>
+<p>General-purpose query
+endpoint for Web-accessible
+data</p>
+<p>DBPedia</p>
+<p>http://dbpedia.org/sparql</p>
+<p>Extensive RDF data from
+[[Wikipedia]]</p>
+<p>DBLP</p>
+<p>http://www4.wiwiss.fu-berlin.de/dblp/snorql/</p>
+<p>Bibliographic data from
+[[computer]] [[[[science]]]] journals
+and conferences</p>
+<p>LinkedMDB</p>
+<p>http://data.linkedmdb.org/sparql</p>
+<p>Films, actors, directors,
+writers, producers, etc.</p>
+<p>World
+Factbook</p>
+<p>http://www4.wiwiss.fuberlin.de/factbook/snorql/</p>
+<p>Country statistics from the
+[[CIA]] World Factbook</p>
+<p>bio2rdf</p>
+<p>http://bio2rdf.org/sparql</p>
+<p>Bioinformatics data from
+around 40 public [[database]]s</p>
+<p>SPARQL Resources
+• SPARQL Specifications Overview
+– http://www.w3.org/TR/sparql11-overview/</p>
+<p>• SPARQL implementations
+– http://esw.w3.org/topic/SparqlImplementations</p>
+<p>• SPARQL endpoints
+– http://esw.w3.org/topic/SparqlEndpoints</p>
+<p>• SPARQL Frequently Asked Questions
+– http://www.thefigtrees.net/lee/sw/sparql-faq</p>
+<p>• Common SPARQL extensions
+– http://esw.w3.org/topic/SPARQL/Extensions</p>
+	{% endblock %}

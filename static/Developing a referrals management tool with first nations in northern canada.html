@@ -1,0 +1,711 @@
+{% extends 'index.html' %}
+	{% block file %}
+<hr />
+<p>author: ohmanfoo
+created: '2022-09-15'
+source: '#todo'
+tags: '#Canada #1997 #government #September #November #2016 #New #America #May #colonialism
+  #2002 #Aboriginal #science #July #King #2015 #2020 #2017 #Israel #2005 #Treaty #treaty
+  #2019 #August #Brunswick #1973 #representative #Ottawa #2003 #Vancouver #Crown #1994
+  #March #indigenous #Toronto #mental #health #North #mining #kill #2006 #database
+  #British #Europe #Winnipeg #Africa #Science #2013 #2010 #2000 #2011 #014 #Programming
+  #February #Canadian #Ontario #aboriginal #testing #2009 #science #research #Research
+  #Google #2022 #2001 #1763 #companies #War #Territories #Indigenous #Saskatchewan '
+title: Developing a referrals management tool with first nations in northern canada</p>
+<hr />
+<h1>Developing a referrals management tool with First Nations in northern Canada</h1>
+<blockquote>
+<h2>Excerpt</h2>
+<p>Converts PDF files to Markdown.</p>
+</blockquote>
+<hr />
+<h2>UCL Press</h2>
+<h2>Chapter Title: Developing a referrals management tool with First Nations in northern [[Canada]]: an iterative programming approach</h2>
+<h2>Chapter Author(s): Jon Corbett and Aaron Derrickson</h2>
+<h2>Book Title: Geographic Citizen [[Science]] Design</h2>
+<h2>Book Subtitle: No one left behind</h2>
+<h2>Book Editor(s): Artemis Skarlatidou, Muki Haklay</h2>
+<h2>Published by: UCL Press. (2021)</h2>
+<h2>Stable URL: https://www.jstor.org/stable/j.ctv15d8174.</h2>
+<p>JSTOR is a not-for-profit service that helps scholars, [[research]]ers, and students discover, use, and build upon a wide</p>
+<p>range of content in a trusted digital archive. We use information technology and tools to increase productivity and</p>
+<p>facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.</p>
+<p>Your use of the JSTOR archive indicates your acceptance of the Terms &amp; Conditions of Use, available at</p>
+<p>https://about.jstor.org/terms</p>
+<p><code>This book is licensed under a Creative Commons Attribution 4.0 International License (CC
+BY 4.0). To view a copy of this license, visit
+https://creativecommons.org/licenses/by/4.0/.</code></p>
+<p><code>UCL Press is collaborating with JSTOR to digitize, preserve and extend access to Geographic
+Citizen [[Science]] Design</code></p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</p>
+<p><code>209</code></p>
+<h2>Jon Corbett and Aaron derrickson</h2>
+<h2>Highlights</h2>
+<ul>
+<li>There is a need for an open-source digital tool to support [[Canadian]]<br />
+  First Nation communities to communicate more effectively with<br />
+  industries in regard to proposed resource extraction projects.</li>
+<li>Gather was the result of an iterative, responsive and ‘just-in-time’<br />
+  approach to co-design a geographic citizen [[[[science]]]] data gathering<br />
+  and management tool.</li>
+<li>The Gather software and the latest version of the tool diverged from<br />
+  the programming team’s initial ideas as a result of the co-design<br />
+  process.</li>
+<li>Implementation challenges tended not to be technical or design<br />
+  focused. Rather, they related to the individuals and organisations<br />
+  involved in the project, and the sensitivity of the information being<br />
+  handled.</li>
+</ul>
+<h2>1. Introduction</h2>
+<p>All proposed resource development projects in [[Canada]], whether a new<br />
+mine or a major new piece of infrastructure, are required to consult with<br />
+the [[indigenous]] parties that will be impacted by the work. This referral<br />
+process has emerged as the result of a series of precedent-setting court</p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p>210 GEOGRAPHIC CITIZEN SCIENCE DESIGN</p>
+<p><code>cases which found that the Provincial and Federal [[Crown]]^1 have a legal
+duty to consult and, where necessary, accommodate First Nation^2 com-
+munities (Harris [[2006]]) when development activities are being carried
+out within their traditional territories (Ecotrust [[Canada]] [[2017]]). Regard-
+less of scale, the First Nation who has rights on the land where the devel-
+opment will take place is given the opportunity to examine the proposed
+project for potential adverse environ[[mental]], economic, social, heritage
+and [[health]] impacts that may occur during the project life cycle. The pro-
+cess is rigorous and often involves extensive documentation provided by
+the proponents, who in turn draw on the expertise of specialist consult-
+ants. In [[British]] Columbia, once a referral is submitted, the First Nation
+must respond with written comments within a 20-day period. If the
+review cannot be completed within this time frame, the [[government]]
+notes that the proponent has fulfilled their obligatory duty to consult
+with the community.
+With the continued and growing presence of large-scale resource
+development (particularly [[mining]] and forestry operations) in northern
+[[Canada]], First Nation communities are becoming overwhelmed by the
+obligation to manage, review and respond to these impact assessment
+proposals (Power [[2017]]). First Nation leaders and community lands
+departments recognise a clear need to [[research]], design, develop, imple-
+ment and evaluate affordable tools that could streamline the duty to
+consult between [[government]], proponents and communities, as well as
+facilitate community decision making related to the referral process. In
+[[2015]], several First Nation communities and their [[representative]]s
+approached the Spatial Information for Community Engagement (SpICE)
+lab at the University of [[British]] Columbia seeking the development of a
+web-based tool that might be used to improve their capacity to under-
+stand the extent of all proposed resource developments, as well as man-
+age and respond to the referrals. The project also involved the co-design,
+development and implementation of a mobile app to enable community
+members to collect spatial information on their contemporary use of lands
+and resources. This information in turn can be accessed and viewed using
+a map interface by community lands department members and commu-
+nity leaders in order to inform lands-related decision-making processes.
+This chapter describes the development and initial implementation of
+‘Gather: The referral management tool’ that we co-designed to address
+these needs.</code></p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p><code>dEvELoPing A rEfErrALS MAnAgEMEnt tooL in nortHErn CAnAdA 211</code></p>
+<h2>2. Supporting First Nations’ land-management needs</h2>
+<h3>2.1 Context</h3>
+<p>Speaking in general terms, First Nations throughout [[Canada]] have a<br />
+unique, respectful and stewardship-focused relationship with the lands<br />
+on which they live (Berkes, Folke and Colding [[2000]]; Turner, Ignace and<br />
+Ignace [[2000]]). This relationship has developed over millennia. It directly<br />
+contributes to the social, cultural, economic, subsistence, [[health]] and spir-<br />
+itual well-being of First Nation communities throughout the country<br />
+(Berkes [[2017]]). Traditional knowledge, languages, cultural practices and<br />
+oral traditions are all connected to the land (Alfred and Corntassel [[2005]]).<br />
+[[Europe]]an colonisation and settlement in [[Canada]] have profoundly chal-<br />
+lenged this relationship. Over the past 125 years, resource industries have<br />
+harvested and sold natural resources from First Nation lands (Angell and<br />
+Parkins [[2011]]). These businesses have become major drivers for the Cana-<br />
+dian economy and employment.<br />
+The Royal Proclamation, signed in [[1763]] by [[King]] George III, has<br />
+helped shape the legal relationship between the [[Crown]] and First Nations.<br />
+The Proclamation implicitly recognises First Nations as owners of their<br />
+lands, and in doing so, it provides the basis of the legal recognition of<br />
+their rights to land (Borrows [[1994]]). In [[1973]], the Supreme Court of Can-<br />
+ada, through the Calder decision, recognised that [[aboriginal]] title existed<br />
+in law, and therefore could be enforced (Foster, Raven and Webber [[2011]]).<br />
+That decision was followed in [[1997]] with the Delgamuukw and Gisday’way,<br />
+as well as Sparrow and Tsilhqot’in, decisions that found that [[aboriginal]]<br />
+title was something substantive and robust and should be considered ‘a<br />
+right to the land itself’ (Morse [[2017]]). These court cases are significant<br />
+because they mean that the provincial and federal [[government]]s now have<br />
+a legal duty to consult and, where necessary, accommodate First Nation<br />
+groups when development activities are being carried out within their<br />
+traditional territories.<br />
+It is important to note that although the duty to consult can be con-<br />
+flictual in nature (Zietsma et al. [[2002]]; Hayter [[2003]]), most levels of gov-<br />
+ernment as well as industry leaders have accepted that consultation with<br />
+First Nations is a legal, necessary and important aspect of doing business<br />
+with First Nations (Joseph [[2015]]) on First Nation territory. Furthermore,<br />
+many businesses conduct their own engagement process with [[indigenous]]<br />
+communities as a part of their project planning before they apply for<br />
+regulatory approvals ([[Canadian]] Chamber of Commerce [[2016]]). This<br />
+often involves establishing relationships with community decision makers</p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p>212 GEOGRAPHIC CITIZEN SCIENCE DESIGN</p>
+<p><code>and including them in initial project planning processes and developing
+impact and benefit agreements (Gogal, Reigert and Jamieson [[2005]];
+Caine and Krogman [[2010]]). This is done to help avoid the delay or cancel-
+lation of projects that might occur if consultation only takes place during
+the formal referral process.
+The consequence of this legal requirement to consult is that many
+small First Nations, often operating with limited staff and resources, have
+been overwhelmed by the number of referrals that they receive daily. It
+has proven to be a major logistical and administrative challenge to organ-
+ise, prioritise, analyse and respond to these referrals in a meaningful and
+effective way (Ecotrust [[Canada]] [[2017]]). This is especially the case in smaller,
+more geographically remote communities where most resource develop-
+ment projects take place in [[Canada]]. For example, in 2[[014]], Saulteau First
+Nations (SFN), a community in northern [[British]] Columbia, received more
+than 3,500 applications referred by federal, provincial and local govern-
+ments. The current procedural requirements within the regulatory pro-
+cess oblige SFN to assign significant resources to manage, review and
+respond to each referral. This process also necessitates understanding the
+spatial extent of the proposed development intervention and how it poten-
+tially impacts the traditional and contemporary uses of the land. Pres-
+ently, the capacity for SFN to acknowledge the infringement of their
+[[indigenous]] and [[treaty]] rights from a proposed development in an effec-
+tive and timely way is both limited and costly.
+A number of proprietary software tools have been, and continue to
+be, developed in response to this challenge. A report written in [[July]] 
+by Ecotrust [[Canada]] and the [[Aboriginal]] Mapping Network identified eight
+software applications used in 44 different communities around the prov-
+ince of [[British]] Columbia. Most of these tools included a mapping compo-
+nent to the software, but none directly linked their software platforms to
+community-contributed geographic citizen [[[[science]]]] information. The
+report further identified several critical challenges to implementing and
+using this software. These were related to access to training, usability,
+licensing costs, updates and software bugs. There are currently no open-
+source tools to facilitate the management of the referral process at the
+community level, nor are there any examples of where software has been
+co-developed from inception with the communities who use them.
+In [[2017]], community members from the Wabun Tribal Council
+(WTC), SFN, the Firelight Group and the SpICE lab began to co-develop
+a web-based collaborative tool referred to as ‘Gather: The referrals man-
+agement tool’ (hereafter ‘Gather’). From its inception, we intended Gather
+to be an open-source, free to implement, easy to set up, intuitive to use,</code></p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p><code>dEvELoPing A rEfErrALS MAnAgEMEnt tooL in nortHErn CAnAdA 213</code></p>
+<p>extendible and integrated contemporary geographic citizen [[[[science]]]] tool.<br />
+It was designed to capture data that could provide evidence to the gov-<br />
+ernment and industry that community members are still active land stew-<br />
+ards and that resource extraction activities would impinge on their current,<br />
+and not just historical, livelihood activities. At the time of writing this<br />
+chapter, we have finished an initial draft of Gather and its associated<br />
+smartphone data-collection applications. Because of this, we can only<br />
+talk about the development of the tool and share some of the challenges<br />
+and barriers to the tool’s design, development and pilot launch. We do<br />
+not yet have any specific examples of interaction and uptake in the field.</p>
+<h3>2.2 Partners</h3>
+<p>The WTC is the regional [[representative]] for the First Nations of [[Brunswick]]<br />
+House, Chapleau Ojibway, Flying Post, Matachewan, Mattagami and Bea-<br />
+verhouse. These communities are located in north-eastern [[Ontario]] (see<br />
+Figure 10.1). The WTC’s Board of Directors comprises the chiefs of the<br />
+six communities. The WTC work in the fields of [[health]], education, eco-<br />
+nomic development and resource development. WTC staff are responsi-<br />
+ble for negotiating [[mining]] development agreements in collaboration with<br />
+community leaders and acting as a point of contact for project propo-<br />
+nents and as a liaison in communications between [[government]], industry<br />
+and the communities.<br />
+SFN are located in Moberly Lake, northern [[British]] Columbia (see<br />
+Figure 10.1) and are a [[Treaty]] 8 First Nation. [[Treaty]] 8 territory covers<br />
+approximately 840,000 km^2 in what is now northern Alberta, north-east-<br />
+ern [[British]] Columbia, north-western [[Saskatchewan]] and the southern-<br />
+most portion of the [[North]]west [[Territories]]. The [[Treaty]] provides the SFN<br />
+membership with (among other things) the constitutionally protected<br />
+right to hunt, fish and trap, and to gain a livelihood from the lands and<br />
+resources within [[Treaty]] 8 territory. As SFN notes in its [[2015]] Comprehen-<br />
+sive Community Plan, ‘Practicing our [[Treaty]] Rights provides our people<br />
+with the means for a rich spiritual, social, and economic life. The land<br />
+and the activities carried out upon the land connect our people to their<br />
+past and provide them with the resources they need to build a [[health]]y,<br />
+stable, culturally rich future’ (Saulteau First Nations [[2015]], 7). Although<br />
+SFN were a key project partner during the initial stages of the project<br />
+design, staff turnover has meant that they are no longer involved in the<br />
+ongoing development of Gather.<br />
+The Firelight Group are a consulting group that works with indige-<br />
+nous and local communities throughout [[Canada]] and internationally. They</p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p>214 GEOGRAPHIC CITIZEN SCIENCE DESIGN</p>
+<p><code>work in collaboration with many First Nation communities to provide
+[[research]], policy, planning, negotiation and advisory services. Their work
+focuses on culture, [[health]], socio-economics, ecology and governance to
+support the rights and interests of [[indigenous]] communities. Firelight are
+driven by the principles of participation and capacity building. They
+funded the initial stages of developing Gather through their Social Return
+fund.
+The SpICE lab, based at the University of [[British]] Columbia, Okanagan,
+partners with [[Canadian]] and international communities to co-develop,
+deploy and evaluate digital participatory mapping tools. The lab’s part-
+nerships are framed within the practice of community-based [[research]]
+and represent a collaborative enterprise between [[research]]ers and commu-
+nity members. The SpICE lab’s [[research]] programme explores questions
+related to how digital mapping technologies and associated processes
+impact [[indigenous]] and vulnerable communities, and whether these tech-</code></p>
+<p><code>Fig. 10.1 Location of Gather project partners.
+Source: author.</code></p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p><code>dEvELoPing A rEfErrALS MAnAgEMEnt tooL in nortHErn CAnAdA 215</code></p>
+<p>nologies can effectively capture – and add value and authority to – local<br />
+knowledge.</p>
+<h3>2.3 Project methodology</h3>
+<p>Because of the nature of the partners involved, the project is grounded in<br />
+the paradigms of [[indigenous]] methodologies (Kovach [[2010]]; Smith [[2013]])<br />
+and community-based [[research]] ([[Israel]] et al. [[2001]]; Minkler and Waller-<br />
+stein [[2011]]). This means that all aspects of this project (design, evalua-<br />
+tion, extension and outreach) are conducted in a reciprocal and an<br />
+empowering manner; the outcomes are of tangible benefit to the part-<br />
+nering First Nations; and community members feel a strong sense of own-<br />
+ership over the co-design process and the final technology. In concrete<br />
+terms, this has meant that the programming team responded directly to<br />
+the needs and concerns of our community partners. The community part-<br />
+ners became the principal architects and designers for Gather. This co-<br />
+design approach involved all actors in the project. We did not record any<br />
+of our meetings, as our intent was not for our process to be considered a<br />
+[[research]] exercise. Rather, we focused on the design of the tool itself and<br />
+its functionality. For this reason, we are not interested in conveying the<br />
+personal thoughts or details of the meetings, or in the geographic citizen<br />
+[[[[science]]]] data gathered using the tool. Once the tool is operational, we will<br />
+consider evaluating its usefulness, in which case we will be bound by our<br />
+university’s [[research]] ethics board requirements. However, we are not yet<br />
+at that point of deployment in the community.<br />
+Over the summer of [[2017]] ([[May]]–[[August]]), we co-designed and co-<br />
+developed the first iteration of Gather with the WTC and the lands man-<br />
+agers from the Beaverhouse First Nation, [[Brunswick]] House First Nation,<br />
+Chapleau Ojibway First Nation, Flying Post First Nation and Matachewan<br />
+First Nation, as well as the referrals team from SFN. We held a five-day<br />
+workshop in Timmins and a two-day workshop in Chetwynd with repre-<br />
+sentatives from the lands department. We used the materials produced<br />
+from these sessions to co-design the first draft of Gather. We continued to<br />
+meet regularly through videoconferencing. We also met for a third one-<br />
+day workshop in [[Winnipeg]], which was held prior to the [[Indigenous]] Map-<br />
+ping Workshop ([[November]] [[2017]]). During these community workshops,<br />
+participants discussed their specific concerns and needs, including how<br />
+the software should look and function to address the varying require-<br />
+ments of each community.<br />
+Our design and development process was based on a ‘just-in-time’<br />
+iterative programming approach (WikiWikiWeb [[2005]]). In other words,</p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p>216 GEOGRAPHIC CITIZEN SCIENCE DESIGN</p>
+<p><code>during the workshops, we would focus on developing only the immedi-
+ate requirements and functionality identified as being important by the
+participants. This meant that in the mornings, we discussed and planned
+the application’s functionality and workflow. During the afternoon and
+evenings, the programming and digital design team coded Gather. Each
+day, the team reported back, were offered additional suggestions and then
+adapted the draft tool to meet those further recommendations. By the
+end of the workshops, we had developed a partially functioning version
+of Gather. As a result of this approach, participants were considerably
+invested in the design of the tool and continued to work with the pro-
+gramming team on its subsequent (and ongoing) development. Overall,
+it was a successful and fulfilling – though at times exhausting – experience
+in community engagement.</code></p>
+<h2>3. Creating Gather</h2>
+<h3>3.1 initial intent</h3>
+<p><code>Prior to commencing the design and development workshops, we envi-
+sioned the creation of a web-based platform that would focus on two user
+groups: members of First Nation lands departments and industry propo-
+nents. The tool would allow First Nation lands department members to
+manage existing community traditional land-use data and also to view
+the spatial intersection of proposed development projects and traditional
+and contemporary community land uses. The software and associated
+[[database]]s could sit on University of [[British]] Columbia, community-located
+or cloud-based servers, depending on the server management capacity
+within the community and the availability of high-bandwidth hardware.
+Industry proponents would upload all the project proposal documenta-
+tion, including letters and permits, as well as a SHP (a common spatial
+file type used by GIS software) or KML (the spatial file type used in [[Google]]
+Maps and other web mapping applications) file delineating the spatial
+extent of the project. Lands department members would then overlay the
+industry spatial extent file on top of their traditional use data and thus
+have a clear visual representation of the impact of proposed projects on
+the social, cultural, economic, subsistence, [[health]] and spiritual well-being
+of the community and its membership (see Figure 10.2).
+We wanted the user interface (UI) to be straightforward and intui-
+tive, and for the tool itself to facilitate a semi-automated workflow built
+around a structured set of predetermined steps. As specific steps are com-
+pleted in the lands department’s workflow, automated messages are sent</code></p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p><code>dEvELoPing A rEfErrALS MAnAgEMEnt tooL in nortHErn CAnAdA 217</code></p>
+<p>to the industry proponent who can monitor their proposed project as it<br />
+moves through the community decision-making process. Thus, both the<br />
+lands department – through a more efficient referral management system –<br />
+and industry – through having an increased ability to monitor their indi-<br />
+vidual proposals – benefit from the tool.<br />
+Our design and development workshops largely supported our ini-<br />
+tial ideas, with one notable exception. Lands department members clearly<br />
+recognised the need to include all members of the community in the pro-<br />
+ject in order to encourage their engagement in the referrals process and<br />
+to contribute their own information related to contemporary community<br />
+use of the lands and resources. This helped to articulate clearly the need<br />
+for Gather to be usable for three unique user groups, each with their own<br />
+distinct set of needs and ways in which they interact with the system. In<br />
+other words, there was a need for Gather to enable:</p>
+<ul>
+<li>Community members to volunteer and selectively share informa-<br />
+  tion pertaining to their contemporary use of the land through an<br />
+  intuitive mobile phone-based geographic citizen [[[[science]]]] data-<br />
+  collection app;</li>
+</ul>
+<p><strong>Fig. 10.2</strong> Hypothetical example of the extent of an industry-proposed<br />
+project, represented by the grey polygon, overlaying community-<br />
+contributed geographic information.<br />
+Source: Gather app. Credit: Spatial Information for Community<br />
+Engagement Lab (SpICE). Basemap © [[Google]] Maps.</p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p>218 GEOGRAPHIC CITIZEN SCIENCE DESIGN</p>
+<ul>
+<li>Community lands department managers and technicians to review,<br />
+  manage, delegate and respond to referrals, and produce reports that<br />
+  help clarify how proposed projects impact both traditional and con-<br />
+  temporary land uses; and</li>
+<li>Industry to standardise their referral submission process and track<br />
+  the review of their referrals within the community’s workflow.</li>
+</ul>
+<h3>3.2 ui design</h3>
+<p><code>Gather’s initial UI design was loosely built around previous online par-
+ticipatory geographic applications developed over the past 12  years in
+the SpICE lab. The referrals document management functionality was
+built directly into a map interface and made accessible through a single
+web page view (see Figure 10.3). The specific interactive functions avail-
+able through the UI varied according to the three unique user groups
+(lands department, community member and industry). At its most basic
+level, this meant that lands department members would see and interact
+with a set of controls, queries and functions that supported the manage-
+ment and response to referrals; these controls were not visible to the other
+two user groups. Lands department members could also view commu-</code></p>
+<p><code>Fig. 10.3 Referrals management tool – initial map-centric information
+management interface.
+Source: Gather app. Credit: SpICE. Basemap © [[Google]] Maps.</code></p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p><code>dEvELoPing A rEfErrALS MAnAgEMEnt tooL in nortHErn CAnAdA 219</code></p>
+<p>nity geographic citizen [[[[science]]]] contributions. Community members could<br />
+see and comment on their own and other community member contribu-<br />
+tions, but they could not interact with the referral data. Industry could<br />
+only view their own referrals and no other information.<br />
+The programming team’s prior experience developing online map-<br />
+ping tools meant that our initial draft of Gather was map-centric. Referral<br />
+data were managed entirely through the map interface, and data-manage-<br />
+ment tools were associated with icons and drop-down menus built around<br />
+the outside edges of the map (see Figure 10.3). After the community co-<br />
+design workshops, the UI was redesigned to focus on projects, tasks and<br />
+deadlines (see Figure 10.4). The map still plays an important role, but its<br />
+significance is muted, and it is only accessible when viewing informa-<br />
+tion about a specific project. This change was made because of the limi-<br />
+tations of the map interface for filtering and viewing large numbers of<br />
+proposed projects (sometimes in the thousands).</p>
+<h3>3.3 Mobile app</h3>
+<p>At the outset of the project, the programming team were focused on devel-<br />
+oping a tool that would be exclusively browser based and used primarily<br />
+by lands department members and secondarily by industry and govern-<br />
+ment proponents. This browser-based approach meant that the tool would<br />
+function on any operating system and not require any specialised soft-<br />
+ware, and that it would support the ability to share the same information<br />
+seamlessly between different user groups, as well as have a low entry<br />
+cost. After working directly with the lands managers, we modified the<br />
+system to include the development and integration of a mobile geographic<br />
+citizen [[[[science]]]] app to enable community members to volunteer (i.e. cap-<br />
+ture and share) examples of contemporary land use from the territory<br />
+using their own smartphones. Data could be collected by community<br />
+members at any time of the year and act as a repository of current and<br />
+relevant community land-use practices. This required developing both<br />
+iOS and Android apps that could be used by resource managers, hunters<br />
+and community members to record and share their activities.<br />
+Lands managers considered this to be of the upmost importance<br />
+because the data could be used to provide evidence to the [[government]]<br />
+and industry that community members are still active land stewards and<br />
+that any resource extraction activity would impinge on their current, not<br />
+just historical, livelihood activities. However, the design, development<br />
+and use of a geographic citizen [[[[science]]]] app to support data collection<br />
+in northern [[Canada]] present their own sets of challenges. These include</p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p><code>Fig. 10.</code></p>
+<p><code>Redesigned referrals management tool interface.</code></p>
+<p><code>Source: Gather app. Credit: SpICE.</code></p>
+<p>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</p>
+<p><code>dEvELoPing A rEfErrALS MAnAgEMEnt tooL in nortHErn CAnAdA 221</code></p>
+<p>limited (and largely non-existent) connectivity, the need to program for<br />
+a broad range of devices (due to both the age of the devices and the pres-<br />
+ence of multiple operating system versions) and issues related to [[testing]],<br />
+training and app distribution. We recognise that these are common issues<br />
+in information and communications technology for development projects<br />
+around the world (Rashid and Elder [[2009]]; Aker and Mbiti [[2010]]) that<br />
+have been addressed through the development of tools, such as Sapelli<br />
+or ODK (Open Data Kit), which are open source, offer mobile data collec-<br />
+tion and can operate offline. However, we chose to develop our own suite<br />
+of apps, partially to develop the long-term s[[kill]]s and capacity in the SpICE<br />
+lab to offer these services to our partners, but also to ensure data consist-<br />
+ency and interoperability with our project servers, [[database]]s and design<br />
+components.</p>
+<h2>4. Challenges to the community’s interaction</h2>
+<h2>with the tool</h2>
+<p>Throughout the design, development and initial implementation stages<br />
+of Gather, we have both realised and constantly been reminded of the<br />
+needs and challenges of working with multiple users handling sensitive<br />
+[[indigenous]] information in digital form in a politically contentious envi-<br />
+ronment. It should be further noted that each community partner has<br />
+differing experiences with industry proponents, which in turn means that<br />
+each partner has a specific set of needs; this is reflected in the variations<br />
+in functionality required for the tool. We discuss these barriers and chal-<br />
+lenges in this section.</p>
+<h3>4.1 the challenge of getting people to use the software</h3>
+<p>The project has benefitted from a high level of participation by First Nation<br />
+land managers and community leaders. These groups were closely<br />
+involved in the co-design of both the overall project as well as the specific<br />
+software functionality. They are champions of the software both within<br />
+the community as well as in other [[indigenous]] communities in [[Canada]]<br />
+through presenting the tool at gatherings, such as the [[Indigenous]] Map-<br />
+ping Workshop. However, anecdotal evidence shows that it is hard for<br />
+them to introduce and encourage the use of mobile geographic citizen<br />
+[[[[science]]]] apps within their own communities. This is partially due to lim-<br />
+ited connectivity and many people in remote areas not having access to<br />
+high-speed mobile Internet. However, it is also difficult to persuade</p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p>222 GEOGRAPHIC CITIZEN SCIENCE DESIGN</p>
+<p><code>people that their contributions are important and useful for lands depart-
+ment managers and can be used to inform community decision making.
+This remains a constant challenge. Furthermore, many of the community
+members that continue to use the land for hunting, fishing and medicine
+gathering tend to be older and are often less likely to use a mobile phone.
+There is a need for the champions to communicate better the purpose of
+data gathering to community members, as well as to express the impor-
+tance of the community’s contributions and how their data will be used.</code></p>
+<h3>4.2 tension with commercial operations</h3>
+<p><code>One of the challenges we had not anticipated at the beginning of the pro-
+ject was the tensions that emerged between our development team and
+commercial referral management software providers. One business con-
+tacted us several times about Gather’s functionality, and expressed con-
+cern about the composition of our project partnerships. They were
+especially uneasy about the role of the Firelight Group in the project,
+who they felt had a conflict of interest and an unfair business advantage
+through their involvement with our university-based programming
+team. This did help us understand that within the university, we have
+advantages regarding institutional support and access to resources that
+are not available to many small businesses. The business was also con-
+cerned that the software being made available as an open-source prod-
+uct that is freely available might undermine the business model of small
+[[companies]] offering referral management tools to other First Nation com-
+munities. This tension is hard for us to reconcile. On one hand, we under-
+stand the importance of not under[[mining]] small business, but on the
+other, we recognise that many small rural First Nations are overwhelmed
+with the number of referrals, and they lack the financial and human
+resources to respond effectively to this challenge. After discussions
+between project partners and the university, we held true to our original
+objectives of making Gather open source and freely available. We also
+invited the concerned business to examine and use our open-source soft-
+ware to augment their own offerings.</code></p>
+<h3>4.3 difficulty of creating generic software applications</h3>
+<p><code>Given the varying histories of the relationships between [[indigenous]] peo-
+ples, industry and the [[Crown]], as well as the nature and/or scope of dif-
+fering proposed projects, it is unrealistic to expect that the referrals process
+will be same for First Nations throughout [[Canada]]. The WTC, for exam-</code></p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p><code>dEvELoPing A rEfErrALS MAnAgEMEnt tooL in nortHErn CAnAdA 223</code></p>
+<p>ple, had a close and long-term working relationship with several [[mining]]<br />
+interests in their region. Therefore, they expected Gather to be a useful<br />
+tool to store and access existing project referral documentation and engage<br />
+community members through the mobile app. They did not view Gather<br />
+as a tool to structure their relationship with existing partnering indus-<br />
+tries. In contrast, SFN deals with a far greater number of industry propo-<br />
+nents, many of whom they do not have a relationship with. They hoped<br />
+that Gather would provide a structured approach to dealing with indus-<br />
+try. The SFN Lands Department already had a clear set of regulations and<br />
+protocols which systematised the ways in which they managed and<br />
+responded to referrals. SFN wanted Gather to emulate these protocols in<br />
+order to create greater efficiencies in their dealings with industry propos-<br />
+als and the [[Crown]].<br />
+In past projects, the SpICE lab has focused on custom code design<br />
+for projects that involve a limited number of partners. However, because<br />
+of the varying circumstances and different needs within different com-<br />
+munities involved in this project, there was limited agreement about the<br />
+specific functions required to manage large numbers of referrals. For some<br />
+of our project partners, Gather provides a rudimentary set of limited func-<br />
+tions; for others, the software provides too many functions, making it<br />
+overly complicated and difficult to implement. It has become important<br />
+to be able to articulate and communicate clearly who the software is tar-<br />
+geting and how they might use it. We decided it should be aimed at small<br />
+communities with limited resources; it is not designed for large commu-<br />
+nities that receive many thousands of referrals a year.</p>
+<h3>4.4 Mistrust between [[representative]]s and communities</h3>
+<p>There is often a naivety among university [[research]]ers working with First<br />
+Nations, particularly in regards to understanding ongoing community–<br />
+[[government]] tensions, such as those found when addressing issues of<br />
+land claims and land-use studies, as well as internal community tensions<br />
+related to the identification of community priorities through to the nature<br />
+of the information that members should be volunteering. This complexity<br />
+increases as more communities become involved in the design and devel-<br />
+opment of the technology. The programming team did not have the lux-<br />
+ury of remaining uninvolved in these tensions. We often had to engage in<br />
+soft mediation during decision-making sessions, which usually involved<br />
+offering technical solutions to human concerns. This was particularly the<br />
+case around how community information is managed and accessed and<br />
+by whom.</p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p>224 GEOGRAPHIC CITIZEN SCIENCE DESIGN</p>
+<h3>4.5 Limitations of our map-centric approach</h3>
+<p><code>As noted above, this project required us to rethink our cartographic per-
+spective. The referrals management tools were originally built directly
+into a map interface and made accessible through a single web page view,
+but the space constraints of this UI were too limiting. Nor did the tight UI
+allow for the management of specific tasks related to projects. Our rede-
+signed UI tried to mimic the steps of the SFN’s existing workflow and
+tasks associated with managing each referral using a series of tabs with
+the addition of a task management tool (see Figure  10.4). Ultimately,
+this meant that the interface was considerably more textual in nature,
+and the role of the map was diminished. This forced us to rethink our
+approach to the significance of the geographic component and the geo-
+graphic citizen [[[[science]]]] data. This has also helped us to increase the range
+of software services that we can offer in other community-engaged
+[[research]] projects.</code></p>
+<h3>4.6 Challenges of including [[government]] and industry</h3>
+<p><code>At the beginning of the project, we envisioned that Gather would be as
+useful for [[government]] and industry proponents as for First Nations. The
+tool currently supports the uploading of industry referrals as both digital
+text documents and spatial files (SHP and KML). However, we have found
+it difficult to secure the participation of [[government]] and industry in the
+project. Often, these actors are innovation averse and tied into their own
+existing data-management systems. However, perhaps the explicit role
+reversal of Gather – in other words, First Nations taking control of the
+means and processes by which information is shared – might act as a fur-
+ther challenge to these proponents’ involvement. In the next phase, we
+will more directly consult industry and develop strategic partnerships to
+ensure that the interface and workflow align with their existing data pro-
+tocols and processes.</code></p>
+<h2>5. Conclusions</h2>
+<p><code>When we set out to design Gather, we did not intend that this would be a
+commercial undertaking. Our motivations were driven by the clear need
+to develop open-source software that can be used in small rural First
+Nation communities to help them address the overwhelming nature of
+the referrals process. Many of these communities do not have either the
+financial or human resources to be able to deploy and use often complex</code></p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p><code>dEvELoPing A rEfErrALS MAnAgEMEnt tooL in nortHErn CAnAdA 225</code></p>
+<p>proprietary software. Our community partners also clearly recognised the<br />
+need for innovative approaches to include their membership base in con-<br />
+tributing information about how they currently use their lands and<br />
+resources. This was a vital step in informing referral decision making,<br />
+but also served to include the broader community in land-management<br />
+processes. We therefore feel that the components of Gather, including an<br />
+intuitive interface, the associated mobile apps and an industry upload<br />
+section, mean that the tool is relatively easy to use once it is set up. How-<br />
+ever, we recognise that several critical obstacles to successful and long-<br />
+term usability remain. The principal issue is that of connectivity. Many<br />
+areas in northern [[Canada]] remain outside of mobile phone coverage. Many<br />
+communities find it hard to maintain servers and server architecture<br />
+within the community. Therefore, if communities want to manage the<br />
+referrals effectively, they have often turned to commercial solutions. How-<br />
+ever, the cost of these solutions, as well as other challenges related to<br />
+usability, make it a difficult choice for many small communities to make.<br />
+Despite the barriers identified, the project has drawn considerable<br />
+interest among our project partners, as well as other First Nation com-<br />
+munities throughout [[Canada]]. We anticipate having an operational ver-<br />
+sion of the software available to communities by mid-[[2020]] using an<br />
+open-source licence. We continue to be somewhat concerned about the<br />
+ongoing sustainability of the software because, as with any open-source<br />
+project, there will be a need to update both the usability as well as the<br />
+security required by the software in the future. We will therefore likely<br />
+consider some form of donation model from our users. However, this will<br />
+not be obligatory. In the meantime, we have secured grant funding for<br />
+the next three years (until [[2022]]) and will continue to improve function-<br />
+ality and scale up and make Gather available to whomever might want to<br />
+use the software.</p>
+<h2>6. Lessons learned</h2>
+<ul>
+<li>Be prepared to let go of your preconceived notions of what is needed.<br />
+  Just because it worked in the past or in another community does<br />
+  not mean that it will work in new contexts.</li>
+<li>Be sufficiently agile to develop tools that suit the needs, capacity<br />
+  and limitations of the community with whom you work and regions<br />
+  in which you are based.</li>
+<li>Try to remain separated from enduring and embedded politics, rec-<br />
+  ognising the need to seek to develop relationships with all potential<br />
+  actors, not just the easy ones.</li>
+</ul>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p>226 GEOGRAPHIC CITIZEN SCIENCE DESIGN</p>
+<ul>
+<li>Ensure that all partners have a collective and common understand-<br />
+  ing of the purpose(s) of the project. Sometimes, it is useful to docu-<br />
+  ment this in a project charter so that if there are disruptions in the<br />
+  project, this road map may help reorient and reinvigorate your<br />
+  efforts.</li>
+</ul>
+<h2>Acknowledgements</h2>
+<p><code>We would like to acknowledge respectfully the ideas, input and enthusi-
+asm of the lands managers from the Beaverhouse First Nation, [[Brunswick]]
+House First Nation, Chapleau Ojibway First Nation, Flying Post First Nation
+and Matachewan First Nation, as well as the members of Wabun Tribal
+Council and the Resource Department of the Saulteau First Nations. We
+would also like to formally recognise our project funders, the Firelight
+Group, Mitacs, the Real Estate Foundation of [[British]] Columbia and the
+Mitsubishi Corporation Foundation for the [[America]]s.</code></p>
+<h2>Notes</h2>
+<p><code>1 In [[Canada]], the [[Crown]] is the source of sovereign authority and a part of the legislative, execu-
+tive and judicial powers that govern the country (Harris [[2006]]). The term is commonly used
+to refer to the functions of the [[government]].
+2 First Nations is a term used to describe the [[indigenous]] peoples of [[Canada]]. They have been
+present on the land since time immemorial. There are more than 600 First Nations communi-
+ties in [[Canada]], speaking more than 100 distinct languages.</code></p>
+<h2>References</h2>
+<p><code>Aker, Jenny C., and Isaac M. Mbiti. [[2010]]. ‘Mobile phones and economic development in [[Africa]]’,
+Journal of Economic Perspectives 24: 207–32.
+Alfred, Taiaiake, and Jeff Corntassel. [[2005]]. ‘Being [[indigenous]]: Resurgences against contemporary
+[[colonialism]]’, Government and Opposition 40: 597–614.
+Angell, Angela C., and John R. Parkins. [[2011]]. ‘Resource development and [[aboriginal]] culture in
+the [[Canadian]] north’, Polar Record 47: 67–79.
+Berkes, Fikret. [[2017]]. Sacred Ecology , 4th ed. [[New]] York: Routledge.
+Berkes, Fikret, Carl Folke and Johan Colding. [[2000]]. Linking Social and Ecological Systems:
+Management practices and social mechanisms for building resilience. Cambridge: Cambridge
+University Press.
+Borrows, John. [[1994]]. ‘Constitutional law from a First Nation perspective: Self-[[government]] and
+the Royal Proclamation’, University of [[British]] Columbia Law Review 28: 1–47.
+Caine, Ken J., and Naomi Krogman. [[2010]]. ‘Powerful or just plain power-full? A power analysis of
+impact and benefit agreements in [[Canada]]’s north’, Organization and Environment 23: 76–98.
+[[Canadian]] Chamber of Commerce. [[2016]]. Seizing Six Opportunities for More Clarity in the Duty to
+Consult and Accommodate Process. [[Ottawa]]: [[Canadian]] Chamber of Commerce.
+Ecotrust [[Canada]]. [[2017]]. Referrals Software an Analysis of Options. Portland, OR: Ecotrust [[Canada]]
+and [[Aboriginal]] Mapping Network.</code></p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+<p><code>dEvELoPing A rEfErrALS MAnAgEMEnt tooL in nortHErn CAnAdA 227</code></p>
+<p>Foster, Hamar, Heather Raven and Jeremy Webber. [[2011]]. <em>Let Right Be Done: [[Aboriginal]] title, the<br />
+Calder case, and the future of [[indigenous]] rights</em>. [[Vancouver]], [[Canada]]: UBC Press.<br />
+Gogal, Sandra, Richard Reigert and JoAnn Jamieson. [[2005]]. ‘[[Aboriginal]] impact and benefit<br />
+agreements: Practical considerations’, <em>Alberta Law Review</em> 43: 129.<br />
+Harris, Carolyn. [[2006]]. [[Crown]]. Accessed 21 [[September]] [[2020]]. https:// www. thecanadian<br />
+encyclopedia. ca / en / article / crown.<br />
+Hayter, Roger. [[2003]]. ‘ “The [[War]] in the Woods”: Post-Fordist restructuring, globalization, and the<br />
+contested remapping of [[British]] Columbia’s forest economy’, <em>Annals of the Association of Ameri-<br />
+can Geographers</em> 93: 706–29.<br />
+[[Israel]], Barbara A., Amy J. Schulz, Edith A. Parker and Adam B. Becker. [[2001]]. ‘Community-based<br />
+participatory [[research]]: Policy recommendations for promoting a partnership approach in<br />
+[[health]] [[research]]’, <em>Education for Health (Abingdon, England)</em> 14: 182–97.<br />
+Joseph, Bob. [[2015]]. 12 Common mistakes in First Nation consultation. Accessed 21 Febru-<br />
+ary [[2017]]. <a href="https://pdf2md.morethan.io//http://">http://</a> www. ictinc. ca / blog / 12 - common - mistakes - in - first - nation - consultation.<br />
+Kovach, Margaret. [[2010]]. <em>[[Indigenous]] Methodologies: Characteristics, conversations, and contexts</em>.<br />
+[[Toronto]], [[Canada]]: University of [[Toronto]] Press.<br />
+Minkler, Meredith, and Nina Wallerstein. [[2011]]. <em>Community-Based Participatory [[Research]] for<br />
+Health: From process to outcomes</em>. San Francisco, CA: John Wiley.<br />
+Morse, Bradford W. [[2017]]. ‘Tsilhqot’in Nation v. [[British]] Columbia: Is it a game changer in [[Canadian]]<br />
+[[aboriginal]] title law and [[Crown]]–[[Indigenous]] Relations?’, <em>Lakehead Law Journal</em> 2: 65–88.<br />
+Power, Alex. [[2017]]. ‘Duty to consult’ a cruel joke if First Nations can’t handle the load. Accessed<br />
+12 [[February]] [[2020]]. https:// thetyee. ca / Opinion / [[2017]] / 01 / 16 / Duty - Consult - Cruel - Joke /.<br />
+Rashid, Ahmed T., and Laurent Elder. [[2009]]. ‘Mobile phones and development: An analysis of<br />
+IDRC-supported projects’, <em>The Electronic Journal of Information Systems in Developing<br />
+Countries</em> 36: 1–16.<br />
+Saulteau First Nations. [[2015]]. <em>Our Comprehensive Community Plan</em>. Moberly Lake, [[Canada]]:<br />
+Saulteau First Nations.<br />
+Smith, Linda Tuhiwai. [[2013]]. <em>Decolonizing Methodologies: [[Research]] and [[indigenous]] peoples</em>. London:<br />
+Zed Books.<br />
+Turner, Nancy J., Marianne Boelscher Ignace and Ronald Ignace. [[2000]]. ‘Traditional ecological<br />
+knowledge and wisdom of [[aboriginal]] peoples in [[British]] Columbia’, <em>Ecological Applications</em> 10:<br />
+1275–87.<br />
+WikiWikiWeb. [[2005]]. Just in time programming. Accessed 2 [[March]] [[2019]]. <a href="https://pdf2md.morethan.io//http://">http://</a> c2. com / xp<br />
+/ JustInTime[[Programming]]. html.<br />
+Zietsma, Charlene, Monika Winn, Oana Branzei and Ilan Vertinsky. [[2002]]. ‘The [[War]] of the Woods:<br />
+Facilitators and impediments of organizational learning processes’, <em>[[British]] Journal of<br />
+Management</em> 13: S61–74.</p>
+<p><code>This content downloaded from 192.30.202.8 on Fri, 16 Jul 2021 02:25:43 UTC</code></p>
+	{% endblock %}

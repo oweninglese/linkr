@@ -4,4 +4,23 @@ site_author: ohmanfoo
 site_url: https://ohmanfoo.github.io/linkr
 repo_url: https://ohmanfoo.github.io/linkr.git
 docs_dir: docs
-theme: readthedocs
+theme: 
+  name: readthedocs
+  features:
+    - instant
+    - search
+    - navigation.tabs
+    - navigation.instant
+    - navigation.expand
+    - navigation.tabs.sticky
+    - navigation.tabs.active
+    - navigation.tabs.location
+    - navigation.tabs.toc
+    - navigation.tabs.toc.numbered
+    - navigation.tabs.toc.depth
+    - navigation.tabs.toc.collapse
+    - navigation.tabs.toc.collapse.single
+    - navigation.tabs.toc.collapse.open
+    - navigation.tabs.toc.collapse.depth
+
+# Extensions

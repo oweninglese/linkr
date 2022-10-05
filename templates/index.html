@@ -1,6 +1,25 @@
 {% extends "base.html"  %}
+
     {% block content %}
-        {% for post in posts %}
-            <a href="{{ post|e }}">{{ post|e }}</a>
-        {% endfor %}
+    <div id="file">
+    {% block file %}
+    {% endblock %}
+    </div>
+    <div id="nav">    
+        {% if nav %}
+            <h1>NAVIGATION:</h1>
+            <ul>
+                {% for item in nav %}
+                    {% for i in item %}
+                        <ol class="articles">{{ i }}</ol>
+                        {% for j in nav[i] %}
+                            <a class ="article" href="/site/{{ j|e }}">{{ j }}</a>,
+                        {% endfor %}
+                    {% endfor %}
+                {% endfor %}
+            </ul>
+            {% else %}
+                <p>NAVI: None</p>
+        {% endif %}
+    </div>
     {% endblock %}
